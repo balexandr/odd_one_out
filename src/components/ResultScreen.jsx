@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import styles from './ResultScreen.module.css';
 
 export default function ResultScreen({
@@ -7,21 +7,36 @@ export default function ResultScreen({
   puzzle,
   words,
   shareText,
+  allShareText,
+  completedCount,
   onPlayAgain,
   onRecordStats,
   availableDifficulties,
   allCompleted,
 }) {
-  const [copied, setCopied] = useState(false);
+  const [copiedLabel, setCopiedLabel] = useState('');
+  const [previewMode, setPreviewMode] = useState('single');
+  const didRecordRef = useRef(false);
 
   useEffect(() => {
-    onRecordStats(won);
+    if (!didRecordRef.current) {
+      onRecordStats(won);
+      didRecordRef.current = true;
+    }
   }, [won, onRecordStats]);
 
-  const handleShare = async () => {
+  useEffect(() => {
+    if (completedCount > 1) {
+      setPreviewMode('all');
+    }
+  }, [completedCount]);
+
+  const previewText = previewMode === 'all' && completedCount > 1 ? allShareText : shareText;
+
+  const shareToDevice = async (text, copiedMessage) => {
     if (navigator.share) {
       try {
-        await navigator.share({ text: shareText });
+        await navigator.share({ text });
         return;
       } catch {
         // User cancelled or share failed; fall through to clipboard.
@@ -29,10 +44,10 @@ export default function ResultScreen({
     }
 
     try {
-      await navigator.clipboard.writeText(shareText);
+      await navigator.clipboard.writeText(text);
     } catch {
       const textarea = document.createElement('textarea');
-      textarea.value = shareText;
+      textarea.value = text;
       textarea.style.position = 'fixed';
       textarea.style.opacity = '0';
       document.body.appendChild(textarea);
@@ -41,8 +56,18 @@ export default function ResultScreen({
       document.body.removeChild(textarea);
     }
 
-    setCopied(true);
-    setTimeout(() => setCopied(false), 2500);
+    setCopiedLabel(copiedMessage);
+    setTimeout(() => setCopiedLabel(''), 2500);
+  };
+
+  const handleShareSingle = async () => {
+    setPreviewMode('single');
+    await shareToDevice(shareText, '✓ Copied this difficulty');
+  };
+
+  const handleShareAll = async () => {
+    setPreviewMode('all');
+    await shareToDevice(allShareText, '✓ Copied all completed');
   };
 
   return (
@@ -68,11 +93,21 @@ export default function ResultScreen({
 
         <div className={styles.actions}>
           <button
-            className={`${styles.shareButton} ${copied ? styles.copied : ''}`}
-            onClick={handleShare}
+            className={`${styles.shareButton} ${copiedLabel === '✓ Copied this difficulty' ? styles.copied : ''}`}
+            onClick={handleShareSingle}
           >
-            {copied ? '✓ Copied to clipboard' : 'Share your result'}
+            {copiedLabel === '✓ Copied this difficulty' ? copiedLabel : 'Share this difficulty'}
           </button>
+          {completedCount > 1 && (
+            <button
+              className={`${styles.shareAllButton} ${copiedLabel === '✓ Copied all completed' ? styles.copied : ''}`}
+              onClick={handleShareAll}
+            >
+              {copiedLabel === '✓ Copied all completed'
+                ? copiedLabel
+                : `Share all completed (${completedCount})`}
+            </button>
+          )}
           {!allCompleted && availableDifficulties.length > 0 ? (
             <button className={styles.playButton} onClick={onPlayAgain}>
               Play {availableDifficulties[0].charAt(0).toUpperCase() +
@@ -88,7 +123,10 @@ export default function ResultScreen({
         </div>
 
         <div className={styles.sharePreview}>
-          <pre className={styles.previewText}>{shareText}</pre>
+          <div className={styles.previewLabel}>
+            Preview: {previewMode === 'all' && completedCount > 1 ? 'All completed' : 'This difficulty'}
+          </div>
+          <pre className={styles.previewText}>{previewText}</pre>
         </div>
       </div>
     </div>

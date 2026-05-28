@@ -67,6 +67,7 @@
 }
 
 .shareButton,
+.shareAllButton,
 .playButton {
   padding: 12px;
   border-radius: 6px;
@@ -88,9 +89,25 @@
   transform: translateY(-1px);
 }
 
+.shareAllButton {
+  background-color: #3a3112;
+  border: 2px solid #facc15;
+  color: #facc15;
+}
+
+.shareAllButton:hover {
+  background-color: #4a3f14;
+  transform: translateY(-1px);
+}
+
 .shareButton.copied {
   background-color: #244a24;
   color: #d9ffe7;
+}
+
+.shareAllButton.copied {
+  background-color: #4a3f14;
+  color: #fff7cc;
 }
 
 .playButton {
@@ -124,6 +141,14 @@
   margin-bottom: 16px;
 }
 
+.previewLabel {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+  margin-bottom: 8px;
+}
+
 .previewText {
   font-size: 0.75rem;
   color: #999;
@@ -152,6 +177,7 @@
   }
 
   .shareButton,
+  .shareAllButton,
   .playButton {
     padding: 10px;
     font-size: 0.9rem;

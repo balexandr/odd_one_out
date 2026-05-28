@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useGameState } from './hooks/useGameState';
 import { useStats } from './hooks/useStats';
 import Header from './components/Header';
@@ -50,9 +50,9 @@ export default function App() {
     }
   };
 
-  const handleRecordStats = (won) => {
+  const handleRecordStats = useCallback((won) => {
     statsHook.recordGame(won, gameState.difficulty);
-  };
+  }, [statsHook.recordGame, gameState.difficulty]);
 
   if (!gameState.initialized || !statsHook.initialized) {
     return <div className={styles.loading}>Loading...</div>;
@@ -94,6 +94,8 @@ export default function App() {
           puzzle={gameState.puzzle}
           words={gameState.words}
           shareText={gameState.generateShareText()}
+          allShareText={gameState.generateCombinedShareText(statsHook.playedToday)}
+          completedCount={statsHook.playedToday.length}
           onPlayAgain={handlePlayAgain}
           onRecordStats={handleRecordStats}
           availableDifficulties={statsHook.getAvailableDifficulties()}

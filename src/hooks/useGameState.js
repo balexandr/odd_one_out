@@ -2,8 +2,16 @@ import { useState, useCallback, useEffect } from 'react';
 import puzzles from '../data/puzzles.json';
 
 const STORAGE_KEY = 'odd-one-out-game-state';
+const SHARE_RESULTS_KEY = 'odd-one-out-share-results';
 const EPOCH = '2026-05-12';
 const MAX_ATTEMPTS = 3;
+const DIFFICULTY_ORDER = ['easy', 'medium', 'hard'];
+
+const DIFFICULTY_EMOJI = {
+  easy: '🟩',
+  medium: '🟨',
+  hard: '🟥',
+};
 
 function getTodayKey() {
   const d = new Date();
@@ -31,6 +39,50 @@ function saveState(state) {
   } catch {
     // localStorage unavailable
   }
+}
+
+function loadShareResults() {
+  try {
+    const raw = localStorage.getItem(SHARE_RESULTS_KEY);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === 'object' ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveShareResults(value) {
+  try {
+    localStorage.setItem(SHARE_RESULTS_KEY, JSON.stringify(value));
+  } catch {
+    // localStorage unavailable
+  }
+}
+
+function formatDifficultyLabel(value) {
+  return value.charAt(0).toUpperCase() + value.slice(1);
+}
+
+function buildShareEntry({ difficulty, gameStatus, guesses, words, puzzleNumber }) {
+  const result = gameStatus === 'won' ? `${guesses.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`;
+  const difficultyLabel = formatDifficultyLabel(difficulty);
+  const lines = guesses.map((guess) =>
+    words
+      .map((_, i) => {
+        if (i !== guess.index) return '⬜';
+        return guess.isCorrect ? DIFFICULTY_EMOJI[difficulty] : '🟥';
+      })
+      .join('')
+  );
+
+  return {
+    difficulty,
+    difficultyLabel,
+    result,
+    lines,
+    text: `Odd One Out #${puzzleNumber} ${result}\n${difficultyLabel}\n\n${lines.join('\n')}`,
+  };
 }
 
 export function useGameState() {
@@ -86,6 +138,30 @@ export function useGameState() {
     });
   }, [words, guesses, gameStatus, feedback, initialized, difficulty, dateKey, puzzle]);
 
+  useEffect(() => {
+    if (!initialized || !puzzle || gameStatus === 'playing') return;
+
+    const entry = buildShareEntry({
+      difficulty,
+      gameStatus,
+      guesses,
+      words,
+      puzzleNumber,
+    });
+
+    const shareResults = loadShareResults();
+    const todayResults = shareResults[dateKey] && typeof shareResults[dateKey] === 'object'
+      ? shareResults[dateKey]
+      : {};
+
+    shareResults[dateKey] = {
+      ...todayResults,
+      [difficulty]: entry,
+    };
+
+    saveShareResults(shareResults);
+  }, [initialized, puzzle, gameStatus, difficulty, guesses, words, puzzleNumber, dateKey]);
+
   const selectWord = useCallback(
     (index) => {
       if (gameStatus !== 'playing') return;
@@ -116,25 +192,50 @@ export function useGameState() {
   }, []);
 
   const generateShareText = useCallback(() => {
-    const difficultyEmoji = {
-      easy: '🟩',
-      medium: '🟨',
-      hard: '🟥',
-    };
-    const result = gameStatus === 'won' ? `${guesses.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`;
-    const difficultyLabel = difficulty.charAt(0).toUpperCase() + difficulty.slice(1);
-    const lines = guesses.map((guess) =>
-      words
-        .map((_, i) => {
-          if (i !== guess.index) return '⬜';
-          return guess.isCorrect ? difficultyEmoji[difficulty] : '🟥';
-        })
-        .join('')
-    );
-    const header = `Odd One Out #${puzzleNumber}`;
+    return buildShareEntry({
+      difficulty,
+      gameStatus,
+      guesses,
+      words,
+      puzzleNumber,
+    }).text;
+  }, [difficulty, gameStatus, guesses, words, puzzleNumber]);
 
-    return `${header} ${result}\n${difficultyLabel}\n\n${lines.join('\n')}`;
-  }, [difficulty, gameStatus, guesses, puzzleNumber, words]);
+  const generateCombinedShareText = useCallback((completedDifficulties = []) => {
+    const currentEntry = buildShareEntry({
+      difficulty,
+      gameStatus,
+      guesses,
+      words,
+      puzzleNumber,
+    });
+
+    const shareResults = loadShareResults();
+    const todayResults = shareResults[dateKey] && typeof shareResults[dateKey] === 'object'
+      ? shareResults[dateKey]
+      : {};
+
+    const uniqueCompleted = Array.from(new Set(completedDifficulties));
+    const orderedCompleted = DIFFICULTY_ORDER.filter((d) => uniqueCompleted.includes(d));
+    const targetDifficulties = orderedCompleted.length > 0 ? orderedCompleted : [difficulty];
+
+    const entries = targetDifficulties
+      .map((d) => {
+        if (d === difficulty) return currentEntry;
+        return todayResults[d] || null;
+      })
+      .filter(Boolean);
+
+    if (entries.length <= 1) {
+      return currentEntry.text;
+    }
+
+    const combinedLines = entries
+      .map((entry) => `${DIFFICULTY_EMOJI[entry.difficulty]} ${entry.difficultyLabel} ${entry.result}\n${entry.lines.join('\n')}`)
+      .join('\n\n');
+
+    return `Odd One Out #${puzzleNumber} Daily Recap\n\n${combinedLines}`;
+  }, [difficulty, gameStatus, guesses, words, puzzleNumber, dateKey]);
 
   return {
     puzzle,
@@ -150,5 +251,6 @@ export function useGameState() {
     selectWord,
     changeDifficulty,
     generateShareText,
+    generateCombinedShareText,
   };
 }

@@ -131,6 +131,15 @@ export function useStats() {
   const recordGame = useCallback((won, difficulty) => {
     const today = getTodayKey();
 
+    const playedByDate = loadPlayedByDateFromLocalStorage();
+    const alreadyRecordedToday = Array.isArray(playedByDate[today])
+      && playedByDate[today].includes(difficulty);
+
+    if (alreadyRecordedToday) {
+      setPlayedToday((prev) => (prev.includes(difficulty) ? prev : [...prev, difficulty]));
+      return;
+    }
+
     setStats((prev) => {
       const newStats = {
         played: prev.played + 1,
@@ -148,9 +157,9 @@ export function useStats() {
     setPlayedToday((prev) => {
       const updated = Array.from(new Set([...prev, difficulty]));
 
-      const playedByDate = loadPlayedByDateFromLocalStorage();
-      playedByDate[today] = updated;
-      savePlayedByDateToLocalStorage(playedByDate);
+      const latestPlayedByDate = loadPlayedByDateFromLocalStorage();
+      latestPlayedByDate[today] = updated;
+      savePlayedByDateToLocalStorage(latestPlayedByDate);
 
       return updated;
     });
