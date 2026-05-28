@@ -1,0 +1,40 @@
+import WordTile from './WordTile';
+import styles from './GameBoard.module.css';
+
+export default function GameBoard({
+  words,
+  onSelectWord,
+  guesses,
+  oddOne,
+}) {
+  const getGuessState = (index) => {
+    const guess = guesses.find((g) => g.index === index);
+    if (!guess) return null;
+    return guess.isCorrect ? 'correct' : 'incorrect';
+  };
+
+  return (
+    <div className={styles.container}>
+      <div className={styles.question}>Pick the odd one out</div>
+      <div className={styles.grid}>
+        {words.map((word, index) => (
+          <WordTile
+            key={index}
+            word={word}
+            index={index}
+            onClick={() => onSelectWord(index)}
+            state={getGuessState(index)}
+            disabled={guesses.length > 0}
+            isOddOne={oddOne === index}
+          />
+        ))}
+      </div>
+
+      {guesses.length > 0 && guesses.length < 3 && (
+        <div className={styles.attemptsRemaining}>
+          {3 - guesses.length} attempt{3 - guesses.length !== 1 ? 's' : ''} remaining
+        </div>
+      )}
+    </div>
+  );
+}

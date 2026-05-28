@@ -1,0 +1,159 @@
+.container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+}
+
+.content {
+  width: 100%;
+  max-width: 360px;
+}
+
+.result {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 8px;
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.message {
+  text-align: center;
+  color: #999;
+  margin-bottom: 24px;
+  font-size: 0.95rem;
+}
+
+.explanation {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.oddOneWord {
+  font-size: 1.4rem;
+  font-weight: 700;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #4ade80;
+  margin-bottom: 8px;
+  letter-spacing: 0.05em;
+}
+
+.category {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0 0 8px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.explanationText {
+  color: #ccc;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.shareButton,
+.playButton {
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  cursor: pointer;
+  border: none;
+}
+
+.shareButton {
+  background-color: #1a3a1a;
+  border: 2px solid #4ade80;
+  color: #4ade80;
+}
+
+.shareButton:hover {
+  background-color: #244a24;
+  transform: translateY(-1px);
+}
+
+.shareButton.copied {
+  background-color: #244a24;
+  color: #d9ffe7;
+}
+
+.playButton {
+  background-color: #1a1a2e;
+  border: 2px solid #6b7ff8;
+  color: #6b7ff8;
+}
+
+.playButton:hover {
+  background-color: #252540;
+  transform: translateY(-1px);
+}
+
+.completedMessage {
+  padding: 12px;
+  border-radius: 6px;
+  background-color: #1a2e1a;
+  border: 2px solid #4ade80;
+  color: #4ade80;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.sharePreview {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+
+.previewText {
+  font-size: 0.75rem;
+  color: #999;
+  margin: 0;
+  font-family: 'DM Sans', monospace;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 16px 12px;
+  }
+
+  .result {
+    font-size: 1.6rem;
+  }
+
+  .explanation {
+    padding: 12px;
+  }
+
+  .oddOneWord {
+    font-size: 1.2rem;
+  }
+
+  .shareButton,
+  .playButton {
+    padding: 10px;
+    font-size: 0.9rem;
+  }
+}
