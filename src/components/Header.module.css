@@ -29,6 +29,22 @@
   margin: 0;
 }
 
+.titleAccent {
+  display: inline;
+}
+
+.accentO {
+  color: #4ade80;
+}
+
+.accentN {
+  color: #facc15;
+}
+
+.accentE {
+  color: #ef4444;
+}
+
 .puzzleNumber {
   position: relative;
   display: inline-flex;

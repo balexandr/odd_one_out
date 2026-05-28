@@ -14,7 +14,11 @@ export default function Header({
     <header className={styles.header}>
       <div className={styles.top}>
         <div className={styles.titleWrap}>
-          <h1 className={styles.title}>ODD ONE OUT</h1>
+          <h1 className={styles.title}>
+            ODD <span className={styles.titleAccent}>
+              <span className={styles.accentO}>O</span><span className={styles.accentN}>N</span><span className={styles.accentE}>E</span>
+            </span> OUT
+          </h1>
           {puzzleNumber ? <span className={styles.puzzleNumber}>#{puzzleNumber}</span> : null}
         </div>
         <div className={styles.actions}>

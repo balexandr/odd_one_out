@@ -8,7 +8,7 @@
   border: 2px solid #333;
   border-radius: 12px;
   padding: 16px;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
@@ -60,7 +60,7 @@
 
 @media (max-width: 480px) {
   .tile {
-    font-size: 0.95rem;
+    font-size: 1.15rem;
     padding: 12px;
     border-radius: 10px;
   }
