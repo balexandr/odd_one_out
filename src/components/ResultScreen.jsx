@@ -26,12 +26,15 @@ export default function ResultScreen({
   }, [won, onRecordStats]);
 
   useEffect(() => {
-    if (completedCount > 1) {
+    if (completedCount > 1 && allShareText && allShareText !== shareText) {
       setPreviewMode('all');
+    } else {
+      setPreviewMode('single');
     }
-  }, [completedCount]);
+  }, [completedCount, allShareText, shareText]);
 
-  const previewText = previewMode === 'all' && completedCount > 1 ? allShareText : shareText;
+  const canShareAll = completedCount > 1 && Boolean(allShareText) && allShareText !== shareText;
+  const previewText = previewMode === 'all' && canShareAll ? allShareText : shareText;
 
   const shareToDevice = async (text, copiedMessage) => {
     if (navigator.share) {
@@ -98,7 +101,7 @@ export default function ResultScreen({
           >
             {copiedLabel === '✓ Copied this difficulty' ? copiedLabel : 'Share this difficulty'}
           </button>
-          {completedCount > 1 && (
+          {canShareAll && (
             <button
               className={`${styles.shareAllButton} ${copiedLabel === '✓ Copied all completed' ? styles.copied : ''}`}
               onClick={handleShareAll}

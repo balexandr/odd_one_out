@@ -67,21 +67,16 @@ function formatDifficultyLabel(value) {
 function buildShareEntry({ difficulty, gameStatus, guesses, words, puzzleNumber }) {
   const result = gameStatus === 'won' ? `${guesses.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`;
   const difficultyLabel = formatDifficultyLabel(difficulty);
-  const lines = guesses.map((guess) =>
-    words
-      .map((_, i) => {
-        if (i !== guess.index) return '⬜';
-        return guess.isCorrect ? DIFFICULTY_EMOJI[difficulty] : '🟥';
-      })
-      .join('')
-  );
+  const attemptSummary = guesses
+    .map((guess) => `${DIFFICULTY_EMOJI[difficulty]}${guess.isCorrect ? '✅' : '❌'}`)
+    .join(' ');
 
   return {
     difficulty,
     difficultyLabel,
     result,
-    lines,
-    text: `Odd One Out #${puzzleNumber} ${result}\n${difficultyLabel}\n\n${lines.join('\n')}`,
+    attemptSummary,
+    text: `Odd One Out #${puzzleNumber} ${result}\n${difficultyLabel}\nAttempts: ${attemptSummary || '—'}`,
   };
 }
 
@@ -231,7 +226,7 @@ export function useGameState() {
     }
 
     const combinedLines = entries
-      .map((entry) => `${DIFFICULTY_EMOJI[entry.difficulty]} ${entry.difficultyLabel} ${entry.result}\n${entry.lines.join('\n')}`)
+      .map((entry) => `${DIFFICULTY_EMOJI[entry.difficulty]} ${entry.difficultyLabel} ${entry.result}\nAttempts: ${entry.attemptSummary || '—'}`)
       .join('\n\n');
 
     return `Odd One Out #${puzzleNumber} Daily Recap\n\n${combinedLines}`;

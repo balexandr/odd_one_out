@@ -68,6 +68,52 @@ function savePlayedByDateToLocalStorage(playedByDate) {
   }
 }
 
+function countPlayedFromByDate(playedByDate) {
+  if (!playedByDate || typeof playedByDate !== 'object') return 0;
+  return Object.values(playedByDate).reduce((total, dayValue) => {
+    if (!Array.isArray(dayValue)) return total;
+    const uniqueForDay = new Set(dayValue.filter((d) => ['easy', 'medium', 'hard'].includes(d)));
+    return total + uniqueForDay.size;
+  }, 0);
+}
+
+function normalizeStats(rawStats, derivedPlayed) {
+  const safe = rawStats && typeof rawStats === 'object'
+    ? rawStats
+    : { played: 0, wins: 0, currentStreak: 0, bestStreak: 0 };
+
+  const played = Math.max(0, Number.isFinite(safe.played) ? Math.trunc(safe.played) : 0);
+  const wins = Math.max(0, Number.isFinite(safe.wins) ? Math.trunc(safe.wins) : 0);
+  const currentStreak = Math.max(0, Number.isFinite(safe.currentStreak) ? Math.trunc(safe.currentStreak) : 0);
+  const bestStreak = Math.max(0, Number.isFinite(safe.bestStreak) ? Math.trunc(safe.bestStreak) : 0);
+
+  const normalizedPlayed = derivedPlayed;
+  const normalizedWins = Math.min(wins, normalizedPlayed);
+  const normalizedCurrentStreak = Math.min(currentStreak, normalizedPlayed);
+  const normalizedBestStreak = Math.max(normalizedCurrentStreak, Math.min(bestStreak, normalizedPlayed));
+
+  if (
+    played === normalizedPlayed
+    && wins === normalizedWins
+    && currentStreak === normalizedCurrentStreak
+    && bestStreak === normalizedBestStreak
+  ) {
+    return {
+      played,
+      wins,
+      currentStreak,
+      bestStreak,
+    };
+  }
+
+  return {
+    played: normalizedPlayed,
+    wins: normalizedWins,
+    currentStreak: normalizedCurrentStreak,
+    bestStreak: normalizedBestStreak,
+  };
+}
+
 export function useStats() {
   const [stats, setStats] = useState({
     played: 0,
@@ -82,24 +128,26 @@ export function useStats() {
     const today = getTodayKey();
 
     try {
+      let loadedStats = null;
+
       // 1) Load stats from localStorage (primary)
       const localStats = loadStatsFromLocalStorage();
       if (localStats) {
-        setStats(localStats);
+        loadedStats = localStats;
       } else {
         // 2) Migrate legacy cookie stats if present
         const legacyStatsRaw = readCookie(LEGACY_STATS_COOKIE);
         const legacyStats = safeParseJson(legacyStatsRaw, null);
         if (legacyStats) {
-          setStats(legacyStats);
-          saveStatsToLocalStorage(legacyStats);
+          loadedStats = legacyStats;
         }
       }
 
       // 1) Load played difficulties by date from localStorage (primary)
       const playedByDate = loadPlayedByDateFromLocalStorage();
+      let nextPlayedToday = [];
       if (Array.isArray(playedByDate[today])) {
-        setPlayedToday(playedByDate[today]);
+        nextPlayedToday = playedByDate[today];
       } else {
         // 2) Migrate legacy date cookie format if present
         const legacyPlayedRaw = readCookie(getLegacyPlayedCookieKey(today));
@@ -116,11 +164,18 @@ export function useStats() {
             : [];
 
         if (migratedPlayed.length > 0) {
-          setPlayedToday(migratedPlayed);
+          nextPlayedToday = migratedPlayed;
           const migratedByDate = { ...playedByDate, [today]: migratedPlayed };
           savePlayedByDateToLocalStorage(migratedByDate);
         }
       }
+
+      setPlayedToday(nextPlayedToday);
+
+      const derivedPlayed = countPlayedFromByDate(loadPlayedByDateFromLocalStorage());
+      const normalized = normalizeStats(loadedStats, derivedPlayed);
+      setStats(normalized);
+      saveStatsToLocalStorage(normalized);
     } catch {
       // Storage read/migration failed
     }
