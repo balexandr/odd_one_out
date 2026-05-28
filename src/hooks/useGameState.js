@@ -3,7 +3,7 @@ import puzzles from '../data/puzzles.json';
 
 const STORAGE_KEY = 'odd-one-out-game-state';
 const SHARE_RESULTS_KEY = 'odd-one-out-share-results';
-const EPOCH = '2026-05-12';
+const EPOCH = '2026-05-28';
 const DIFFICULTY_ORDER = ['easy', 'medium', 'hard'];
 
 const DIFFICULTY_EMOJI = {
@@ -14,9 +14,9 @@ const DIFFICULTY_EMOJI = {
 
 function getTodayKey() {
   const d = new Date();
-  const year = d.getFullYear();
-  const month = String(d.getMonth() + 1).padStart(2, '0');
-  const day = String(d.getDate()).padStart(2, '0');
+  const year = d.getUTCFullYear();
+  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
   return `${year}-${month}-${day}`;
 }
 
@@ -79,7 +79,9 @@ function buildShareEntry({ difficulty, gameStatus, guesses, words, puzzleNumber 
 
 export function useGameState() {
   const dateKey = getTodayKey();
-  const puzzleNumber = Math.floor((new Date(dateKey) - new Date(EPOCH)) / 86400000) + 1;
+  const epochMs = new Date(`${EPOCH}T00:00:00Z`).getTime();
+  const todayMs = new Date(`${dateKey}T00:00:00Z`).getTime();
+  const puzzleNumber = Math.floor((todayMs - epochMs) / 86400000) + 1;
   const [difficulty, setDifficulty] = useState('easy'); // 'easy' | 'medium' | 'hard'
   const [puzzle, setPuzzle] = useState(null);
   const [guesses, setGuesses] = useState([]);
