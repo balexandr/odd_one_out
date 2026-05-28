@@ -4,7 +4,6 @@ import puzzles from '../data/puzzles.json';
 const STORAGE_KEY = 'odd-one-out-game-state';
 const SHARE_RESULTS_KEY = 'odd-one-out-share-results';
 const EPOCH = '2026-05-12';
-const MAX_ATTEMPTS = 3;
 const DIFFICULTY_ORDER = ['easy', 'medium', 'hard'];
 
 const DIFFICULTY_EMOJI = {
@@ -65,18 +64,16 @@ function formatDifficultyLabel(value) {
 }
 
 function buildShareEntry({ difficulty, gameStatus, guesses, words, puzzleNumber }) {
-  const result = gameStatus === 'won' ? `${guesses.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`;
   const difficultyLabel = formatDifficultyLabel(difficulty);
-  const attemptSummary = guesses
-    .map((guess) => `${DIFFICULTY_EMOJI[difficulty]}${guess.isCorrect ? '✅' : '❌'}`)
-    .join(' ');
+  const statusIcon = gameStatus === 'won' ? '✅' : gameStatus === 'lost' ? '❌' : '⏳';
+  const summaryLine = `${DIFFICULTY_EMOJI[difficulty]} ${difficultyLabel} ${statusIcon}`;
 
   return {
     difficulty,
     difficultyLabel,
-    result,
-    attemptSummary,
-    text: `Odd One Out #${puzzleNumber} ${result}\n${difficultyLabel}\nAttempts: ${attemptSummary || '—'}`,
+    statusIcon,
+    summaryLine,
+    text: `Odd One Out #${puzzleNumber}\n${summaryLine}`,
   };
 }
 
@@ -225,11 +222,9 @@ export function useGameState() {
       return currentEntry.text;
     }
 
-    const combinedLines = entries
-      .map((entry) => `${DIFFICULTY_EMOJI[entry.difficulty]} ${entry.difficultyLabel} ${entry.result}\nAttempts: ${entry.attemptSummary || '—'}`)
-      .join('\n\n');
+    const combinedLines = entries.map((entry) => entry.summaryLine).join('\n');
 
-    return `Odd One Out #${puzzleNumber} Daily Recap\n\n${combinedLines}`;
+    return `Odd One Out #${puzzleNumber}\n${combinedLines}`;
   }, [difficulty, gameStatus, guesses, words, puzzleNumber, dateKey]);
 
   return {
