@@ -17,7 +17,7 @@
   text-align: center;
   word-wrap: break-word;
   font-family: 'Bebas Neue', sans-serif;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.15em;
 }
 
 .tile:hover:not(.disabled) {
