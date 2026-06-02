@@ -173,8 +173,8 @@ export function useGameState() {
 
       if (isCorrect) {
         setGameStatus('won');
-      } else if (guesses.length >= 2) {
-        // 3 strikes and you're out
+      } else {
+        // One attempt per difficulty
         setGameStatus('lost');
       }
     },

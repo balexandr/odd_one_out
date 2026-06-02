@@ -30,9 +30,9 @@ export default function GameBoard({
         ))}
       </div>
 
-      {guesses.length > 0 && guesses.length < 3 && (
+      {guesses.length === 0 && (
         <div className={styles.attemptsRemaining}>
-          {3 - guesses.length} attempt{3 - guesses.length !== 1 ? 's' : ''} remaining
+          1 attempt remaining
         </div>
       )}
     </div>
