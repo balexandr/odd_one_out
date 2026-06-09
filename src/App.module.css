@@ -2,10 +2,19 @@
   max-width: 480px;
   margin: 0 auto;
   min-height: 100vh;
-  background-color: #0a0a0a;
+  background-color: #0e0e0e;
+  background-image:
+    /* Strong diff-color spotlight from top */
+    radial-gradient(ellipse at 50% -10%, color-mix(in srgb, var(--diff-color, #22c55e) 14%, transparent) 0%, transparent 55%),
+    /* Vignette — darker edges */
+    radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(0,0,0,0.55) 100%),
+    /* Dot grid */
+    radial-gradient(circle, rgba(255,255,255,0.08) 1.5px, transparent 1.5px);
+  background-size: auto, auto, 24px 24px;
   display: flex;
   flex-direction: column;
   padding: 0;
+  transition: background-image 0.4s ease;
 }
 
 .loading {
@@ -51,7 +60,7 @@
 }
 
 .footerLink:hover {
-  color: #4ade80;
+  color: var(--diff-color, #4ade80);
 }
 
 @media (max-width: 480px) {

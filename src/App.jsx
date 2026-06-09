@@ -69,8 +69,10 @@ export default function App() {
     );
   }
 
+  const diffColor = { easy: '#22c55e', medium: '#f59e0b', hard: '#ef4444' }[gameState.difficulty];
+
   return (
-    <div className={styles.container}>
+    <div className={styles.container} style={{ '--diff-color': diffColor }}>
       <Header
         onStatsClick={() => setShowStats(true)}
         onHowToPlayClick={() => setShowHowToPlay(true)}

@@ -13,28 +13,33 @@ const DIFFICULTY_EMOJI = {
 };
 
 function getTodayKey() {
-  const d = new Date();
-  const year = d.getUTCFullYear();
-  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(d.getUTCDate()).padStart(2, '0');
-  return `${year}-${month}-${day}`;
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date());
 }
 
-function loadState(dateKey) {
+function loadDifficultyState(dateKey, difficulty) {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return null;
     const saved = JSON.parse(raw);
     if (saved.dateKey !== dateKey) return null;
-    return saved;
+    return saved.difficulties?.[difficulty] ?? null;
   } catch {
     return null;
   }
 }
 
-function saveState(state) {
+function saveDifficultyState(dateKey, difficulty, state) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    let stored = { dateKey, difficulties: {} };
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed.dateKey === dateKey) {
+        stored = { dateKey, difficulties: { ...(parsed.difficulties || {}) } };
+      }
+    }
+    stored.difficulties[difficulty] = state;
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(stored));
   } catch {
     // localStorage unavailable
   }
@@ -99,8 +104,8 @@ export function useGameState() {
       return;
     }
 
-    const saved = loadState(dateKey);
-    if (saved && saved.difficulty === difficulty) {
+    const saved = loadDifficultyState(dateKey, difficulty);
+    if (saved) {
       setWords(saved.words);
       setGuesses(saved.guesses);
       setGameStatus(saved.gameStatus);
@@ -119,17 +124,10 @@ export function useGameState() {
     setInitialized(true);
   }, [difficulty, dateKey]);
 
-  // Persist state changes
+  // Persist state changes per difficulty
   useEffect(() => {
     if (!initialized || !puzzle) return;
-    saveState({
-      dateKey,
-      difficulty,
-      words,
-      guesses,
-      gameStatus,
-      feedback,
-    });
+    saveDifficultyState(dateKey, difficulty, { words, guesses, gameStatus, feedback });
   }, [words, guesses, gameStatus, feedback, initialized, difficulty, dateKey, puzzle]);
 
   useEffect(() => {

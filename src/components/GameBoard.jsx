@@ -16,6 +16,7 @@ export default function GameBoard({
   return (
     <div className={styles.container}>
       <div className={styles.question}>Pick the odd one out</div>
+      <div className={styles.questionBar} />
       <div className={styles.grid}>
         {words.map((word, index) => (
           <WordTile
