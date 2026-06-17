@@ -84,6 +84,7 @@ export default function App() {
 
       {gameState.gameStatus === 'playing' ? (
         <GameBoard
+          key={gameState.difficulty}
           words={gameState.words}
           onSelectWord={gameState.selectWord}
           guesses={gameState.guesses}
