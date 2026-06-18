@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import WordTile from './WordTile';
 import styles from './GameBoard.module.css';
 
@@ -7,6 +8,13 @@ export default function GameBoard({
   guesses,
   oddOne,
 }) {
+  const [ready, setReady] = useState(false);
+
+  useEffect(() => {
+    const t = setTimeout(() => setReady(true), 350);
+    return () => clearTimeout(t);
+  }, []);
+
   const getGuessState = (index) => {
     const guess = guesses.find((g) => g.index === index);
     if (!guess) return null;
@@ -14,7 +22,7 @@ export default function GameBoard({
   };
 
   return (
-    <div className={styles.container}>
+    <div className={styles.container} style={ready ? undefined : { pointerEvents: 'none' }}>
       <div className={styles.question}>Pick the odd one out</div>
       <div className={styles.questionBar} />
       <div className={styles.grid}>
