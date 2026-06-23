@@ -13,6 +13,7 @@ export default function ResultScreen({
   onRecordStats,
   availableDifficulties,
   allCompleted,
+  onDismiss,
 }) {
   const [copiedLabel, setCopiedLabel] = useState('');
   const [previewMode, setPreviewMode] = useState('single');
@@ -76,6 +77,7 @@ export default function ResultScreen({
   return (
     <div className={styles.container}>
       <div className={styles.content}>
+        <button className={styles.closeBtn} onClick={onDismiss} aria-label="Close">✕</button>
         {won ? (
           <>
             <div className={styles.result}>🎉 Correct!</div>

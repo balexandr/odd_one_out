@@ -15,15 +15,15 @@ export default function App() {
   const statsHook = useStats();
   const [showHowToPlay, setShowHowToPlay] = useState(false);
   const [showStats, setShowStats] = useState(false);
+  const [resultDismissed, setResultDismissed] = useState(false);
   const currentYear = new Date().getFullYear();
 
   const footer = (
     <footer className={styles.footer}>
-      <span>© {currentYear} NoodleGames.co</span>
-      <span className={styles.footerDot}>•</span>
-      <a href="https://noodlegames.co" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>
-        noodlegames.co
+      <a href="https://noodlegames.co" target="_blank" rel="noopener noreferrer" className={styles.footerLogo}>
+        🍜 NoodleGames
       </a>
+      <span className={styles.footerCopy}>© {currentYear} NoodleGames.co</span>
     </footer>
   );
 
@@ -82,14 +82,16 @@ export default function App() {
         playedToday={statsHook.playedToday}
       />
 
-      {gameState.gameStatus === 'playing' ? (
-        <GameBoard
-          key={gameState.difficulty}
-          words={gameState.words}
-          onSelectWord={gameState.selectWord}
-          guesses={gameState.guesses}
-          oddOne={gameState.puzzle.oddOne}
-        />
+      {gameState.gameStatus === 'playing' || resultDismissed ? (
+        <>
+          <GameBoard
+            key={gameState.difficulty}
+            words={gameState.words}
+            onSelectWord={gameState.selectWord}
+            guesses={gameState.guesses}
+            oddOne={gameState.puzzle.oddOne}
+          />
+        </>
       ) : (
         <ResultScreen
           won={gameState.gameStatus === 'won'}
@@ -103,6 +105,7 @@ export default function App() {
           onRecordStats={handleRecordStats}
           availableDifficulties={statsHook.getAvailableDifficulties()}
           allCompleted={statsHook.allCompleted}
+          onDismiss={() => setResultDismissed(true)}
         />
       )}
 

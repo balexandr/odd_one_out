@@ -29,6 +29,7 @@ export default function StatsScreen({ stats, winPct, onClose }) {
             <div className={styles.statLabel}>Best</div>
           </div>
         </div>
+
       </div>
     </div>
   );

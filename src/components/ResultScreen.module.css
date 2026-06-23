@@ -9,6 +9,30 @@
 .content {
   width: 100%;
   max-width: 360px;
+  position: relative;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background: transparent;
+  color: #666;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.closeBtn:hover {
+  background: #1a1a1a;
+  color: #fff;
 }
 
 .result {
@@ -65,6 +89,7 @@
   gap: 8px;
   margin-bottom: 16px;
 }
+
 
 .shareButton,
 .shareAllButton,
