@@ -48,6 +48,9 @@
 }
 
 .footerLogo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
   font-weight: 600;
   font-size: 0.9rem;
   color: #ff6b4a;
