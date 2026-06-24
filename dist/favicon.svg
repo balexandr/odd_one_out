@@ -1,12 +1,7 @@
-<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="64" height="64" fill="#0a0a0a"/>
-  
-  <!-- Three colored rings (green, yellow, red) -->
-  <circle cx="32" cy="32" r="28" fill="none" stroke="#4ade80" stroke-width="2.5" stroke-dasharray="58.6 117.2" stroke-dashoffset="0"/>
-  <circle cx="32" cy="32" r="28" fill="none" stroke="#facc15" stroke-width="2.5" stroke-dasharray="58.6 117.2" stroke-dashoffset="-39"/>
-  <circle cx="32" cy="32" r="28" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-dasharray="58.6 117.2" stroke-dashoffset="-78"/>
-  
-  <!-- White O -->
-  <circle cx="32" cy="32" r="20" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#0a0a0a"/>
+  <circle cx="9"  cy="9"  r="6" fill="#d1d5db"/>
+  <circle cx="23" cy="9"  r="6" fill="#d1d5db"/>
+  <circle cx="9"  cy="23" r="6" fill="#d1d5db"/>
+  <polygon points="23,16 30,29 16,29" fill="#ff6b35"/>
 </svg>

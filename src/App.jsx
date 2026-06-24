@@ -7,6 +7,7 @@ import ResultScreen from './components/ResultScreen';
 import HowToPlay from './components/HowToPlay';
 import StatsScreen from './components/StatsScreen';
 import styles from './App.module.css';
+import { NoodleLogoIcon } from './components/NoodleLogo';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
 
@@ -21,7 +22,7 @@ export default function App() {
   const footer = (
     <footer className={styles.footer}>
       <a href="https://noodlegames.co" target="_blank" rel="noopener noreferrer" className={styles.footerLogo}>
-        🍜 NoodleGames
+        <NoodleLogoIcon size={18} /> NoodleGames
       </a>
       <span className={styles.footerCopy}>© {currentYear} NoodleGames.co</span>
     </footer>
