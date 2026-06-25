@@ -23,7 +23,15 @@
   gap: 6px;
 }
 
-/* Title — rendered as TitleLogo SVG component */
+/* Title */
+.title {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ff6b35;
+  line-height: 1;
+  margin: 0;
+}
 
 /* Puzzle number badge */
 .puzzleNumber {

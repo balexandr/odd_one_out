@@ -1,6 +1,5 @@
 import styles from './Header.module.css';
 import { GameLogo } from './GameLogo';
-import { TitleLogo } from './TitleLogo';
 
 const DIFF_META = {
   easy:   { emoji: '🟩', label: 'Easy' },
@@ -23,7 +22,7 @@ export default function Header({
       <div className={styles.top}>
         <div className={styles.titleWrap}>
           <GameLogo />
-          <TitleLogo />
+          <h1 className={styles.title}>Odd One Out</h1>
           {puzzleNumber && <span className={styles.puzzleNumber}>#{puzzleNumber}</span>}
         </div>
         <div className={styles.actions}>
