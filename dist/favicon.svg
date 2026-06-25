@@ -3,5 +3,5 @@
   <circle cx="9"  cy="9"  r="6" fill="#d1d5db"/>
   <circle cx="23" cy="9"  r="6" fill="#d1d5db"/>
   <circle cx="9"  cy="23" r="6" fill="#d1d5db"/>
-  <polygon points="23,16 30,29 16,29" fill="#ff6b35"/>
+  <polygon points="23,16 30,29 16,29" fill="#84cc16"/>
 </svg>

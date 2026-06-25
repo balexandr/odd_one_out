@@ -22,7 +22,7 @@ export default function Header({
       <div className={styles.top}>
         <div className={styles.titleWrap}>
           <GameLogo />
-          <h1 className={styles.title}>Odd One Out</h1>
+          <h1 className={styles.title}><span className={styles.titleOdd}>Odd</span> One Out</h1>
           {puzzleNumber && <span className={styles.puzzleNumber}>#{puzzleNumber}</span>}
         </div>
         <div className={styles.actions}>

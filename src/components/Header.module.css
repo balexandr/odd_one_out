@@ -28,9 +28,13 @@
   font-family: 'Fredoka', sans-serif;
   font-size: 1.5rem;
   font-weight: 600;
-  color: #ff6b35;
+  color: white;
   line-height: 1;
   margin: 0;
+}
+
+.titleOdd {
+  color: #84cc16;
 }
 
 /* Puzzle number badge */
