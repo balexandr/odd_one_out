@@ -1,5 +1,6 @@
 import styles from './Header.module.css';
 import { GameLogo } from './GameLogo';
+import { TitleLogo } from './TitleLogo';
 
 const DIFF_META = {
   easy:   { emoji: '🟩', label: 'Easy' },
@@ -22,13 +23,7 @@ export default function Header({
       <div className={styles.top}>
         <div className={styles.titleWrap}>
           <GameLogo />
-          <h1 className={styles.title}>
-            ODD <span>
-              <span className={styles.accentO}>O</span>
-              <span className={styles.accentN}>N</span>
-              <span className={styles.accentE}>E</span>
-            </span> OUT
-          </h1>
+          <TitleLogo />
           {puzzleNumber && <span className={styles.puzzleNumber}>#{puzzleNumber}</span>}
         </div>
         <div className={styles.actions}>
