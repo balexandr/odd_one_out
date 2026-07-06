@@ -2213,366 +2213,366 @@
     },
     "2026-11-29": {
       "words": [
-        "Rose",
-        "Tulip",
-        "Daisy",
-        "Carrot"
+        "Honda",
+        "Toyota",
+        "Ford",
+        "Tesla"
       ],
       "oddOne": 3,
-      "category": "Flowers vs Vegetable",
-      "explanation": "Carrot is a vegetable, while the others are flowers."
+      "category": "Gas Car Brands vs Electric Car Brand",
+      "explanation": "Tesla makes only electric cars, while the others are traditionally gas-powered car brands."
     },
     "2026-11-30": {
       "words": [
-        "Guitar",
-        "Drum",
-        "Piano",
-        "Football"
+        "Coca-Cola",
+        "Pepsi",
+        "Sprite",
+        "Nike"
       ],
       "oddOne": 3,
-      "category": "Musical Instruments vs Sport",
-      "explanation": "Football is a sport, while the others are musical instruments."
+      "category": "Soft Drinks vs Sportswear Brand",
+      "explanation": "Nike is a sportswear brand, while the others are soft drinks."
     },
     "2026-12-01": {
       "words": [
-        "Salmon",
-        "Trout",
-        "Tuna",
-        "Eagle"
-      ],
-      "oddOne": 3,
-      "category": "Fish vs Bird",
-      "explanation": "Eagle is a bird, while the others are fish."
-    },
-    "2026-12-02": {
-      "words": [
-        "Circle",
-        "Square",
-        "Triangle",
-        "Monday"
-      ],
-      "oddOne": 3,
-      "category": "Shapes vs Day",
-      "explanation": "Monday is a day of the week, while the others are shapes."
-    },
-    "2026-12-03": {
-      "words": [
-        "Doctor",
-        "Teacher",
-        "Lawyer",
-        "Kangaroo"
-      ],
-      "oddOne": 3,
-      "category": "Jobs vs Animal",
-      "explanation": "Kangaroo is an animal, while the others are jobs."
-    },
-    "2026-12-04": {
-      "words": [
-        "Diamond",
-        "Ruby",
-        "Emerald",
-        "Cotton"
-      ],
-      "oddOne": 3,
-      "category": "Gemstones vs Fabric",
-      "explanation": "Cotton is a fabric, while the others are gemstones."
-    },
-    "2026-12-05": {
-      "words": [
-        "Violin",
-        "Cello",
-        "Viola",
-        "Trumpet"
-      ],
-      "oddOne": 3,
-      "category": "String Instruments vs Wind",
-      "explanation": "Trumpet is a wind instrument, while Violin, Cello, and Viola are string instruments."
-    },
-    "2026-12-06": {
-      "words": [
-        "Sparrow",
-        "Robin",
-        "Pigeon",
-        "Dolphin"
-      ],
-      "oddOne": 3,
-      "category": "Birds vs Mammal",
-      "explanation": "Dolphin is a mammal, while the others are birds."
-    },
-    "2026-12-07": {
-      "words": [
-        "Chess",
-        "Checkers",
-        "Monopoly",
-        "Soccer"
-      ],
-      "oddOne": 3,
-      "category": "Board Games vs Sport",
-      "explanation": "Soccer is a sport, while the others are board games."
-    },
-    "2026-12-08": {
-      "words": [
-        "Sun",
-        "Moon",
-        "Star",
-        "Umbrella"
-      ],
-      "oddOne": 3,
-      "category": "Sky Objects vs Object",
-      "explanation": "Umbrella is an everyday object, while the others are objects seen in the sky."
-    },
-    "2026-12-09": {
-      "words": [
-        "Apple",
-        "Banana",
-        "Grape",
-        "Broccoli"
-      ],
-      "oddOne": 3,
-      "category": "Fruits vs Vegetable",
-      "explanation": "Broccoli is a vegetable, while the others are fruits."
-    },
-    "2026-12-10": {
-      "words": [
-        "Hammer",
-        "Wrench",
-        "Screwdriver",
-        "Sandwich"
-      ],
-      "oddOne": 3,
-      "category": "Tools vs Food",
-      "explanation": "Sandwich is food, while the others are tools."
-    },
-    "2026-12-11": {
-      "words": [
-        "Elephant",
-        "Giraffe",
-        "Lion",
-        "Goldfish"
-      ],
-      "oddOne": 3,
-      "category": "Land Animals vs Aquatic",
-      "explanation": "Goldfish is an aquatic animal, while the others live on land."
-    },
-    "2026-12-12": {
-      "words": [
-        "Winter",
-        "Summer",
-        "Autumn",
-        "Wednesday"
-      ],
-      "oddOne": 3,
-      "category": "Seasons vs Day",
-      "explanation": "Wednesday is a day of the week, while the others are seasons."
-    },
-    "2026-12-13": {
-      "words": [
-        "Red",
-        "Blue",
-        "Green",
-        "Circle"
-      ],
-      "oddOne": 3,
-      "category": "Colors vs Shape",
-      "explanation": "Circle is a shape, while the others are colors."
-    },
-    "2026-12-14": {
-      "words": [
-        "Table",
-        "Chair",
-        "Sofa",
-        "Cloud"
-      ],
-      "oddOne": 3,
-      "category": "Furniture vs Sky Object",
-      "explanation": "Cloud is found in the sky, while the others are furniture."
-    },
-    "2026-12-15": {
-      "words": [
-        "Shirt",
-        "Pants",
-        "Jacket",
-        "Spoon"
-      ],
-      "oddOne": 3,
-      "category": "Clothing vs Utensil",
-      "explanation": "Spoon is a utensil, while the others are clothing."
-    },
-    "2026-12-16": {
-      "words": [
-        "Whale",
-        "Dolphin",
-        "Shark",
+        "Penguin",
+        "Ostrich",
+        "Kiwi Bird",
         "Sparrow"
       ],
       "oddOne": 3,
-      "category": "Sea Animals vs Bird",
-      "explanation": "Sparrow is a bird, while the others are sea animals."
+      "category": "Flightless Birds vs Flying Bird",
+      "explanation": "Sparrow can fly, while the others are flightless birds."
+    },
+    "2026-12-02": {
+      "words": [
+        "Batman",
+        "Spider-Man",
+        "Superman",
+        "Sherlock Holmes"
+      ],
+      "oddOne": 3,
+      "category": "Superheroes vs Detective",
+      "explanation": "Sherlock Holmes is a detective, not a superhero, while the others are superheroes."
+    },
+    "2026-12-03": {
+      "words": [
+        "Cucumber",
+        "Zucchini",
+        "Lettuce",
+        "Orange"
+      ],
+      "oddOne": 3,
+      "category": "Green Vegetables vs Orange Fruit",
+      "explanation": "Orange is an orange fruit, while the others are green vegetables."
+    },
+    "2026-12-04": {
+      "words": [
+        "Snickers",
+        "Twix",
+        "Skittles",
+        "Broccoli"
+      ],
+      "oddOne": 3,
+      "category": "Candy vs Vegetable",
+      "explanation": "Broccoli is a vegetable, while the others are candy."
+    },
+    "2026-12-05": {
+      "words": [
+        "Mario",
+        "Luigi",
+        "Sonic",
+        "Peach"
+      ],
+      "oddOne": 2,
+      "category": "Mario Characters vs Sega Character",
+      "explanation": "Sonic is from a different game company (Sega), while the others are Mario characters."
+    },
+    "2026-12-06": {
+      "words": [
+        "Elsa",
+        "Anna",
+        "Simba",
+        "Olaf"
+      ],
+      "oddOne": 2,
+      "category": "Frozen Characters vs Lion King Character",
+      "explanation": "Simba is from \"The Lion King,\" while the others are from \"Frozen.\""
+    },
+    "2026-12-07": {
+      "words": [
+        "Monopoly",
+        "Scrabble",
+        "Clue",
+        "Fortnite"
+      ],
+      "oddOne": 3,
+      "category": "Classic Board Games vs Video Game",
+      "explanation": "Fortnite is a video game, while the others are classic board games."
+    },
+    "2026-12-08": {
+      "words": [
+        "Everest",
+        "K2",
+        "Kilimanjaro",
+        "Pacific"
+      ],
+      "oddOne": 3,
+      "category": "Mountains vs Ocean",
+      "explanation": "Pacific is an ocean, while the others are mountains."
+    },
+    "2026-12-09": {
+      "words": [
+        "Google",
+        "Amazon",
+        "Netflix",
+        "Eiffel Tower"
+      ],
+      "oddOne": 3,
+      "category": "Tech/Internet Companies vs Landmark",
+      "explanation": "Eiffel Tower is a landmark, while the others are companies."
+    },
+    "2026-12-10": {
+      "words": [
+        "Harry Potter",
+        "Frodo",
+        "Percy Jackson",
+        "Batman"
+      ],
+      "oddOne": 3,
+      "category": "Fantasy Book Heroes vs Superhero",
+      "explanation": "Batman is a superhero, while the others are fantasy novel protagonists."
+    },
+    "2026-12-11": {
+      "words": [
+        "Pizza",
+        "Burger",
+        "Taco",
+        "Basketball"
+      ],
+      "oddOne": 3,
+      "category": "Foods vs Sport",
+      "explanation": "Basketball is a sport, while the others are foods."
+    },
+    "2026-12-12": {
+      "words": [
+        "Lion",
+        "Tiger",
+        "Leopard",
+        "Poodle"
+      ],
+      "oddOne": 3,
+      "category": "Big Cats vs Dog Breed",
+      "explanation": "Poodle is a dog breed, while the others are big cats."
+    },
+    "2026-12-13": {
+      "words": [
+        "Egypt",
+        "Brazil",
+        "Japan",
+        "Everest"
+      ],
+      "oddOne": 3,
+      "category": "Countries vs Mountain",
+      "explanation": "Everest is a mountain, while the others are countries."
+    },
+    "2026-12-14": {
+      "words": [
+        "Spiderman",
+        "Batman",
+        "Ironman",
+        "Pikachu"
+      ],
+      "oddOne": 3,
+      "category": "Superheroes vs Pok\u00e9mon",
+      "explanation": "Pikachu is a Pok\u00e9mon, while the others are superheroes."
+    },
+    "2026-12-15": {
+      "words": [
+        "Guitar",
+        "Drums",
+        "Trumpet",
+        "Basketball"
+      ],
+      "oddOne": 3,
+      "category": "Instruments vs Sport",
+      "explanation": "Basketball is a sport, while the others are instruments."
+    },
+    "2026-12-16": {
+      "words": [
+        "Skittles",
+        "M&Ms",
+        "Gummy Bears",
+        "Pretzel"
+      ],
+      "oddOne": 3,
+      "category": "Sweet Candy vs Salty Snack",
+      "explanation": "Pretzel is salty, while the others are sweet candy."
     },
     "2026-12-17": {
       "words": [
-        "January",
-        "February",
-        "March",
-        "Tuesday"
+        "Wolf",
+        "Fox",
+        "Coyote",
+        "Poodle"
       ],
       "oddOne": 3,
-      "category": "Months vs Day",
-      "explanation": "Tuesday is a day of the week, while the others are months."
+      "category": "Wild Canines vs Domestic Dog Breed",
+      "explanation": "Poodle is a domesticated dog breed, while the others are wild canines."
     },
     "2026-12-18": {
       "words": [
-        "Basketball",
-        "Baseball",
-        "Tennis",
-        "Piano"
+        "Nike",
+        "Adidas",
+        "Puma",
+        "Coca-Cola"
       ],
       "oddOne": 3,
-      "category": "Sports vs Instrument",
-      "explanation": "Piano is a musical instrument, while the others are sports."
+      "category": "Sportswear Brands vs Beverage Brand",
+      "explanation": "Coca-Cola is a beverage brand, while the others make sportswear."
     },
     "2026-12-19": {
       "words": [
-        "Cat",
-        "Dog",
-        "Rabbit",
-        "Oak"
+        "Batman",
+        "Iron Man",
+        "Wolverine",
+        "Yoda"
       ],
       "oddOne": 3,
-      "category": "Pets vs Tree",
-      "explanation": "Oak is a tree, while the others are common pets."
+      "category": "Superheroes vs Star Wars Character",
+      "explanation": "Yoda is from \"Star Wars,\" while the others are superheroes."
     },
     "2026-12-20": {
       "words": [
-        "Car",
-        "Truck",
-        "Bicycle",
-        "Banana"
+        "Zeus",
+        "Poseidon",
+        "Hades",
+        "Superman"
       ],
       "oddOne": 3,
-      "category": "Vehicles vs Fruit",
-      "explanation": "Banana is a fruit, while the others are vehicles."
+      "category": "Greek Gods vs Superhero",
+      "explanation": "Superman is a modern superhero, while the others are Greek gods."
     },
     "2026-12-21": {
       "words": [
-        "Coffee",
-        "Tea",
-        "Juice",
-        "Chair"
+        "Croissant",
+        "Baguette",
+        "\u00c9clair",
+        "Taco"
       ],
       "oddOne": 3,
-      "category": "Drinks vs Furniture",
-      "explanation": "Chair is furniture, while the others are drinks."
+      "category": "French Pastries/Bread vs Mexican Food",
+      "explanation": "Taco is Mexican, while the others are French."
     },
     "2026-12-22": {
       "words": [
-        "Cake",
-        "Pie",
-        "Cookie",
-        "Carrot"
+        "Sushi",
+        "Ramen",
+        "Tempura",
+        "Pizza"
       ],
       "oddOne": 3,
-      "category": "Desserts vs Vegetable",
-      "explanation": "Carrot is a vegetable, while the others are desserts."
+      "category": "Japanese Foods vs Italian Food",
+      "explanation": "Pizza is Italian, while the others are Japanese."
     },
     "2026-12-23": {
       "words": [
-        "Ant",
-        "Bee",
-        "Butterfly",
-        "Penguin"
+        "Elephant",
+        "Rhino",
+        "Hippo",
+        "Chihuahua"
       ],
       "oddOne": 3,
-      "category": "Insects vs Bird",
-      "explanation": "Penguin is a bird, while the others are insects."
+      "category": "Huge Animals vs Tiny Dog Breed",
+      "explanation": "Chihuahua is a tiny dog breed, while the others are enormous animals."
     },
     "2026-12-24": {
       "words": [
-        "Mercury",
-        "Venus",
-        "Mars",
-        "Moon"
+        "Titanic",
+        "Jaws",
+        "Frozen",
+        "Monopoly"
       ],
       "oddOne": 3,
-      "category": "Planets vs Satellite",
-      "explanation": "Moon is a satellite, while the others are planets."
+      "category": "Movies vs Board Game",
+      "explanation": "Monopoly is a board game, while the others are movies."
     },
     "2026-12-25": {
       "words": [
-        "Pen",
-        "Pencil",
-        "Marker",
-        "Umbrella"
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Moon"
       ],
       "oddOne": 3,
-      "category": "Writing Tools vs Object",
-      "explanation": "Umbrella is not used for writing, while the others are writing tools."
+      "category": "Planets vs Earth's Satellite",
+      "explanation": "The Moon is Earth's satellite, not a planet, while the others are planets."
     },
     "2026-12-26": {
       "words": [
-        "France",
-        "Germany",
-        "Italy",
-        "Asia"
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Mario"
       ],
       "oddOne": 3,
-      "category": "Countries vs Continent",
-      "explanation": "Asia is a continent, while the others are countries."
+      "category": "Pok\u00e9mon vs Nintendo Mascot",
+      "explanation": "Mario is Nintendo's mascot from a different franchise, while the others are Pok\u00e9mon."
     },
     "2026-12-27": {
       "words": [
-        "Monday",
-        "Tuesday",
-        "Friday",
-        "January"
+        "Golden Retriever",
+        "Labrador",
+        "Poodle",
+        "Cheetah"
       ],
       "oddOne": 3,
-      "category": "Days vs Month",
-      "explanation": "January is a month, while the others are days of the week."
+      "category": "Dog Breeds vs Wild Cat",
+      "explanation": "Cheetah is a wild cat, while the others are dog breeds."
     },
     "2026-12-28": {
       "words": [
-        "Rain",
-        "Snow",
-        "Wind",
-        "Guitar"
+        "Yankees",
+        "Red Sox",
+        "Dodgers",
+        "Lakers"
       ],
       "oddOne": 3,
-      "category": "Weather vs Instrument",
-      "explanation": "Guitar is a musical instrument, while the others are weather."
+      "category": "Baseball Teams vs Basketball Team",
+      "explanation": "Lakers is a basketball team, while the others are baseball teams."
     },
     "2026-12-29": {
       "words": [
-        "Nose",
-        "Ear",
-        "Eye",
-        "Chair"
+        "Football",
+        "Basketball",
+        "Baseball",
+        "Chess"
       ],
       "oddOne": 3,
-      "category": "Body Parts vs Furniture",
-      "explanation": "Chair is furniture, while the others are body parts."
+      "category": "Physical Sports vs Board Game",
+      "explanation": "Chess is a board game, while the others are physical sports."
     },
     "2026-12-30": {
       "words": [
-        "English",
-        "Spanish",
-        "French",
-        "Soccer"
+        "Batman",
+        "Robin",
+        "Joker",
+        "Elsa"
       ],
       "oddOne": 3,
-      "category": "Languages vs Sport",
-      "explanation": "Soccer is a sport, while the others are languages."
+      "category": "Batman Characters vs Frozen Character",
+      "explanation": "Elsa is from \"Frozen,\" while the others are Batman characters."
     },
     "2026-12-31": {
       "words": [
-        "Soccer",
-        "Basketball",
-        "Volleyball",
-        "Trumpet"
+        "Harry Potter",
+        "Ron Weasley",
+        "Hermione",
+        "Shrek"
       ],
       "oddOne": 3,
-      "category": "Team Sports vs Instrument",
-      "explanation": "Trumpet is a musical instrument, while the others are team sports."
+      "category": "Harry Potter Characters vs Different Movie Character",
+      "explanation": "Shrek is from a different movie franchise, while the others are from \"Harry Potter.\""
     }
   },
   "medium": {
@@ -5385,1983 +5385,1983 @@
     },
     "2026-06-02": {
       "words": [
-        "Albedo",
-        "Aphelion",
-        "Perihelion",
-        "Perigee"
+        "Beyonc\u00e9",
+        "Rihanna",
+        "Adele",
+        "Einstein"
       ],
-      "oddOne": 0,
-      "category": "Orbital vs Reflective Terms",
-      "explanation": "Albedo measures reflectivity, while the others describe orbital positions."
+      "oddOne": 3,
+      "category": "Grammy Singers vs Physicist",
+      "explanation": "Einstein was a physicist, while the others are Grammy-winning singers."
     },
     "2026-06-03": {
       "words": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Nucleus"
+        "Picasso",
+        "Monet",
+        "Van Gogh",
+        "Newton"
       ],
-      "oddOne": 2,
-      "category": "Organelles - Membrane vs Non-membrane",
-      "explanation": "Ribosome lacks a membrane, while the others are membrane-bound organelles."
+      "oddOne": 3,
+      "category": "Painters vs Scientist",
+      "explanation": "Newton was a scientist, while the others were famous painters."
     },
     "2026-06-04": {
       "words": [
-        "Byzantine",
-        "Romanesque",
-        "Gothic",
-        "Baroque"
+        "Zeus",
+        "Apollo",
+        "Athena",
+        "Thor"
       ],
-      "oddOne": 1,
-      "category": "Medieval to Renaissance Art Periods",
-      "explanation": "All are art periods but Romanesque bridges Roman and Medieval."
+      "oddOne": 3,
+      "category": "Greek Gods vs Norse God",
+      "explanation": "Thor is a Norse god, while the others are Greek gods."
     },
     "2026-06-05": {
       "words": [
-        "Anaerobic",
-        "Aerobic",
-        "Fermentation",
-        "Glycolysis"
+        "Mozart",
+        "Beethoven",
+        "Bach",
+        "Shakespeare"
       ],
       "oddOne": 3,
-      "category": "Cellular Respiration vs Initial Stage",
-      "explanation": "Glycolysis occurs in both aerobic and anaerobic respiration."
+      "category": "Composers vs Playwright",
+      "explanation": "Shakespeare was a playwright, while the others were classical composers."
     },
     "2026-06-06": {
       "words": [
-        "Phototropism",
-        "Geotropism",
-        "Hydrotropism",
-        "Mutation"
+        "Curie",
+        "Newton",
+        "Darwin",
+        "Beethoven"
       ],
       "oddOne": 3,
-      "category": "Plant Growth Responses vs Genetic Change",
-      "explanation": "Mutation is genetic, while the others are growth responses."
+      "category": "Scientists vs Composer",
+      "explanation": "Beethoven was a composer, while the others were scientists."
     },
     "2026-06-07": {
       "words": [
-        "Casus Belli",
-        "Status Quo",
-        "Modus Operandi",
-        "Persona"
+        "Titanic",
+        "Hindenburg",
+        "Concorde",
+        "Everest"
       ],
-      "oddOne": 2,
-      "category": "Latin Legal/Diplomatic Terms vs Character",
-      "explanation": "Persona is about character, while the others are legal/diplomatic."
+      "oddOne": 3,
+      "category": "Famous Vehicles vs Mountain",
+      "explanation": "Everest is a mountain, while the others are famous vehicles."
     },
     "2026-06-08": {
       "words": [
-        "Monocotyledon",
-        "Dicotyledon",
-        "Gymnosperm",
-        "Fern"
+        "Romeo",
+        "Hamlet",
+        "Macbeth",
+        "Gatsby"
       ],
       "oddOne": 3,
-      "category": "Flowering Plants vs Non-flowering",
-      "explanation": "Fern is non-flowering, while the others are flowering plant classifications."
+      "category": "Shakespeare Works vs Novel Character",
+      "explanation": "Gatsby is from \"The Great Gatsby,\" a novel, while the others are Shakespeare plays/characters."
     },
     "2026-06-09": {
       "words": [
-        "Isotope",
-        "Isotone",
-        "Isobar",
-        "Isomer"
+        "Sherlock Holmes",
+        "Hercule Poirot",
+        "Nancy Drew",
+        "Dracula"
       ],
       "oddOne": 3,
-      "category": "Atomic Variations vs Molecular",
-      "explanation": "Isomer is molecular, while the others are atomic variations."
+      "category": "Fictional Detectives vs Vampire",
+      "explanation": "Dracula is a vampire, while the others are fictional detectives."
     },
     "2026-06-10": {
       "words": [
-        "Hubble",
-        "Kepler",
-        "Galileo",
-        "Dante"
+        "Dracula",
+        "Frankenstein's Monster",
+        "Werewolf",
+        "Sherlock Holmes"
       ],
       "oddOne": 3,
-      "category": "Astronomers vs Poet",
-      "explanation": "Dante is a poet, while the others are famous astronomers."
+      "category": "Classic Monsters vs Detective",
+      "explanation": "Sherlock Holmes is a detective, while the others are classic horror monsters."
     },
     "2026-06-11": {
       "words": [
-        "Archosaur",
-        "Therapsid",
-        "Synapsid",
-        "Saurian"
+        "Everest",
+        "K2",
+        "Denali",
+        "Amazon"
       ],
-      "oddOne": 0,
-      "category": "Reptilian Classifications",
-      "explanation": "Archosaur is a modern reptile group, while the others are prehistoric."
+      "oddOne": 3,
+      "category": "Mountains vs River",
+      "explanation": "Amazon is a river, while the others are mountains."
     },
     "2026-06-12": {
       "words": [
-        "Osmosis",
-        "Diffusion",
-        "Dialysis",
-        "Photosynthesis"
+        "Nile",
+        "Amazon",
+        "Mississippi",
+        "Sahara"
       ],
       "oddOne": 3,
-      "category": "Movement Processes vs Energy Conversion",
-      "explanation": "Photosynthesis is energy conversion, while the others are movement processes."
+      "category": "Rivers vs Desert",
+      "explanation": "Sahara is a desert, while the others are rivers."
     },
     "2026-06-13": {
       "words": [
-        "Lacuna",
-        "Lacunae",
-        "Lacunas",
-        "Vacuum"
+        "Da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Napoleon"
       ],
       "oddOne": 3,
-      "category": "Singular/Plural Latin vs English",
-      "explanation": "Vacuum is English for gap, while the others are Latin variations of the same word."
+      "category": "Renaissance Artists vs Military Leader",
+      "explanation": "Napoleon was a military and political leader, while the others were Renaissance artists."
     },
     "2026-06-14": {
       "words": [
-        "Mesolithic",
-        "Neolithic",
-        "Paleolithic",
-        "Medieval"
+        "Churchill",
+        "Roosevelt",
+        "Stalin",
+        "Shakespeare"
       ],
       "oddOne": 3,
-      "category": "Stone Age Periods vs Historical Period",
-      "explanation": "Medieval is a historical period, while the others are Stone Age divisions."
+      "category": "WWII Leaders vs Playwright",
+      "explanation": "Shakespeare was a playwright, while the others were World War II era leaders."
     },
     "2026-06-15": {
       "words": [
-        "Entropy",
-        "Enthalpy",
-        "Energy",
-        "Electron"
+        "Cleopatra",
+        "Nefertiti",
+        "Tutankhamun",
+        "Caesar"
       ],
-      "oddOne": 2,
-      "category": "Thermodynamics Terms vs Particle",
-      "explanation": "Electron is a particle, while the others are thermodynamics concepts."
+      "oddOne": 3,
+      "category": "Ancient Egyptian Rulers vs Roman Ruler",
+      "explanation": "Caesar was a Roman ruler, while the others were ancient Egyptian rulers."
     },
     "2026-06-16": {
       "words": [
-        "Epigenetics",
-        "Mendelian",
-        "Lamarckism",
-        "Darwinism"
+        "Napoleon",
+        "Caesar",
+        "Alexander the Great",
+        "Aristotle"
       ],
-      "oddOne": 0,
-      "category": "Theories of Inheritance",
-      "explanation": "Epigenetics is modern, while the others are classical inheritance theories."
+      "oddOne": 3,
+      "category": "Military Conquerors vs Philosopher",
+      "explanation": "Aristotle was a philosopher, while the others were famous military conquerors."
     },
     "2026-06-17": {
       "words": [
-        "Substrate",
-        "Enzyme",
-        "Product",
-        "Catalyst"
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Homer"
       ],
-      "oddOne": 1,
-      "category": "Chemical Reaction Components",
-      "explanation": "Enzyme speeds reactions but is not consumed, while others are consumed."
+      "oddOne": 3,
+      "category": "Greek Philosophers vs Poet",
+      "explanation": "Homer was an epic poet, while the others were Greek philosophers."
     },
     "2026-06-18": {
       "words": [
-        "Dorsal",
-        "Ventral",
-        "Medial",
-        "Temporal"
+        "Zeus",
+        "Hera",
+        "Poseidon",
+        "Anubis"
       ],
       "oddOne": 3,
-      "category": "Anatomical Directions vs Time",
-      "explanation": "Temporal relates to time, while the others are anatomical directions."
+      "category": "Greek Gods vs Egyptian God",
+      "explanation": "Anubis is an Egyptian god, while the others are Greek gods."
     },
     "2026-06-19": {
       "words": [
-        "Allele",
-        "Gene",
-        "Locus",
-        "Phenotype"
+        "Anubis",
+        "Ra",
+        "Osiris",
+        "Zeus"
       ],
       "oddOne": 3,
-      "category": "Genetic Locations vs Observable Trait",
-      "explanation": "Phenotype is an observable trait, while the others are genetic locations/units."
+      "category": "Egyptian Gods vs Greek God",
+      "explanation": "Zeus is a Greek god, while the others are Egyptian gods."
     },
     "2026-06-20": {
       "words": [
-        "Prokaryote",
-        "Eukaryote",
-        "Archaebacteria",
-        "Protist"
+        "Thor",
+        "Loki",
+        "Odin",
+        "Hercules"
       ],
       "oddOne": 3,
-      "category": "Cell Types vs Organism Category",
-      "explanation": "Protist is an organism category, while the others are cell types."
+      "category": "Norse Figures vs Greek Hero",
+      "explanation": "Hercules is a Greek hero, while the others are Norse mythological figures."
     },
     "2026-06-21": {
       "words": [
-        "Oxidation",
-        "Reduction",
-        "Synthesis",
-        "Hydrolysis"
+        "Achilles",
+        "Hercules",
+        "Perseus",
+        "Sherlock Holmes"
       ],
-      "oddOne": 1,
-      "category": "Redox vs Other Reactions",
-      "explanation": "Hydrolysis is water-based, while Oxidation and Reduction are redox pairs."
+      "oddOne": 3,
+      "category": "Greek Heroes vs Modern Detective",
+      "explanation": "Sherlock Holmes is a modern fictional detective, while the others are Greek mythological heroes."
     },
     "2026-06-22": {
       "words": [
-        "Stratosphere",
-        "Troposphere",
-        "Exosphere",
-        "Mesosphere"
+        "Rome",
+        "Athens",
+        "Cairo",
+        "Sahara"
       ],
-      "oddOne": 2,
-      "category": "Atmospheric Layers",
-      "explanation": "All are atmospheric layers but Exosphere is outermost."
+      "oddOne": 3,
+      "category": "Capital Cities vs Desert",
+      "explanation": "Sahara is a desert, while the others are capital cities."
     },
     "2026-06-23": {
       "words": [
-        "Mitosis",
-        "Meiosis",
-        "Cytokinesis",
-        "Apoptosis"
+        "Beatles",
+        "Rolling Stones",
+        "Queen",
+        "Elvis Presley"
       ],
       "oddOne": 3,
-      "category": "Cell Division vs Cell Death",
-      "explanation": "Apoptosis is programmed cell death, while the others are division processes."
+      "category": "Bands vs Solo Artist",
+      "explanation": "Elvis Presley was a solo artist, while the others are bands."
     },
     "2026-06-24": {
       "words": [
-        "Chiaroscuro",
-        "Sfumato",
-        "Impasto",
-        "Perspective"
+        "Lennon",
+        "McCartney",
+        "Harrison",
+        "Jagger"
       ],
       "oddOne": 3,
-      "category": "Painting Techniques vs Spatial Method",
-      "explanation": "Perspective is spatial, while the others are painting techniques."
+      "category": "Beatles Members vs Rolling Stones Member",
+      "explanation": "Jagger is a member of the Rolling Stones, while the others were Beatles."
     },
     "2026-06-25": {
       "words": [
-        "Mutualism",
-        "Parasitism",
-        "Commensalism",
-        "Predation"
+        "Elvis Presley",
+        "Michael Jackson",
+        "Madonna",
+        "Aristotle"
       ],
       "oddOne": 3,
-      "category": "Close Relationships vs Food Chain",
-      "explanation": "Predation is part of food chains, while the others are close relationships."
+      "category": "Pop Icons vs Philosopher",
+      "explanation": "Aristotle was a philosopher, while the others are pop music icons."
     },
     "2026-06-26": {
       "words": [
-        "Hypotenuse",
-        "Sine",
-        "Cosine",
-        "Tangent"
+        "Mona Lisa",
+        "The Last Supper",
+        "Starry Night",
+        "The Odyssey"
       ],
-      "oddOne": 0,
-      "category": "Trigonometry - Side vs Ratios",
-      "explanation": "Hypotenuse is a triangle side, while the others are trigonometric ratios."
+      "oddOne": 3,
+      "category": "Famous Paintings vs Epic Poem",
+      "explanation": "The Odyssey is an epic poem, while the others are famous paintings."
     },
     "2026-06-27": {
       "words": [
-        "Diastole",
-        "Systole",
-        "Atrium",
-        "Artery"
+        "Van Gogh",
+        "Da Vinci",
+        "Rembrandt",
+        "Beethoven"
       ],
       "oddOne": 3,
-      "category": "Heart Function vs Vessel",
-      "explanation": "Artery is a blood vessel, while the others relate to heart function."
+      "category": "Painters vs Composer",
+      "explanation": "Beethoven was a composer, while the others were painters."
     },
     "2026-06-28": {
       "words": [
-        "Alluvial",
-        "Aeolian",
-        "Fluvial",
-        "Tectonic"
+        "Eiffel Tower",
+        "Big Ben",
+        "Colosseum",
+        "Amazon River"
       ],
       "oddOne": 3,
-      "category": "Erosion/Deposition vs Earth Movement",
-      "explanation": "Tectonic relates to plate movement, while the others are erosion/deposition types."
+      "category": "Famous Landmarks vs River",
+      "explanation": "Amazon River is a river, while the others are famous man-made landmarks."
     },
     "2026-06-29": {
       "words": [
-        "Glycogen",
-        "Cellulose",
-        "Chitin",
-        "Starch"
+        "Great Wall of China",
+        "Colosseum",
+        "Machu Picchu",
+        "Everest"
       ],
-      "oddOne": 1,
-      "category": "Storage Carbohydrates",
-      "explanation": "Cellulose is structural, while the others are storage carbohydrates."
+      "oddOne": 3,
+      "category": "Historic Landmarks vs Natural Mountain",
+      "explanation": "Everest is a natural mountain, while the others are historic man-made landmarks."
     },
     "2026-06-30": {
       "words": [
-        "Holocene",
-        "Pleistocene",
-        "Pliocene",
-        "Miocene"
+        "Pyramids of Giza",
+        "Sphinx",
+        "Colosseum",
+        "Nile"
       ],
-      "oddOne": 0,
-      "category": "Geological Epochs",
-      "explanation": "Holocene is current, while the others are past epochs."
+      "oddOne": 3,
+      "category": "Egyptian/Roman Landmarks vs River",
+      "explanation": "Nile is a river, while the others are ancient landmarks."
     },
     "2026-07-01": {
       "words": [
-        "Transcription",
-        "Translation",
-        "Replication",
-        "Mutation"
+        "Statue of Liberty",
+        "Mount Rushmore",
+        "Golden Gate Bridge",
+        "Grand Canyon"
       ],
       "oddOne": 3,
-      "category": "Protein Making vs Change",
-      "explanation": "Mutation is change, while the others make proteins."
+      "category": "Man-made US Landmarks vs Natural Landmark",
+      "explanation": "Grand Canyon is a natural landmark, while the others are man-made."
     },
     "2026-07-02": {
       "words": [
-        "Exocytosis",
-        "Endocytosis",
-        "Osmosis",
-        "Pinocytosis"
+        "Leaning Tower of Pisa",
+        "Colosseum",
+        "Trevi Fountain",
+        "Mount Vesuvius"
       ],
-      "oddOne": 2,
-      "category": "Transport via Vesicles vs Water",
-      "explanation": "Osmosis is water movement, while others use vesicles."
+      "oddOne": 3,
+      "category": "Italian Man-made Landmarks vs Volcano",
+      "explanation": "Mount Vesuvius is a natural volcano, while the others are man-made Italian landmarks."
     },
     "2026-07-03": {
       "words": [
-        "Heliotrope",
-        "Geotrope",
-        "Hygroscopic",
-        "Phototropic"
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Beyonc\u00e9"
       ],
-      "oddOne": 2,
-      "category": "Plant Responses vs Material Property",
-      "explanation": "Hygroscopic is a material property, while the others are plant responses."
+      "oddOne": 3,
+      "category": "Tech Companies vs Singer",
+      "explanation": "Beyonc\u00e9 is a singer, while the others are tech companies."
     },
     "2026-07-04": {
       "words": [
-        "Lytic",
-        "Lysogenic",
-        "Prophage",
-        "Transduction"
+        "Jobs",
+        "Gates",
+        "Zuckerberg",
+        "Einstein"
       ],
-      "oddOne": 0,
-      "category": "Lytic vs Lysogenic Cycle",
-      "explanation": "Lytic cycle destroys the host cell immediately, while Lysogenic, Prophage, and Transduction all relate to the dormant lysogenic cycle."
+      "oddOne": 3,
+      "category": "Tech Founders vs Physicist",
+      "explanation": "Einstein was a physicist, while the others founded major tech companies."
     },
     "2026-07-05": {
       "words": [
-        "Prokaryotic",
-        "Eukaryotic",
-        "Archaeal",
-        "Viral"
+        "Amazon",
+        "Netflix",
+        "Spotify",
+        "Shakespeare"
       ],
       "oddOne": 3,
-      "category": "Cell Types vs Non-cellular",
-      "explanation": "Viral is non-cellular, while the others are cell types."
+      "category": "Streaming/Tech Companies vs Playwright",
+      "explanation": "Shakespeare was a playwright, while the others are modern companies."
     },
     "2026-07-06": {
       "words": [
-        "Cation",
-        "Anion",
-        "Isotope",
-        "Molecule"
+        "Nike",
+        "Adidas",
+        "Puma",
+        "Wimbledon"
       ],
-      "oddOne": 2,
-      "category": "Charged Particles vs Unchanged",
-      "explanation": "Isotope is unchanged atom, while the others are charged."
+      "oddOne": 3,
+      "category": "Sportswear Brands vs Tennis Tournament",
+      "explanation": "Wimbledon is a tennis tournament, while the others are sportswear brands."
     },
     "2026-07-07": {
       "words": [
-        "Fermentation",
-        "Respiration",
-        "Photosynthesis",
-        "Decomposition"
+        "Ferrari",
+        "Lamborghini",
+        "Porsche",
+        "Everest"
       ],
       "oddOne": 3,
-      "category": "Energy Processes vs Breaking Down",
-      "explanation": "Decomposition breaks matter down, while the others are energy processes."
+      "category": "Car Brands vs Mountain",
+      "explanation": "Everest is a mountain, while the others are car brands."
     },
     "2026-07-08": {
       "words": [
-        "Nascent",
-        "Nascency",
-        "Native",
-        "Innate"
+        "Coca-Cola",
+        "Pepsi",
+        "Sprite",
+        "Nike"
       ],
-      "oddOne": 1,
-      "category": "Words Related to Birth/Origin",
-      "explanation": "Nascency is a noun form of nascent, while others are adjectives."
+      "oddOne": 3,
+      "category": "Soft Drink Brands vs Sportswear Brand",
+      "explanation": "Nike is a sportswear brand, while the others are soft drink brands."
     },
     "2026-07-09": {
       "words": [
-        "Taxonomy",
-        "Phylogeny",
-        "Morphology",
-        "Ethology"
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Starbucks"
       ],
-      "oddOne": 2,
-      "category": "Biology Subdisciplines",
-      "explanation": "All are biology subdisciplines but Morphology studies structure."
+      "oddOne": 3,
+      "category": "Burger Chains vs Coffee Chain",
+      "explanation": "Starbucks is a coffee chain, while the others are burger chains."
     },
     "2026-07-10": {
       "words": [
-        "Telophase",
-        "Anaphase",
-        "Metaphase",
-        "Interphase"
+        "LeBron James",
+        "Michael Jordan",
+        "Kobe Bryant",
+        "Messi"
       ],
       "oddOne": 3,
-      "category": "Mitotic Phases vs Resting",
-      "explanation": "Interphase is resting/preparing, while the others are mitotic phases."
+      "category": "NBA Legends vs Soccer Star",
+      "explanation": "Messi is a soccer star, while the others are basketball legends."
     },
     "2026-07-11": {
       "words": [
-        "Biomass",
-        "Biodiversity",
-        "Biome",
-        "Bacteria"
+        "Messi",
+        "Ronaldo",
+        "Pel\u00e9",
+        "Federer"
       ],
       "oddOne": 3,
-      "category": "Ecological Terms vs Organism",
-      "explanation": "Bacteria are organisms, while the others are ecological terms."
+      "category": "Soccer Legends vs Tennis Star",
+      "explanation": "Federer is a tennis star, while the others are soccer legends."
     },
     "2026-07-12": {
       "words": [
-        "Concave",
-        "Convex",
-        "Convergent",
-        "Convection"
+        "Federer",
+        "Nadal",
+        "Djokovic",
+        "Ronaldo"
       ],
       "oddOne": 3,
-      "category": "Shape Descriptors vs Heat Transfer",
-      "explanation": "Convection is heat transfer, while the others describe shapes."
+      "category": "Tennis Legends vs Soccer Star",
+      "explanation": "Ronaldo is a soccer star, while the others are tennis legends."
     },
     "2026-07-13": {
       "words": [
-        "Stenosis",
-        "Fibrosis",
-        "Necrosis",
-        "Sclerosis"
+        "Serena Williams",
+        "Venus Williams",
+        "Maria Sharapova",
+        "Simone Biles"
       ],
-      "oddOne": 0,
-      "category": "Medical Conditions - Narrowing",
-      "explanation": "Stenosis is narrowing, while the others describe tissue changes."
+      "oddOne": 3,
+      "category": "Tennis Stars vs Gymnast",
+      "explanation": "Simone Biles is a gymnast, while the others are tennis stars."
     },
     "2026-07-14": {
       "words": [
-        "Hypothesis",
-        "Theory",
-        "Law",
-        "Model"
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Floyd Mayweather",
+        "Usain Bolt"
       ],
       "oddOne": 3,
-      "category": "Scientific Certainty Levels",
-      "explanation": "Model is a representation, while the others represent certainty levels."
+      "category": "Boxers vs Sprinter",
+      "explanation": "Usain Bolt is a sprinter, while the others are boxers."
     },
     "2026-07-15": {
       "words": [
-        "Phalanges",
-        "Carpals",
-        "Tarsals",
-        "Femur"
+        "Usain Bolt",
+        "Carl Lewis",
+        "Jesse Owens",
+        "Michael Phelps"
       ],
       "oddOne": 3,
-      "category": "Hand/Foot Bones vs Leg",
-      "explanation": "Femur is leg bone, while the others are hand/foot bones."
+      "category": "Sprinters vs Swimmer",
+      "explanation": "Michael Phelps is a swimmer, while the others are sprinters."
     },
     "2026-07-16": {
       "words": [
-        "Solute",
-        "Solvent",
-        "Solution",
-        "Suspension"
+        "Michael Phelps",
+        "Katie Ledecky",
+        "Mark Spitz",
+        "Tiger Woods"
       ],
       "oddOne": 3,
-      "category": "Solution Components vs Mixture",
-      "explanation": "Suspension is a different type of mixture, while the others are solution parts."
+      "category": "Swimmers vs Golfer",
+      "explanation": "Tiger Woods is a golfer, while the others are swimmers."
     },
     "2026-07-17": {
       "words": [
-        "Herbivore",
-        "Carnivore",
-        "Omnivore",
-        "Scavenger"
+        "Tiger Woods",
+        "Jack Nicklaus",
+        "Arnold Palmer",
+        "Babe Ruth"
       ],
       "oddOne": 3,
-      "category": "Diet Types vs Feeding Behavior",
-      "explanation": "Scavenger is a feeding behavior, while the others are diet types."
+      "category": "Golfers vs Baseball Player",
+      "explanation": "Babe Ruth was a baseball player, while the others are golfers."
     },
     "2026-07-18": {
       "words": [
-        "Albino",
-        "Lethal",
-        "Dominant",
-        "Recessive"
+        "Babe Ruth",
+        "Derek Jeter",
+        "Jackie Robinson",
+        "Wayne Gretzky"
       ],
-      "oddOne": 0,
-      "category": "Allele Types",
-      "explanation": "Albino is a phenotype, while the others describe allele relationships."
+      "oddOne": 3,
+      "category": "Baseball Players vs Hockey Player",
+      "explanation": "Wayne Gretzky is a hockey player, while the others are baseball players."
     },
     "2026-07-19": {
       "words": [
-        "Exergonic",
-        "Endergonic",
-        "Exothermic",
-        "Endothermic"
+        "Wimbledon",
+        "US Open",
+        "French Open",
+        "Super Bowl"
       ],
-      "oddOne": 2,
-      "category": "Energy and Thermodynamics",
-      "explanation": "Exothermic/Endothermic relate to heat, while Exergonic/Endergonic relate to energy."
+      "oddOne": 3,
+      "category": "Tennis Grand Slams vs Football Championship",
+      "explanation": "Super Bowl is the NFL championship, while the others are tennis Grand Slam tournaments."
     },
     "2026-07-20": {
       "words": [
-        "Mesophyll",
-        "Epidermis",
-        "Phloem",
-        "Xylem"
+        "Super Bowl",
+        "World Series",
+        "Stanley Cup",
+        "World Cup"
       ],
-      "oddOne": 2,
-      "category": "Leaf vs Vascular Tissue",
-      "explanation": "Xylem is vascular tissue, while the others are leaf structures."
+      "oddOne": 3,
+      "category": "US Championship Trophies vs Global Soccer Event",
+      "explanation": "World Cup is soccer's global tournament, while the others are US pro sports championships."
     },
     "2026-07-21": {
       "words": [
-        "Ploidy",
-        "Allele",
-        "Genotype",
-        "Phenotype"
+        "Olympics",
+        "World Cup",
+        "Super Bowl",
+        "Tour de France"
       ],
-      "oddOne": 0,
-      "category": "Genetic Terms",
-      "explanation": "Ploidy is number of chromosomes, while others relate to specific traits."
+      "oddOne": 2,
+      "category": "International Sporting Events vs Domestic League Championship",
+      "explanation": "Super Bowl is a single American football league championship, while the others are large international sporting events."
     },
     "2026-07-22": {
       "words": [
-        "Benign",
-        "Malignant",
-        "Metastatic",
-        "Prophylaxis"
+        "Gold",
+        "Silver",
+        "Bronze",
+        "Platinum"
       ],
       "oddOne": 3,
-      "category": "Tumor Types vs Prevention",
-      "explanation": "Prophylaxis is prevention, while the others are tumor types."
+      "category": "Olympic Medal Metals vs Non-medal Metal",
+      "explanation": "Platinum is not an Olympic medal color, while the others are."
     },
     "2026-07-23": {
       "words": [
-        "Operon",
-        "Promoter",
-        "Codon",
-        "Chromosome"
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Pluto"
       ],
       "oddOne": 3,
-      "category": "Gene Regulation vs Physical Structure",
-      "explanation": "Chromosome is physical structure, while the others relate to gene regulation."
+      "category": "Planets vs Dwarf Planet",
+      "explanation": "Pluto is classified as a dwarf planet, while the others are full planets."
     },
     "2026-07-24": {
       "words": [
-        "Ambidextrous",
-        "Ambivalent",
-        "Ambiguous",
-        "Ambivert"
+        "Sun",
+        "Sirius",
+        "Betelgeuse",
+        "Jupiter"
       ],
-      "oddOne": 2,
-      "category": "Words Starting with 'Ambi-'",
-      "explanation": "Ambiguous means unclear (not truly both), while the others truly mean both."
+      "oddOne": 3,
+      "category": "Stars vs Planet",
+      "explanation": "Jupiter is a planet, while the others are stars."
     },
     "2026-07-25": {
       "words": [
-        "Pelagic",
-        "Benthic",
-        "Littoral",
-        "Terrestrial"
+        "Andromeda",
+        "Milky Way",
+        "Triangulum",
+        "Jupiter"
       ],
       "oddOne": 3,
-      "category": "Marine Zones vs Land",
-      "explanation": "Terrestrial is land, while the others are marine zones."
+      "category": "Galaxies vs Planet",
+      "explanation": "Jupiter is a planet, while the others are galaxies."
     },
     "2026-07-26": {
       "words": [
-        "Diastasis",
-        "Diastole",
-        "Dysphasia",
-        "Dystonia"
+        "Apollo 11",
+        "Sputnik",
+        "Voyager 1",
+        "Titanic"
       ],
-      "oddOne": 1,
-      "category": "Medical Terms with 'Dia/Dys'",
-      "explanation": "Diastole is heart relaxation, while the others indicate separation/difficulty."
+      "oddOne": 3,
+      "category": "Space Missions vs Ship",
+      "explanation": "Titanic is a ship, while the others are space missions/craft."
     },
     "2026-07-27": {
       "words": [
-        "Symbiosis",
-        "Parasitism",
-        "Predation",
-        "Mutualism"
+        "Armstrong",
+        "Aldrin",
+        "Collins",
+        "Gagarin"
       ],
-      "oddOne": 2,
-      "category": "Ecological Relationships",
-      "explanation": "Predation is one-sided, while Mutualism is symbiosis category."
+      "oddOne": 3,
+      "category": "Apollo 11 Astronauts vs Soviet Cosmonaut",
+      "explanation": "Gagarin was a Soviet cosmonaut, while the others were on Apollo 11."
     },
     "2026-07-28": {
       "words": [
-        "Glycolysis",
-        "Krebs Cycle",
-        "Electron Transport",
-        "Fermentation"
+        "NASA",
+        "SpaceX",
+        "Blue Origin",
+        "FIFA"
       ],
       "oddOne": 3,
-      "category": "Aerobic Respiration vs Anaerobic",
-      "explanation": "Fermentation is anaerobic, while the others are aerobic."
+      "category": "Space Agencies/Companies vs Sports Organization",
+      "explanation": "FIFA governs soccer, while the others are space organizations."
     },
     "2026-07-29": {
       "words": [
-        "Anther",
-        "Pistil",
-        "Sepal",
-        "Stamen"
+        "FIFA",
+        "NBA",
+        "NFL",
+        "NASA"
       ],
-      "oddOne": 2,
-      "category": "Reproductive vs Non-reproductive",
-      "explanation": "Sepal is non-reproductive, while the others are reproductive."
+      "oddOne": 3,
+      "category": "Sports Organizations vs Space Agency",
+      "explanation": "NASA is a space agency, while the others are sports organizations."
     },
     "2026-07-30": {
       "words": [
-        "Homologous",
-        "Analogous",
-        "Vestigial",
-        "Rudimentary"
+        "Halloween",
+        "Christmas",
+        "Easter",
+        "Tuesday"
       ],
-      "oddOne": 1,
-      "category": "Evolutionary Comparisons",
-      "explanation": "Analogous structures serve similar functions but different origin."
+      "oddOne": 3,
+      "category": "Holidays vs Day of Week",
+      "explanation": "Tuesday is a day of the week, while the others are holidays."
     },
     "2026-07-31": {
       "words": [
-        "Saprolite",
-        "Laterite",
-        "Humus",
-        "Loess"
+        "Diwali",
+        "Hanukkah",
+        "Christmas",
+        "Wednesday"
       ],
       "oddOne": 3,
-      "category": "Weathering Products vs Wind-blown",
-      "explanation": "Loess is wind-blown sediment, while the others are weathering products."
+      "category": "Religious Holidays vs Day of Week",
+      "explanation": "Wednesday is a day of the week, while the others are religious holidays."
     },
     "2026-08-01": {
       "words": [
-        "Proteome",
-        "Genome",
-        "Transcriptome",
-        "Biome"
+        "Ramadan",
+        "Lent",
+        "Advent",
+        "Autumn"
       ],
       "oddOne": 3,
-      "category": "Omic Studies vs Ecological",
-      "explanation": "Biome is ecological, while the others are omic studies."
+      "category": "Religious Observance Periods vs Season",
+      "explanation": "Autumn is a season, while the others are religious observance periods."
     },
     "2026-08-02": {
       "words": [
-        "Detritivore",
-        "Decomposer",
-        "Producer",
-        "Scavenger"
+        "Buddhism",
+        "Hinduism",
+        "Judaism",
+        "Democracy"
       ],
-      "oddOne": 2,
-      "category": "Food Chain Roles",
-      "explanation": "Producer is autotrophic, while the others are heterotrophic."
+      "oddOne": 3,
+      "category": "World Religions vs Government System",
+      "explanation": "Democracy is a system of government, while the others are world religions."
     },
     "2026-08-03": {
       "words": [
-        "Epithelial",
-        "Connective",
-        "Muscular",
-        "Nervous"
+        "Mecca",
+        "Vatican City",
+        "Jerusalem",
+        "Paris"
       ],
-      "oddOne": 1,
-      "category": "Tissue Types",
-      "explanation": "Connective tissue binds others, while the others are functional tissues."
+      "oddOne": 3,
+      "category": "Major Religious Sites vs Secular Capital",
+      "explanation": "Paris is a secular capital city without the same religious significance, while the others are major religious sites."
     },
     "2026-08-04": {
       "words": [
-        "Chemotroph",
-        "Phototroph",
-        "Lithotroph",
-        "Heterotroph"
+        "Vatican City",
+        "Monaco",
+        "San Marino",
+        "Brazil"
       ],
       "oddOne": 3,
-      "category": "Autotrophs vs Heterotroph",
-      "explanation": "Heterotroph requires organic matter, while the others are autotrophs."
+      "category": "Smallest Countries vs Large Country",
+      "explanation": "Brazil is one of the largest countries by area, while the others are among the smallest."
     },
     "2026-08-05": {
       "words": [
-        "Sigmoid",
-        "Logistic",
-        "Exponential",
-        "Linear"
+        "Russia",
+        "Canada",
+        "China",
+        "Monaco"
       ],
       "oddOne": 3,
-      "category": "Population Growth Curves",
-      "explanation": "Linear is not a population growth model, while the others are."
+      "category": "Largest Countries vs Smallest Country",
+      "explanation": "Monaco is one of the smallest countries in the world, while the others are among the largest."
     },
     "2026-08-06": {
       "words": [
-        "Mesarch",
-        "Xerarch",
-        "Hydrarch",
-        "Climax"
+        "Yen",
+        "Euro",
+        "Peso",
+        "London"
       ],
       "oddOne": 3,
-      "category": "Ecological Succession Types",
-      "explanation": "Climax is end stage, while the others are succession starting points."
+      "category": "Currencies vs City",
+      "explanation": "London is a city, while the others are currencies."
     },
     "2026-08-07": {
       "words": [
-        "Stratum",
-        "Stroma",
-        "Theca",
-        "Cortex"
+        "Dollar",
+        "Pound",
+        "Rupee",
+        "Paris"
       ],
-      "oddOne": 1,
-      "category": "Anatomical Layers",
-      "explanation": "Stroma is supportive tissue, while the others are specific layers."
+      "oddOne": 3,
+      "category": "Currencies vs City",
+      "explanation": "Paris is a city, while the others are currencies."
     },
     "2026-08-08": {
       "words": [
-        "Morpho",
-        "Phylo",
-        "Onto",
-        "Deva"
+        "Mandarin",
+        "Spanish",
+        "Arabic",
+        "Judaism"
       ],
       "oddOne": 3,
-      "category": "Biological Prefixes",
-      "explanation": "Deva is not a biological prefix, while the others form biological terms."
+      "category": "Languages vs Religion",
+      "explanation": "Judaism is a religion, while the others are languages."
     },
     "2026-08-09": {
       "words": [
-        "Turgid",
-        "Plasmolyzed",
-        "Flaccid",
-        "Hypotonic"
+        "Braille",
+        "Morse Code",
+        "Sign Language",
+        "Latin"
       ],
       "oddOne": 3,
-      "category": "Cell Water States vs Solution Type",
-      "explanation": "Hypotonic describes the solution, while the others describe cell states."
+      "category": "Alternative Communication Systems vs Spoken/Written Language",
+      "explanation": "Latin is a conventional spoken/written language, while the others are alternative communication systems."
     },
     "2026-08-10": {
       "words": [
-        "Proximal",
-        "Distal",
-        "Anterior",
-        "Radial"
+        "Cyrillic",
+        "Latin",
+        "Greek",
+        "Sanskrit"
       ],
       "oddOne": 3,
-      "category": "Anatomical Directions",
-      "explanation": "Radial is limb-specific, while the others are general directions."
+      "category": "Alphabets Used in Europe vs Ancient Indian Script",
+      "explanation": "Sanskrit uses its own distinct script tradition from ancient India, while the others are alphabets historically centered in Europe."
     },
     "2026-08-11": {
       "words": [
-        "Cactaceae",
-        "Fabaceae",
-        "Poaceae",
-        "Sapindaceae"
+        "Sushi",
+        "Ramen",
+        "Tempura",
+        "Croissant"
       ],
-      "oddOne": 0,
-      "category": "Plant Families",
-      "explanation": "Cactaceae are desert plants, while the others are more diverse."
+      "oddOne": 3,
+      "category": "Japanese Dishes vs French Pastry",
+      "explanation": "Croissant is a French pastry, while the others are Japanese dishes."
     },
     "2026-08-12": {
       "words": [
-        "Pentose",
-        "Hexose",
-        "Triose",
-        "Lipid"
+        "Croissant",
+        "Baguette",
+        "\u00c9clair",
+        "Sushi"
       ],
       "oddOne": 3,
-      "category": "Sugar Types vs Non-sugar",
-      "explanation": "Lipid is not a sugar, while the others are carbohydrates."
+      "category": "French Foods vs Japanese Dish",
+      "explanation": "Sushi is a Japanese dish, while the others are French foods."
     },
     "2026-08-13": {
       "words": [
-        "Serosa",
-        "Mucosa",
-        "Fascia",
-        "Endothelium"
+        "Paella",
+        "Tapas",
+        "Gazpacho",
+        "Sushi"
       ],
-      "oddOne": 2,
-      "category": "Tissue Layers",
-      "explanation": "Fascia is connective tissue, while the others are epithelial layers."
+      "oddOne": 3,
+      "category": "Spanish Foods vs Japanese Dish",
+      "explanation": "Sushi is Japanese, while the others are Spanish dishes."
     },
     "2026-08-14": {
       "words": [
-        "Prion",
-        "Viroid",
-        "Virus",
-        "Pathogen"
+        "Tacos",
+        "Enchiladas",
+        "Quesadilla",
+        "Lasagna"
       ],
       "oddOne": 3,
-      "category": "Infectious Agents",
-      "explanation": "Pathogen is any disease-causing agent, while the others are types."
+      "category": "Mexican Dishes vs Italian Dish",
+      "explanation": "Lasagna is Italian, while the others are Mexican dishes."
     },
     "2026-08-15": {
       "words": [
-        "Peduncle",
-        "Pedicel",
-        "Petiole",
-        "Venation"
+        "Pad Thai",
+        "Tom Yum",
+        "Green Curry",
+        "Sushi"
       ],
       "oddOne": 3,
-      "category": "Plant Attachment Structures",
-      "explanation": "Venation describes vein patterns, while the others are attachment parts."
+      "category": "Thai Dishes vs Japanese Dish",
+      "explanation": "Sushi is Japanese, while the others are Thai dishes."
     },
     "2026-08-16": {
       "words": [
-        "Glycoprotein",
-        "Lipoprotein",
-        "Nucleoprotein",
-        "Glucose"
+        "Baklava",
+        "Hummus",
+        "Falafel",
+        "Sushi"
       ],
       "oddOne": 3,
-      "category": "Conjugated Proteins vs Simple Sugar",
-      "explanation": "Glucose is a simple sugar, while Glycoprotein, Lipoprotein, and Nucleoprotein are all conjugated proteins with non-protein components attached."
+      "category": "Middle Eastern Foods vs Japanese Dish",
+      "explanation": "Sushi is Japanese, while the others are Middle Eastern foods."
     },
     "2026-08-17": {
       "words": [
-        "Hydric",
-        "Mesic",
-        "Xeric",
-        "Trophe"
+        "Espresso",
+        "Cappuccino",
+        "Latte",
+        "Sake"
       ],
       "oddOne": 3,
-      "category": "Water Preference Terms",
-      "explanation": "Trophe relates to feeding, while the others describe water preferences."
+      "category": "Coffee Drinks vs Rice Wine",
+      "explanation": "Sake is a Japanese rice wine, while the others are coffee drinks."
     },
     "2026-08-18": {
       "words": [
-        "Diploid",
-        "Haploid",
-        "Aneuploid",
-        "Polyploid"
+        "Champagne",
+        "Prosecco",
+        "Cava",
+        "Whiskey"
       ],
-      "oddOne": 2,
-      "category": "Chromosome States",
-      "explanation": "Aneuploid is abnormal, while the others describe normal states."
+      "oddOne": 3,
+      "category": "Sparkling Wines vs Spirit",
+      "explanation": "Whiskey is a distilled spirit, while the others are sparkling wines."
     },
     "2026-08-19": {
       "words": [
-        "Senescence",
-        "Necrosis",
-        "Apoptosis",
-        "Quiescence"
+        "Cabernet",
+        "Merlot",
+        "Chardonnay",
+        "Vodka"
       ],
-      "oddOne": 0,
-      "category": "Cell End States",
-      "explanation": "Senescence is aging, while the others are more acute end states."
+      "oddOne": 3,
+      "category": "Wine Grape Varieties vs Spirit",
+      "explanation": "Vodka is a distilled spirit, while the others are wine grape varieties."
     },
     "2026-08-20": {
       "words": [
-        "Etiolation",
-        "Chlorosis",
-        "Necrosis",
-        "Anthesis"
+        "Monopoly",
+        "Scrabble",
+        "Clue",
+        "Chess"
       ],
       "oddOne": 3,
-      "category": "Plant Damage vs Flowering",
-      "explanation": "Anthesis is flower opening, while the others indicate plant damage."
+      "category": "Modern Board Games vs Ancient Strategy Game",
+      "explanation": "Chess dates back over a thousand years, while the others are 20th-century board games."
     },
     "2026-08-21": {
       "words": [
-        "Hemicellulose",
-        "Pectin",
-        "Cellulose",
-        "Starch"
+        "Chess",
+        "Checkers",
+        "Backgammon",
+        "Poker"
       ],
       "oddOne": 3,
-      "category": "Cell Wall vs Storage",
-      "explanation": "Starch is storage, while the others are cell wall components."
+      "category": "Board Games vs Card Game",
+      "explanation": "Poker is a card game, while the others are board games."
     },
     "2026-08-22": {
       "words": [
-        "Antibiotic",
-        "Antiseptic",
-        "Antitoxin",
-        "Antigen"
+        "Poker",
+        "Blackjack",
+        "Bridge",
+        "Chess"
       ],
       "oddOne": 3,
-      "category": "Anti- Terms vs Immune Response",
-      "explanation": "Antigen triggers immune response, while others combat infections."
+      "category": "Card Games vs Board Game",
+      "explanation": "Chess is a board game, while the others are card games."
     },
     "2026-08-23": {
       "words": [
-        "Cryptic",
-        "Aposematic",
-        "Mimetic",
-        "Predation"
+        "Mario",
+        "Luigi",
+        "Bowser",
+        "Sonic"
       ],
       "oddOne": 3,
-      "category": "Camouflage Strategies",
-      "explanation": "Predation is a hunting strategy, while the others are disguise strategies."
+      "category": "Mario Franchise Characters vs Sega Character",
+      "explanation": "Sonic belongs to a different video game franchise (Sega), while the others are from Nintendo's Mario series."
     },
     "2026-08-24": {
       "words": [
-        "Acini",
-        "Alveoli",
-        "Lobules",
-        "Sinuses"
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch",
+        "Google"
       ],
-      "oddOne": 2,
-      "category": "Glandular Structures",
-      "explanation": "Sinuses are hollow spaces, while the others are glandular secretory units."
+      "oddOne": 3,
+      "category": "Video Game Consoles vs Tech Company",
+      "explanation": "Google is a tech company, not a game console, while the others are gaming consoles."
     },
     "2026-08-25": {
       "words": [
-        "Osmoreceptor",
-        "Chemoreceptor",
-        "Photoreceptor",
-        "Mechano"
+        "Pikachu",
+        "Charizard",
+        "Bulbasaur",
+        "Mario"
       ],
       "oddOne": 3,
-      "category": "-receptor Terms",
-      "explanation": "Mechano is incomplete, while the others are complete receptor types."
+      "category": "Pok\u00e9mon vs Nintendo Mascot (Different Franchise)",
+      "explanation": "Mario is from a different Nintendo franchise, while the others are Pok\u00e9mon."
     },
     "2026-08-26": {
       "words": [
-        "Calyx",
-        "Corolla",
-        "Androecium",
-        "Pericarp"
+        "Batman",
+        "Superman",
+        "Wonder Woman",
+        "Spider-Man"
       ],
       "oddOne": 3,
-      "category": "Flower Parts vs Fruit",
-      "explanation": "Pericarp is the fruit wall, while the others are flower parts."
+      "category": "DC Superheroes vs Marvel Superhero",
+      "explanation": "Spider-Man is a Marvel character, while the others are DC characters."
     },
     "2026-08-27": {
       "words": [
-        "Ulna",
-        "Fibula",
-        "Radius",
-        "Humerus"
+        "Spider-Man",
+        "Iron Man",
+        "Captain America",
+        "Batman"
       ],
       "oddOne": 3,
-      "category": "Forearm vs Upper Arm",
-      "explanation": "Humerus is upper arm, while the others are forearm/lower leg bones."
+      "category": "Marvel Superheroes vs DC Superhero",
+      "explanation": "Batman is a DC character, while the others are Marvel characters."
     },
     "2026-08-28": {
       "words": [
-        "Cilium",
-        "Flagellum",
-        "Pilus",
-        "Nucleus"
+        "Harry Potter",
+        "Hermione Granger",
+        "Ron Weasley",
+        "Frodo Baggins"
       ],
       "oddOne": 3,
-      "category": "Cell Projections vs Organelle",
-      "explanation": "Nucleus is an organelle, while the others are cell projections."
+      "category": "Harry Potter Characters vs Lord of the Rings Character",
+      "explanation": "Frodo Baggins is from \"The Lord of the Rings,\" while the others are from \"Harry Potter.\""
     },
     "2026-08-29": {
       "words": [
-        "Hypogeal",
-        "Epigeal",
-        "Hypogene",
-        "Hypogynous"
+        "Frodo",
+        "Gandalf",
+        "Aragorn",
+        "Dumbledore"
       ],
-      "oddOne": 2,
-      "category": "Growth/Development Terms",
-      "explanation": "Hypogene is geological, while the others relate to plant germination."
+      "oddOne": 3,
+      "category": "Lord of the Rings Characters vs Harry Potter Character",
+      "explanation": "Dumbledore is from \"Harry Potter,\" while the others are from \"The Lord of the Rings.\""
     },
     "2026-08-30": {
       "words": [
-        "Sensum",
-        "Quorum",
-        "Factum",
-        "Momentum"
+        "Luke Skywalker",
+        "Darth Vader",
+        "Yoda",
+        "Gandalf"
       ],
-      "oddOne": 2,
-      "category": "Latin Scientific Terms",
-      "explanation": "Factum is not commonly used in science, while the others are."
+      "oddOne": 3,
+      "category": "Star Wars Characters vs Lord of the Rings Character",
+      "explanation": "Gandalf is from \"The Lord of the Rings,\" while the others are from \"Star Wars.\""
     },
     "2026-08-31": {
       "words": [
-        "Cytokine",
-        "Antibody",
-        "Antigen",
-        "Enzyme"
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Shrek"
       ],
       "oddOne": 3,
-      "category": "Immune Molecules vs Catalyst",
-      "explanation": "Enzyme is a biological catalyst, while the others are immune molecules."
+      "category": "The Lion King Characters vs Different Animated Character",
+      "explanation": "Shrek is from a different animated franchise, while the others are from \"The Lion King.\""
     },
     "2026-09-01": {
       "words": [
-        "Stratification",
-        "Diversification",
-        "Speciation",
-        "Mutation"
+        "Elsa",
+        "Anna",
+        "Olaf",
+        "Shrek"
       ],
-      "oddOne": 0,
-      "category": "Evolutionary Terms",
-      "explanation": "Stratification is geological layering, while the others are evolutionary."
+      "oddOne": 3,
+      "category": "Frozen Characters vs Different Animated Character",
+      "explanation": "Shrek is from a different franchise, while the others are from \"Frozen.\""
     },
     "2026-09-02": {
       "words": [
-        "Anaphase",
-        "Telophase",
-        "Prophase",
-        "Helicase"
+        "Cinderella",
+        "Snow White",
+        "Sleeping Beauty",
+        "Alice in Wonderland"
       ],
       "oddOne": 3,
-      "category": "Mitotic Phases vs Enzyme",
-      "explanation": "Helicase is an enzyme, while the others are mitotic phases."
+      "category": "Classic Disney Princess Tales vs Fantasy Adventure Tale",
+      "explanation": "\"Alice in Wonderland\" is a fantasy adventure rather than a princess story, while the others are classic princess fairy tales."
     },
     "2026-09-03": {
       "words": [
-        "Thylakoid",
-        "Stroma",
-        "Grana",
-        "Matrix"
+        "Rocky",
+        "Jaws",
+        "Titanic",
+        "Monopoly"
       ],
       "oddOne": 3,
-      "category": "Chloroplast vs Mitochondrion",
-      "explanation": "Matrix is in mitochondria, while the others are in chloroplasts."
+      "category": "Famous Movies vs Board Game",
+      "explanation": "Monopoly is a board game, while the others are famous movies."
     },
     "2026-09-04": {
       "words": [
-        "Photolysis",
-        "Photophosphorylation",
-        "Photosynthesis",
-        "Photoperiod"
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Leonardo DiCaprio"
       ],
       "oddOne": 3,
-      "category": "Photosynthesis Reactions vs Light Timing",
-      "explanation": "Photoperiod describes light/dark cycle timing for organisms, while the others are specific chemical reactions within photosynthesis."
+      "category": "Film Directors vs Actor",
+      "explanation": "Leonardo DiCaprio is primarily known as an actor, while the others are film directors."
     },
     "2026-09-05": {
       "words": [
-        "Deamination",
-        "Transamination",
-        "Oxidation",
-        "Decarboxylation"
+        "Meryl Streep",
+        "Tom Hanks",
+        "Denzel Washington",
+        "Spielberg"
       ],
-      "oddOne": 1,
-      "category": "Amino Acid Metabolism",
-      "explanation": "Transamination transfers amino groups, while the others remove them."
+      "oddOne": 3,
+      "category": "Actors vs Director",
+      "explanation": "Spielberg is a director, while the others are actors."
     },
     "2026-09-06": {
       "words": [
-        "Phenotype",
-        "Genotype",
-        "Karyotype",
-        "Biotype"
+        "Oscar",
+        "Emmy",
+        "Grammy",
+        "Wimbledon"
       ],
-      "oddOne": 1,
-      "category": "-type Terms in Biology",
-      "explanation": "Genotype is hereditary, while the others are observable or countable."
+      "oddOne": 3,
+      "category": "Entertainment Awards vs Sports Tournament",
+      "explanation": "Wimbledon is a tennis tournament, while the others are entertainment awards."
     },
     "2026-09-07": {
       "words": [
-        "Pyrolysis",
-        "Hydrolysis",
-        "Photolysis",
-        "Dialysis"
+        "Nobel Prize",
+        "Pulitzer Prize",
+        "Oscar",
+        "World Cup"
       ],
       "oddOne": 3,
-      "category": "Breaking Bonds vs Separation",
-      "explanation": "Dialysis is separation, while the others break chemical bonds."
+      "category": "Prestigious Awards vs Sports Tournament",
+      "explanation": "World Cup is a sports tournament, while the others are prestigious awards/prizes."
     },
     "2026-09-08": {
       "words": [
-        "Diplococci",
-        "Bacilli",
-        "Cocci",
-        "Spirilla"
+        "Einstein",
+        "Curie",
+        "Hawking",
+        "Shakespeare"
       ],
-      "oddOne": 0,
-      "category": "Bacterial Shapes",
-      "explanation": "Diplococci is plural of diplococcus, while the others are general shapes."
+      "oddOne": 3,
+      "category": "Scientists vs Playwright",
+      "explanation": "Shakespeare was a playwright, while the others were scientists."
     },
     "2026-09-09": {
       "words": [
-        "Cortex",
-        "Pith",
-        "Cambium",
-        "Sapwood"
+        "Newton",
+        "Darwin",
+        "Tesla",
+        "Picasso"
       ],
       "oddOne": 3,
-      "category": "Tree Stem Layers",
-      "explanation": "Sapwood is actively transporting, while the others are structural layers."
+      "category": "Scientists vs Painter",
+      "explanation": "Picasso was a painter, while the others were scientists."
     },
     "2026-09-10": {
       "words": [
-        "Vascular",
-        "Avascular",
-        "Devascular",
-        "Extravascular"
+        "Tesla",
+        "Edison",
+        "Franklin",
+        "Beethoven"
       ],
-      "oddOne": 1,
-      "category": "-vascular Terms",
-      "explanation": "Avascular means without vessels, while others have specific meanings."
+      "oddOne": 3,
+      "category": "Inventors/Scientists vs Composer",
+      "explanation": "Beethoven was a composer, while the others were inventors/scientists linked to electricity."
     },
     "2026-09-11": {
       "words": [
-        "Endodermis",
-        "Exodermis",
-        "Epidermis",
-        "Dermis"
+        "Lightbulb",
+        "Telephone",
+        "Airplane",
+        "Sonata"
       ],
-      "oddOne": 1,
-      "category": "Skin/Plant Layers",
-      "explanation": "Exodermis is less common, while the others are well-defined layers."
+      "oddOne": 3,
+      "category": "Famous Inventions vs Musical Form",
+      "explanation": "Sonata is a musical form, while the others are famous inventions."
     },
     "2026-09-12": {
       "words": [
-        "Xylem",
-        "Phloem",
-        "Cortex",
-        "Cambium"
+        "Printing Press",
+        "Telegraph",
+        "Internet",
+        "Colosseum"
       ],
-      "oddOne": 2,
-      "category": "Transport vs Structural",
-      "explanation": "Cortex is structural, while the others transport substances."
+      "oddOne": 3,
+      "category": "Communication Inventions vs Ancient Structure",
+      "explanation": "Colosseum is an ancient structure, while the others are communication inventions."
     },
     "2026-09-13": {
       "words": [
-        "Amphimictic",
-        "Apomictic",
-        "Allogamous",
-        "Autogamous"
+        "Great Depression",
+        "World War II",
+        "Cold War",
+        "Renaissance"
       ],
-      "oddOne": 0,
-      "category": "Reproduction Terms",
-      "explanation": "Amphimictic means sexual reproduction, while the others are specific types."
+      "oddOne": 3,
+      "category": "20th Century Events vs Cultural Era",
+      "explanation": "The Renaissance was a cultural era centuries earlier, while the others are 20th-century historical events/periods."
     },
     "2026-09-14": {
       "words": [
-        "Amoeboid",
-        "Flagellate",
-        "Ciliate",
-        "Spore"
+        "Roman Empire",
+        "British Empire",
+        "Ottoman Empire",
+        "Amazon"
       ],
       "oddOne": 3,
-      "category": "Protist Movement Types",
-      "explanation": "Spore is a reproductive stage, while the others describe movement."
+      "category": "Historical Empires vs Company/River",
+      "explanation": "Amazon is a modern company (and river), not a historical empire, while the others are."
     },
     "2026-09-15": {
       "words": [
-        "Spermatogenesis",
-        "Oogenesis",
-        "Spermatogonia",
-        "Mitosis"
+        "Julius Caesar",
+        "Cleopatra",
+        "Nero",
+        "Lincoln"
       ],
       "oddOne": 3,
-      "category": "Sex Cell Production vs General",
-      "explanation": "Mitosis is general cell division, while the others are sex cell production."
+      "category": "Figures of Ancient Rome/Egypt vs US President",
+      "explanation": "Lincoln was a US president, while the others are figures from ancient Rome and Egypt."
     },
     "2026-09-16": {
       "words": [
-        "Epibiotic",
-        "Epizoic",
-        "Epiphytic",
-        "Epibenthic"
+        "Lincoln",
+        "Washington",
+        "Jefferson",
+        "Churchill"
       ],
-      "oddOne": 1,
-      "category": "Living On Others",
-      "explanation": "Epizoic means living on animals, while the others are on specific organisms."
+      "oddOne": 3,
+      "category": "US Presidents vs British Prime Minister",
+      "explanation": "Churchill was a British Prime Minister, while the others were US presidents."
     },
     "2026-09-17": {
       "words": [
-        "Cytoplasm",
-        "Nucleoplasm",
-        "Protoplasm",
-        "Sarcoplasm"
+        "Churchill",
+        "Thatcher",
+        "Blair",
+        "Lincoln"
       ],
-      "oddOne": 2,
-      "category": "-plasm Terms",
-      "explanation": "Protoplasm is outdated umbrella term, while the others are specific."
+      "oddOne": 3,
+      "category": "British Prime Ministers vs US President",
+      "explanation": "Lincoln was a US president, while the others were British Prime Ministers."
     },
     "2026-09-18": {
       "words": [
-        "Amitosis",
-        "Mitosis",
-        "Meiosis",
-        "Cytokinesis"
+        "Gandhi",
+        "Mandela",
+        "Martin Luther King Jr.",
+        "Napoleon"
       ],
-      "oddOne": 0,
-      "category": "Division Types",
-      "explanation": "Amitosis is direct division (rare), while the others are standard types."
+      "oddOne": 3,
+      "category": "Civil Rights/Independence Leaders vs Military Conqueror",
+      "explanation": "Napoleon was a military conqueror, while the others were leaders known for nonviolent civil rights or independence movements."
     },
     "2026-09-19": {
       "words": [
-        "Tetrad",
-        "Bivalent",
-        "Univalent",
-        "Monad"
+        "Mount Rushmore",
+        "Statue of Liberty",
+        "White House",
+        "Big Ben"
       ],
       "oddOne": 3,
-      "category": "Chromosome Pairing Terms",
-      "explanation": "Monad refers to single chromosome, while the others describe pairings."
+      "category": "American Landmarks vs British Landmark",
+      "explanation": "Big Ben is in London, while the others are American landmarks."
     },
     "2026-09-20": {
       "words": [
-        "Synergid",
-        "Synapse",
-        "Syndesis",
-        "Zygote"
+        "Big Ben",
+        "Buckingham Palace",
+        "Tower Bridge",
+        "Eiffel Tower"
       ],
-      "oddOne": 1,
-      "category": "'Syn' Terms in Biology",
-      "explanation": "Synapse is neural, while the others relate to cellular fusion."
+      "oddOne": 3,
+      "category": "London Landmarks vs Paris Landmark",
+      "explanation": "Eiffel Tower is in Paris, while the others are London landmarks."
     },
     "2026-09-21": {
       "words": [
-        "Apocrine",
-        "Eccrine",
-        "Endocrine",
-        "Exocrine"
+        "Eiffel Tower",
+        "Louvre",
+        "Notre-Dame",
+        "Colosseum"
       ],
-      "oddOne": 2,
-      "category": "Gland Types",
-      "explanation": "Endocrine is internal, while the others secrete externally."
+      "oddOne": 3,
+      "category": "Paris Landmarks vs Rome Landmark",
+      "explanation": "Colosseum is in Rome, while the others are Paris landmarks."
     },
     "2026-09-22": {
       "words": [
-        "Lacunar",
-        "Luminal",
-        "Alveolar",
-        "Cavernous"
+        "Colosseum",
+        "Trevi Fountain",
+        "Pantheon",
+        "Big Ben"
       ],
-      "oddOne": 1,
-      "category": "Space-containing Structures",
-      "explanation": "Luminal relates to a tube's interior, while the others describe cavities."
+      "oddOne": 3,
+      "category": "Rome Landmarks vs London Landmark",
+      "explanation": "Big Ben is in London, while the others are Rome landmarks."
     },
     "2026-09-23": {
       "words": [
-        "Cryptophyte",
-        "Hemicryptophyte",
-        "Phanerophyte",
-        "Therophyte"
+        "Great Barrier Reef",
+        "Uluru",
+        "Sydney Opera House",
+        "Mount Fuji"
       ],
-      "oddOne": 2,
-      "category": "Raunkiaer's Life Forms",
-      "explanation": "Phanerophyte has above-ground resting buds, while the others hide theirs."
+      "oddOne": 3,
+      "category": "Australian Landmarks vs Japanese Landmark",
+      "explanation": "Mount Fuji is in Japan, while the others are Australian landmarks."
     },
     "2026-09-24": {
       "words": [
-        "Catabolism",
-        "Anabolism",
-        "Metabolism",
-        "Catharsis"
+        "Great Wall of China",
+        "Forbidden City",
+        "Terracotta Army",
+        "Taj Mahal"
       ],
       "oddOne": 3,
-      "category": "Metabolic Terms",
-      "explanation": "Catharsis is psychological, while the others are metabolic processes."
+      "category": "Chinese Landmarks vs Indian Landmark",
+      "explanation": "Taj Mahal is in India, while the others are in China."
     },
     "2026-09-25": {
       "words": [
-        "Sessile",
-        "Petiolate",
-        "Stipulate",
-        "Foliate"
+        "Taj Mahal",
+        "Ganges",
+        "Himalayas",
+        "Big Ben"
       ],
       "oddOne": 3,
-      "category": "Leaf Attachment vs Leaf Structure",
-      "explanation": "Foliate describes leaf structure, while the others describe attachment."
+      "category": "Indian Landmarks/Geography vs British Landmark",
+      "explanation": "Big Ben is in London, while the others are associated with India."
     },
     "2026-09-26": {
       "words": [
-        "Achroic",
-        "Achromatic",
-        "Achromatous",
-        "Achiral"
+        "Kremlin",
+        "Red Square",
+        "St. Basil's Cathedral",
+        "Eiffel Tower"
       ],
       "oddOne": 3,
-      "category": "Non-color Terms",
-      "explanation": "Achiral relates to chirality, not color, while the others relate to colorless."
+      "category": "Moscow Landmarks vs Paris Landmark",
+      "explanation": "Eiffel Tower is in Paris, while the others are in Moscow."
     },
     "2026-09-27": {
       "words": [
-        "Basophilic",
-        "Acidophilic",
-        "Eosinophilic",
-        "Phobic"
+        "Amazon Rainforest",
+        "Sahara Desert",
+        "Great Barrier Reef",
+        "Sun"
       ],
       "oddOne": 3,
-      "category": "-philic Staining Terms",
-      "explanation": "Phobic means fear of, while the others are staining affinities."
+      "category": "Natural Wonders vs Star",
+      "explanation": "The Sun is a star, while the others are natural wonders on Earth."
     },
     "2026-09-28": {
       "words": [
-        "Dichotomy",
-        "Dichotomous",
-        "Dichromatic",
-        "Dichotic"
+        "Cheetah",
+        "Peregrine Falcon",
+        "Sailfish",
+        "Sloth"
       ],
-      "oddOne": 1,
-      "category": "'Dicho-' Terms",
-      "explanation": "Dichotomous is the adjective form, while the others are nouns."
+      "oddOne": 3,
+      "category": "Fastest Animals (Each in Their Domain) vs Slowest Animal",
+      "explanation": "Sloth is famously one of the slowest animals, while the others are among the fastest in their domain (land, air, water)."
     },
     "2026-09-29": {
       "words": [
-        "Xerophyte",
-        "Mesophyte",
-        "Hydrophyte",
-        "Photophyte"
+        "Blue Whale",
+        "African Elephant",
+        "Giraffe",
+        "Chihuahua"
       ],
       "oddOne": 3,
-      "category": "Water Preference Plants",
-      "explanation": "Photophyte is light-related, while the others are water-related."
+      "category": "Largest Animals vs Small Dog Breed",
+      "explanation": "Chihuahua is one of the smallest dog breeds, while the others are among the largest animals."
     },
     "2026-09-30": {
       "words": [
-        "Gonopodium",
-        "Gonopore",
-        "Gonochory",
-        "Gonidium"
+        "Ostrich",
+        "Penguin",
+        "Kiwi",
+        "Eagle"
       ],
-      "oddOne": 2,
-      "category": "Reproductive/Sexual Terms",
-      "explanation": "Gonochory is having separate sexes, while the others are anatomical."
+      "oddOne": 3,
+      "category": "Flightless Birds vs Bird of Prey That Flies",
+      "explanation": "Eagle can fly, while the others are flightless birds."
     },
     "2026-10-01": {
       "words": [
-        "Internode",
-        "Node",
-        "Petiole",
-        "Pedicel"
+        "Komodo Dragon",
+        "Anaconda",
+        "Great White Shark",
+        "Goldfish"
       ],
       "oddOne": 3,
-      "category": "Stem Segments vs Attachment",
-      "explanation": "Pedicel is flower stalk, while the others relate to stem segments."
+      "category": "Large Predators vs Common Small Pet",
+      "explanation": "Goldfish is a small, common pet, while the others are large predators."
     },
     "2026-10-02": {
       "words": [
-        "Rhizosphere",
-        "Rhizoid",
-        "Rhizome",
-        "Rhizobia"
+        "T-Rex",
+        "Triceratops",
+        "Velociraptor",
+        "Woolly Mammoth"
       ],
-      "oddOne": 1,
-      "category": "'Rhizo-' Terms",
-      "explanation": "Rhizoid is root-like, while the others are root or root-related structures."
+      "oddOne": 3,
+      "category": "Dinosaurs vs Ice Age Mammal",
+      "explanation": "Woolly Mammoth lived during the Ice Age, long after dinosaurs went extinct, while the others are dinosaurs."
     },
     "2026-10-03": {
       "words": [
-        "Dendrite",
-        "Dendron",
-        "Dendritic",
-        "Dendrogram"
+        "Pterodactyl",
+        "Stegosaurus",
+        "Brontosaurus",
+        "Sabertooth Tiger"
       ],
       "oddOne": 3,
-      "category": "Tree-like Neural Terms",
-      "explanation": "Dendrogram is a tree diagram, while the others are neural structures."
+      "category": "Dinosaurs vs Ice Age Predator",
+      "explanation": "Sabertooth Tiger was an Ice Age mammal, while the others are dinosaurs."
     },
     "2026-10-04": {
       "words": [
-        "Estrous",
-        "Estral",
-        "Estrual",
-        "Estive"
+        "Woolly Mammoth",
+        "Sabertooth Tiger",
+        "Giant Sloth",
+        "T-Rex"
       ],
       "oddOne": 3,
-      "category": "Estrus-related Terms",
-      "explanation": "Estive relates to estivation, while the others relate to estrous cycle."
+      "category": "Ice Age Animals vs Dinosaur",
+      "explanation": "T-Rex was a dinosaur that lived millions of years before the Ice Age, while the others were Ice Age mammals."
     },
     "2026-10-05": {
       "words": [
-        "Myelin",
-        "Axon",
-        "Soma",
-        "Synapse"
+        "Julius Caesar",
+        "Alexander the Great",
+        "Genghis Khan",
+        "Beethoven"
       ],
       "oddOne": 3,
-      "category": "Neuron Structure",
-      "explanation": "Synapse is the connection, while the others are neuron parts."
+      "category": "Military Conquerors vs Composer",
+      "explanation": "Beethoven was a composer, while the others were famous military conquerors."
     },
     "2026-10-06": {
       "words": [
-        "Epistasis",
-        "Dominance",
-        "Recessiveness",
-        "Episteme"
+        "Genghis Khan",
+        "Kublai Khan",
+        "Attila the Hun",
+        "Mozart"
       ],
       "oddOne": 3,
-      "category": "Genetic Interaction",
-      "explanation": "Episteme is philosophical, while the others are genetic terms."
+      "category": "Historical Warlords/Conquerors vs Composer",
+      "explanation": "Mozart was a composer, while the others were historical conquerors."
     },
     "2026-10-07": {
       "words": [
-        "Mycelium",
-        "Thallus",
-        "Frond",
-        "Stalk"
+        "Vikings",
+        "Romans",
+        "Mongols",
+        "Beatles"
       ],
       "oddOne": 3,
-      "category": "Fungal/Plant Body",
-      "explanation": "Stalk is a support structure, while the others are organism bodies."
+      "category": "Historical Warrior Civilizations vs Modern Band",
+      "explanation": "The Beatles are a modern band, while the others are historical warrior civilizations/empires."
     },
     "2026-10-08": {
       "words": [
-        "Deme",
-        "Population",
-        "Metapopulation",
-        "Species"
+        "Samurai",
+        "Knight",
+        "Viking",
+        "Astronaut"
       ],
-      "oddOne": 2,
-      "category": "Population Hierarchy",
-      "explanation": "Metapopulation is above population level, while the others are below species."
+      "oddOne": 3,
+      "category": "Historical Warriors vs Modern Profession",
+      "explanation": "Astronaut is a modern profession, while the others are historical warrior classes."
     },
     "2026-10-09": {
       "words": [
-        "Pelagic",
-        "Neritic",
-        "Abyssal",
-        "Aerial"
+        "Gladiator",
+        "Knight",
+        "Samurai",
+        "Firefighter"
       ],
       "oddOne": 3,
-      "category": "Marine Zones",
-      "explanation": "Aerial is air-based, while the others are marine zones."
+      "category": "Historical Warriors vs Modern Profession",
+      "explanation": "Firefighter is a modern profession, while the others are historical warrior roles."
     },
     "2026-10-10": {
       "words": [
-        "Amphipathic",
-        "Hydrophilic",
-        "Hydrophobic",
-        "Lipophobic"
+        "Pyramids",
+        "Stonehenge",
+        "Machu Picchu",
+        "Empire State Building"
       ],
       "oddOne": 3,
-      "category": "Water Affinity",
-      "explanation": "Lipophobic is fat-repelling (rare), while the others relate to water."
+      "category": "Ancient Wonders vs Modern Skyscraper",
+      "explanation": "Empire State Building is a 20th-century skyscraper, while the others are ancient structures."
     },
     "2026-10-11": {
       "words": [
-        "Quaternary",
-        "Tertiary",
-        "Secondary",
-        "Primary"
+        "Empire State Building",
+        "Chrysler Building",
+        "One World Trade Center",
+        "Big Ben"
       ],
-      "oddOne": 1,
-      "category": "Protein Structure Levels",
-      "explanation": "Tertiary is folded chain, while the others are structural levels."
+      "oddOne": 3,
+      "category": "New York Skyscrapers vs London Landmark",
+      "explanation": "Big Ben is in London, while the others are in New York City."
     },
     "2026-10-12": {
       "words": [
-        "Diastema",
-        "Diastem",
-        "Diastasis",
-        "Diatomaceous"
+        "Burj Khalifa",
+        "Empire State Building",
+        "Shanghai Tower",
+        "Eiffel Tower"
       ],
       "oddOne": 3,
-      "category": "-diast- Terms",
-      "explanation": "Diatomaceous relates to diatoms, while the others relate to spacing."
+      "category": "Skyscrapers vs Iron Tower",
+      "explanation": "Eiffel Tower is an iron lattice tower, not a skyscraper in the traditional sense, while the others are skyscrapers."
     },
     "2026-10-13": {
       "words": [
-        "Integument",
-        "Integumentary",
-        "Integumental",
-        "Integral"
+        "Titanic",
+        "Queen Mary",
+        "Lusitania",
+        "Concorde"
       ],
       "oddOne": 3,
-      "category": "Integument Terms",
-      "explanation": "Integral means complete, while the others relate to skin/covering."
+      "category": "Ocean Liners vs Supersonic Jet",
+      "explanation": "Concorde was a supersonic passenger jet, while the others were ocean liners."
     },
     "2026-10-14": {
       "words": [
-        "Pathognomonic",
-        "Pathogenic",
-        "Pathological",
-        "Symptomatic"
+        "Concorde",
+        "Boeing 747",
+        "Airbus A380",
+        "Titanic"
       ],
-      "oddOne": 0,
-      "category": "Diagnostic Specificity vs General Terms",
-      "explanation": "Pathognomonic means uniquely identifying a specific disease, while Pathogenic, Pathological, and Symptomatic are broader medical descriptors."
+      "oddOne": 3,
+      "category": "Aircraft vs Ship",
+      "explanation": "Titanic was a ship, while the others are aircraft."
     },
     "2026-10-15": {
       "words": [
-        "Mesoderm",
-        "Ectoderm",
-        "Endoderm",
-        "Epidermis"
+        "Apollo 11",
+        "Sputnik",
+        "Hubble Telescope",
+        "Titanic"
       ],
       "oddOne": 3,
-      "category": "Germ Layers",
-      "explanation": "Epidermis is derived from germ layers, not a germ layer itself."
+      "category": "Space-related Achievements vs Ship",
+      "explanation": "Titanic was a ship, while the others are related to space exploration."
     },
     "2026-10-16": {
       "words": [
-        "Septate",
-        "Septum",
-        "Septal",
-        "Septic"
+        "Mona Lisa",
+        "The Scream",
+        "Girl with a Pearl Earring",
+        "Romeo and Juliet"
       ],
       "oddOne": 3,
-      "category": "Partition Terms",
-      "explanation": "Septic means infected, while the others relate to dividing walls."
+      "category": "Famous Paintings vs Shakespeare Play",
+      "explanation": "Romeo and Juliet is a play, while the others are famous paintings."
     },
     "2026-10-17": {
       "words": [
-        "Morphogenesis",
-        "Osteogenesis",
-        "Ontogenesis",
-        "Osteoma"
+        "Romeo and Juliet",
+        "Hamlet",
+        "Macbeth",
+        "The Great Gatsby"
       ],
       "oddOne": 3,
-      "category": "-genesis Terms",
-      "explanation": "Osteoma is a tumor, while the others describe developmental processes."
+      "category": "Shakespeare Plays vs American Novel",
+      "explanation": "The Great Gatsby is an American novel, while the others are Shakespeare plays."
     },
     "2026-10-18": {
       "words": [
-        "Somite",
-        "Segment",
-        "Metamere",
-        "Ganglion"
+        "The Great Gatsby",
+        "Moby Dick",
+        "To Kill a Mockingbird",
+        "Romeo and Juliet"
       ],
       "oddOne": 3,
-      "category": "Body Segmentation Units vs Nerve Cluster",
-      "explanation": "Ganglion is a cluster of nerve cells, while Somite, Segment, and Metamere all refer to repeated body segmentation units."
+      "category": "American Novels vs Shakespeare Play",
+      "explanation": "Romeo and Juliet is a Shakespeare play, while the others are American novels."
     },
     "2026-10-19": {
       "words": [
-        "Neoteny",
-        "Neotenic",
-        "Neonate",
-        "Neotenous"
+        "Moby Dick",
+        "War and Peace",
+        "Don Quixote",
+        "iPhone"
       ],
-      "oddOne": 2,
-      "category": "Neoteny Terms",
-      "explanation": "Neonate is a newborn, while the others relate to retaining juvenile features."
+      "oddOne": 3,
+      "category": "Classic Novels vs Modern Product",
+      "explanation": "iPhone is a modern tech product, while the others are classic novels."
     },
     "2026-10-20": {
       "words": [
-        "Plasticity",
-        "Plastid",
-        "Plastron",
-        "Plastic"
+        "iPhone",
+        "iPad",
+        "MacBook",
+        "PlayStation"
       ],
       "oddOne": 3,
-      "category": "Plant/Bio Terms",
-      "explanation": "Plastic is general term, while the others relate to biology specifically."
+      "category": "Apple Products vs Sony Product",
+      "explanation": "PlayStation is made by Sony, while the others are Apple products."
     },
     "2026-10-21": {
       "words": [
-        "Turgescence",
-        "Turgor",
-        "Turgid",
-        "Turbid"
+        "Windows",
+        "Office",
+        "Xbox",
+        "iPhone"
       ],
       "oddOne": 3,
-      "category": "Cell Water Pressure",
-      "explanation": "Turbid means cloudy, while the others relate to cell turgidity."
+      "category": "Microsoft Products vs Apple Product",
+      "explanation": "iPhone is an Apple product, while the others are Microsoft products."
     },
     "2026-10-22": {
       "words": [
-        "Sclerenchyma",
-        "Parenchyma",
-        "Collenchyma",
-        "Schlerosis"
+        "Instagram",
+        "WhatsApp",
+        "Facebook",
+        "YouTube"
       ],
       "oddOne": 3,
-      "category": "Plant Tissues",
-      "explanation": "Sclerosis is hardening condition, while the others are plant tissues."
+      "category": "Meta-owned Platforms vs Google-owned Platform",
+      "explanation": "YouTube is owned by Google, while the others are owned by Meta."
     },
     "2026-10-23": {
       "words": [
-        "Lysogenic",
-        "Lytic",
-        "Lysate",
-        "Lysis"
+        "YouTube",
+        "Gmail",
+        "Android",
+        "TikTok"
       ],
-      "oddOne": 2,
-      "category": "Viral/Cell Processes",
-      "explanation": "Lysate is the product of lysis, while the others are processes."
+      "oddOne": 3,
+      "category": "Google-owned Platforms vs Independent App",
+      "explanation": "TikTok is owned by ByteDance, not Google, while the others are Google products."
     },
     "2026-10-24": {
       "words": [
-        "Serratulate",
-        "Serrate",
-        "Serrulate",
-        "Serpentine"
+        "Twitter",
+        "TikTok",
+        "Snapchat",
+        "Amazon"
       ],
       "oddOne": 3,
-      "category": "Saw-toothed Terms",
-      "explanation": "Serpentine means snake-like, while the others describe saw-tooth edges."
+      "category": "Social Media Platforms vs E-commerce Company",
+      "explanation": "Amazon is primarily an e-commerce company, while the others are social media platforms."
     },
     "2026-10-25": {
       "words": [
-        "Pinnate",
-        "Palmate",
-        "Digitate",
-        "Pinnacle"
+        "Amazon",
+        "eBay",
+        "Walmart",
+        "Twitter"
       ],
       "oddOne": 3,
-      "category": "Leaf Arrangement",
-      "explanation": "Pinnacle is a peak, while the others describe leaf patterns."
+      "category": "Retail/E-commerce Companies vs Social Media Platform",
+      "explanation": "Twitter is a social media platform, while the others are retail/e-commerce companies."
     },
     "2026-10-26": {
       "words": [
-        "Anisotropic",
-        "Isotropic",
-        "Orthotropic",
-        "Anisotropy"
+        "Boeing",
+        "Airbus",
+        "Lockheed Martin",
+        "Ferrari"
       ],
       "oddOne": 3,
-      "category": "Directional Properties",
-      "explanation": "Anisotropy is the property, while the others are adjectives."
+      "category": "Aerospace Companies vs Car Manufacturer",
+      "explanation": "Ferrari makes cars, while the others are aerospace companies."
     },
     "2026-10-27": {
       "words": [
-        "Plastogamy",
-        "Plasmogamy",
-        "Plasmodium",
-        "Plasmolyze"
+        "Toyota",
+        "Honda",
+        "Ford",
+        "Boeing"
       ],
-      "oddOne": 2,
-      "category": "Fusion/Cytoplasm Terms",
-      "explanation": "Plasmodium is an organism, while the others relate to cytoplasm."
+      "oddOne": 3,
+      "category": "Car Manufacturers vs Aerospace Company",
+      "explanation": "Boeing makes aircraft, while the others are car manufacturers."
     },
     "2026-10-28": {
       "words": [
-        "Allochory",
-        "Alloclinal",
-        "Allochthon",
-        "Allotype"
+        "Rolex",
+        "Omega",
+        "Cartier",
+        "Nike"
       ],
-      "oddOne": 1,
-      "category": "'Allo-' Biology Terms",
-      "explanation": "Alloclinal is rare/technical, while the others are common."
+      "oddOne": 3,
+      "category": "Luxury Watch Brands vs Sportswear Brand",
+      "explanation": "Nike is a sportswear brand, while the others are luxury watch brands."
     },
     "2026-10-29": {
       "words": [
-        "Gonophore",
-        "Gonangium",
-        "Gonad",
-        "Gonus"
+        "Gucci",
+        "Prada",
+        "Chanel",
+        "Adidas"
       ],
       "oddOne": 3,
-      "category": "Reproductive Structures",
-      "explanation": "Gonus is not a standard term, while the others are structures."
+      "category": "Luxury Fashion Brands vs Sportswear Brand",
+      "explanation": "Adidas is a sportswear brand, while the others are luxury fashion houses."
     },
     "2026-10-30": {
       "words": [
-        "Trachea",
-        "Bronchus",
-        "Larynx",
-        "Esophagus"
+        "Sistine Chapel",
+        "Mona Lisa",
+        "David (statue)",
+        "Romeo and Juliet"
       ],
       "oddOne": 3,
-      "category": "Respiratory Airways vs Digestive Tube",
-      "explanation": "Esophagus carries food to the stomach, while Trachea, Bronchus, and Larynx are all part of the respiratory airway."
+      "category": "Renaissance Art Works vs Shakespeare Play",
+      "explanation": "Romeo and Juliet is a play by Shakespeare, while the others are famous Renaissance artworks."
     },
     "2026-10-31": {
       "words": [
-        "Hydrogel",
-        "Hydroid",
-        "Hydrogen",
-        "Hydrozoan"
+        "Michelangelo",
+        "Da Vinci",
+        "Donatello",
+        "Shakespeare"
       ],
-      "oddOne": 2,
-      "category": "'Hydro-' Terms",
-      "explanation": "Hydrogen is an element, while the others relate to water biology."
+      "oddOne": 3,
+      "category": "Renaissance Artists vs Playwright",
+      "explanation": "Shakespeare was a playwright, while the others were Renaissance artists (also, coincidentally, Ninja Turtle names)."
     },
     "2026-11-01": {
       "words": [
-        "Chromophore",
-        "Chromophil",
-        "Chromatic",
-        "Chromatin"
+        "Leonardo",
+        "Michelangelo",
+        "Raphael",
+        "Beethoven"
       ],
-      "oddOne": 2,
-      "category": "Color-bearing Terms",
-      "explanation": "Chromatic relates to color itself, while the others bear color."
+      "oddOne": 3,
+      "category": "Renaissance Artists (and Ninja Turtles) vs Composer",
+      "explanation": "Beethoven was a composer, while the others are Renaissance artists."
     },
     "2026-11-02": {
       "words": [
-        "Deciduous",
-        "Semideciduous",
-        "Marcescent",
-        "Persistent"
+        "Batman",
+        "Robin",
+        "Joker",
+        "Gandalf"
       ],
-      "oddOne": 2,
-      "category": "Leaf Persistence",
-      "explanation": "Marcescent means drying without falling, while others relate to falling."
+      "oddOne": 3,
+      "category": "Batman Characters vs Fantasy Wizard",
+      "explanation": "Gandalf is from \"The Lord of the Rings,\" while the others are Batman characters."
     },
     "2026-11-03": {
       "words": [
-        "Epistasis",
-        "Codominance",
-        "Pleiotropy",
-        "Metastasis"
+        "Hogwarts",
+        "Narnia",
+        "Middle-earth",
+        "Gotham City"
       ],
       "oddOne": 3,
-      "category": "Genetics Concepts vs Cancer Term",
-      "explanation": "Metastasis describes cancer cells spreading through the body, while Epistasis, Codominance, and Pleiotropy are all genetics concepts about gene expression."
+      "category": "Fantasy Worlds vs Superhero City",
+      "explanation": "Gotham City is a superhero setting (Batman), while the others are classic fantasy worlds."
     },
     "2026-11-04": {
       "words": [
-        "Dorsiventral",
-        "Centrifugal",
-        "Centripetal",
-        "Lateral"
+        "Narnia",
+        "Middle-earth",
+        "Hogwarts",
+        "Wall Street"
       ],
-      "oddOne": 2,
-      "category": "Directional Terms",
-      "explanation": "Centripetal means toward center (physics), while the others are spatial."
+      "oddOne": 3,
+      "category": "Fictional Fantasy Settings vs Real Financial District",
+      "explanation": "Wall Street is a real place, while the others are fictional fantasy settings."
     },
     "2026-11-05": {
       "words": [
-        "Protandrous",
-        "Protogynous",
-        "Hermaphrodite",
-        "Proterandry"
+        "Sahara",
+        "Gobi",
+        "Atacama",
+        "Amazon"
       ],
-      "oddOne": 2,
-      "category": "Sequential Hermaphroditism",
-      "explanation": "Hermaphrodite is simultaneous, while the others are sequential."
+      "oddOne": 3,
+      "category": "Deserts vs Rainforest",
+      "explanation": "Amazon is a rainforest, while the others are deserts."
     },
     "2026-11-06": {
       "words": [
-        "Zygomorphic",
-        "Actinomorphic",
-        "Isomorphic",
-        "Polymorphic"
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Mississippi"
       ],
-      "oddOne": 2,
-      "category": "Symmetry Terms",
-      "explanation": "Isomorphic means same form/structure, while the others relate to flower symmetry."
+      "oddOne": 3,
+      "category": "Tallest Mountains vs River",
+      "explanation": "Mississippi is a river, while the others are among the world's tallest mountains."
     },
     "2026-11-07": {
       "words": [
-        "Osmoconformer",
-        "Osmoregulator",
-        "Osmolyte",
-        "Osmotroph"
+        "Sicily",
+        "Sardinia",
+        "Corsica",
+        "Rome"
       ],
       "oddOne": 3,
-      "category": "Osmosis Terms",
-      "explanation": "Osmotroph is not a standard term, while the others relate to osmotic control."
+      "category": "Mediterranean Islands vs Mainland City",
+      "explanation": "Rome is on mainland Italy, not an island, while the others are Mediterranean islands."
     },
     "2026-11-08": {
       "words": [
-        "Catadromous",
-        "Anadromous",
-        "Amphidromous",
-        "Podium"
+        "Hawaii",
+        "Fiji",
+        "Bali",
+        "Kansas"
       ],
       "oddOne": 3,
-      "category": "Fish Migration",
-      "explanation": "Podium is a platform, while the others describe fish migration patterns."
+      "category": "Island Destinations vs Landlocked US State",
+      "explanation": "Kansas is a landlocked US state, while the others are islands."
     },
     "2026-11-09": {
       "words": [
-        "Protuberance",
-        "Protuberate",
-        "Protuberous",
-        "Protuberant"
+        "Venice",
+        "Amsterdam",
+        "Bangkok",
+        "Denver"
       ],
-      "oddOne": 1,
-      "category": "Protruding Terms",
-      "explanation": "Protuberate is not standard, while the others describe something sticking out."
+      "oddOne": 3,
+      "category": "Cities Known for Canals vs Mountain City",
+      "explanation": "Denver is known for its mountain proximity, not canals, while the others are famous canal cities."
     },
     "2026-11-10": {
       "words": [
-        "Endemism",
-        "Endemic",
-        "Endemite",
-        "Epidemics"
+        "Dracula",
+        "Frankenstein",
+        "Godzilla",
+        "Cinderella"
       ],
       "oddOne": 3,
-      "category": "Endemic Species Terms",
-      "explanation": "Epidemics relate to disease spread, while the others relate to endemic species."
+      "category": "Classic Monsters vs Fairy Tale Character",
+      "explanation": "Cinderella is a fairy tale character, while the others are classic monsters."
     },
     "2026-11-11": {
       "words": [
-        "Distal",
-        "Proximal",
-        "Medial",
-        "Caudal"
+        "Cinderella",
+        "Rapunzel",
+        "Snow White",
+        "Godzilla"
       ],
       "oddOne": 3,
-      "category": "Anatomical Directions",
-      "explanation": "Caudal means toward tail, while the others are general directions."
+      "category": "Fairy Tale Characters vs Movie Monster",
+      "explanation": "Godzilla is a movie monster, while the others are fairy tale characters."
     },
     "2026-11-12": {
       "words": [
-        "Flagellate",
-        "Ciliate",
-        "Amoeboid",
-        "Virgate"
+        "Jaws",
+        "Godzilla",
+        "King Kong",
+        "Bambi"
       ],
       "oddOne": 3,
-      "category": "Protist Movement",
-      "explanation": "Virgate means rod-shaped, while the others describe movement types."
+      "category": "Movie Monsters vs Gentle Animated Character",
+      "explanation": "Bambi is a gentle animated deer, while the others are famous movie monsters."
     },
     "2026-11-13": {
       "words": [
-        "Epizoite",
-        "Endoparasite",
-        "Ectoparasite",
-        "Parasitoid"
+        "Rocky Balboa",
+        "Ivan Drago",
+        "Apollo Creed",
+        "Yoda"
       ],
       "oddOne": 3,
-      "category": "Parasites",
-      "explanation": "Parasitoid kills host (insect-specific), while the others are parasites."
+      "category": "Rocky Characters vs Star Wars Character",
+      "explanation": "Yoda is from \"Star Wars,\" while the others are from \"Rocky.\""
     },
     "2026-11-14": {
       "words": [
-        "Phagocyte",
-        "Phagocytose",
-        "Phagotroph",
-        "Phage"
+        "Yoda",
+        "Chewbacca",
+        "Han Solo",
+        "Rocky Balboa"
       ],
       "oddOne": 3,
-      "category": "Phago- Terms",
-      "explanation": "Phage is bacteriophage, while the others relate to cell eating."
+      "category": "Star Wars Characters vs Rocky Character",
+      "explanation": "Rocky Balboa is from \"Rocky,\" while the others are from \"Star Wars.\""
     },
     "2026-11-15": {
       "words": [
-        "Gametogenesis",
-        "Gamete",
-        "Gametophyte",
-        "Gametic"
+        "Full House",
+        "Friends",
+        "Seinfeld",
+        "Titanic"
       ],
-      "oddOne": 1,
-      "category": "Gamete Terms",
-      "explanation": "Gamete is the cell, while the others relate to gamete production/types."
+      "oddOne": 3,
+      "category": "TV Sitcoms vs Movie",
+      "explanation": "Titanic is a movie, not a sitcom, while the others are TV sitcoms."
     },
     "2026-11-16": {
       "words": [
-        "Tetrapod",
-        "Diplopod",
-        "Arthropod",
-        "Gastropod"
+        "Friends",
+        "The Office",
+        "Seinfeld",
+        "Star Wars"
       ],
-      "oddOne": 2,
-      "category": "-pod Body Plans",
-      "explanation": "Arthropod is jointed-leg arthropods, while the others are specific types."
+      "oddOne": 3,
+      "category": "TV Sitcoms vs Movie Franchise",
+      "explanation": "Star Wars is a movie franchise, while the others are TV sitcoms."
     },
     "2026-11-17": {
       "words": [
-        "Phylogenetic",
-        "Ontogenetic",
-        "Pathogenetic",
-        "Morphogenetic"
+        "Beethoven",
+        "Bach",
+        "Vivaldi",
+        "Elvis Presley"
       ],
-      "oddOne": 1,
-      "category": "-genetic Development",
-      "explanation": "Ontogenetic relates to individual development, while others relate to evolution."
+      "oddOne": 3,
+      "category": "Classical Composers vs Rock and Roll Icon",
+      "explanation": "Elvis Presley was a rock and roll icon, while the others were classical composers."
     },
     "2026-11-18": {
       "words": [
-        "Acervulus",
-        "Pycnidium",
-        "Basidium",
-        "Acerous"
+        "Elvis Presley",
+        "Chuck Berry",
+        "Little Richard",
+        "Mozart"
       ],
       "oddOne": 3,
-      "category": "Fungal Fruiting Bodies vs Unrelated Term",
-      "explanation": "Acerous means lacking horns or awns and has nothing to do with fungi, while Acervulus, Pycnidium, and Basidium are all fungal fruiting body structures."
+      "category": "Rock and Roll Pioneers vs Classical Composer",
+      "explanation": "Mozart was a classical composer, while the others were rock and roll pioneers."
     },
     "2026-11-19": {
       "words": [
-        "Vitellogenesis",
-        "Vitellogenic",
-        "Vitellus",
-        "Vitelline"
+        "Jazz",
+        "Blues",
+        "Reggae",
+        "Sonnet"
       ],
-      "oddOne": 2,
-      "category": "Yolk-related Terms",
-      "explanation": "Vitellogenesis is yolk production, while vitellogenic relates to yolk presence."
+      "oddOne": 3,
+      "category": "Music Genres vs Poem Form",
+      "explanation": "Sonnet is a poem form, while the others are music genres."
     },
     "2026-11-20": {
       "words": [
-        "Adaxial",
-        "Abaxial",
-        "Axial",
-        "Axile"
+        "Sonnet",
+        "Haiku",
+        "Limerick",
+        "Reggae"
       ],
-      "oddOne": 2,
-      "category": "-axial Terms",
-      "explanation": "Axile relates to axis as a structure, while Adaxial/Abaxial relate to sides."
+      "oddOne": 3,
+      "category": "Poem Forms vs Music Genre",
+      "explanation": "Reggae is a music genre, while the others are fixed poem forms."
     },
     "2026-11-21": {
       "words": [
-        "Saprophyte",
-        "Saprotroph",
-        "Sapropel",
-        "Saprolite"
+        "Picasso",
+        "Dali",
+        "Warhol",
+        "Hemingway"
       ],
-      "oddOne": 2,
-      "category": "Decay/Dead Material",
-      "explanation": "Sapropel is aquatic sludge, while the others feed on dead matter."
+      "oddOne": 3,
+      "category": "Famous Visual Artists vs Novelist",
+      "explanation": "Hemingway was a novelist, while the others were visual artists."
     },
     "2026-11-22": {
       "words": [
-        "Dicotyledon",
-        "Monocotyledon",
-        "Cotyledon",
-        "Dicotyledonous"
+        "Hemingway",
+        "Fitzgerald",
+        "Steinbeck",
+        "Picasso"
       ],
-      "oddOne": 2,
-      "category": "Plant Seed Types",
-      "explanation": "Cotyledon is the seed leaf, while the others are plant classifications."
+      "oddOne": 3,
+      "category": "American Novelists vs Painter",
+      "explanation": "Picasso was a painter, while the others were American novelists."
     },
     "2026-11-23": {
       "words": [
-        "Petalous",
-        "Apetalous",
-        "Petally",
-        "Sepalous"
+        "Mount Olympus",
+        "Mount Everest",
+        "Mount Fuji",
+        "Loch Ness"
       ],
-      "oddOne": 2,
-      "category": "Petal Terms",
-      "explanation": "Petally is not standard, while the others describe petal presence."
+      "oddOne": 3,
+      "category": "Mountains vs Lake",
+      "explanation": "Loch Ness is a lake, while the others are mountains."
     },
     "2026-11-24": {
       "words": [
-        "Thymus",
-        "Thyroid",
-        "Thymidine",
-        "Thymol"
+        "Loch Ness Monster",
+        "Bigfoot",
+        "Yeti",
+        "Godzilla"
       ],
-      "oddOne": 1,
-      "category": "Thym- Terms",
-      "explanation": "Thyroid is endocrine gland, while others relate to thymus or components."
+      "oddOne": 3,
+      "category": "Legendary Cryptids vs Movie Monster",
+      "explanation": "Godzilla originated as a movie creation, while the others are legendary cryptids from folklore."
     },
     "2026-11-25": {
       "words": [
-        "Proteolysis",
-        "Proteolytic",
-        "Protease",
-        "Protein"
+        "Bigfoot",
+        "Yeti",
+        "Chupacabra",
+        "Frankenstein"
       ],
       "oddOne": 3,
-      "category": "Protein Breaking",
-      "explanation": "Protein is the substrate, while the others relate to protein breaking down."
+      "category": "Cryptids vs Literary Monster",
+      "explanation": "Frankenstein's monster is from literature, while the others are folklore cryptids."
     },
     "2026-11-26": {
       "words": [
-        "Ergot",
-        "Ergotic",
-        "Ergotism",
-        "Ergo"
+        "Unicorn",
+        "Dragon",
+        "Phoenix",
+        "Kangaroo"
       ],
       "oddOne": 3,
-      "category": "Ergot Terms",
-      "explanation": "Ergo is Latin for 'therefore', while the others relate to ergot fungus."
+      "category": "Mythical Creatures vs Real Animal",
+      "explanation": "Kangaroo is a real animal, while the others are mythical creatures."
     },
     "2026-11-27": {
       "words": [
-        "Basidiospore",
-        "Basidium",
-        "Basidiomycete",
-        "Basipetal"
+        "Phoenix",
+        "Griffin",
+        "Minotaur",
+        "Elephant"
       ],
       "oddOne": 3,
-      "category": "Basidium Terms",
-      "explanation": "Basipetal means toward base, while the others relate to basidium fungi."
+      "category": "Mythical Creatures vs Real Animal",
+      "explanation": "Elephant is a real animal, while the others are mythical creatures."
     },
     "2026-11-28": {
       "words": [
-        "Hymenium",
-        "Hymenial",
-        "Hymenoptera",
-        "Hymen"
+        "Mermaid",
+        "Centaur",
+        "Werewolf",
+        "Dolphin"
       ],
-      "oddOne": 2,
-      "category": "Hymen- Terms",
-      "explanation": "Hymenoptera is an insect order, while the others relate to fungal structure."
+      "oddOne": 3,
+      "category": "Mythical Creatures vs Real Animal",
+      "explanation": "Dolphin is a real animal, while the others are mythical creatures."
     },
     "2026-11-29": {
       "words": [
