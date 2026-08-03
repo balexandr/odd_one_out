@@ -1237,11 +1237,11 @@
         "Serengeti",
         "Sahara",
         "Gobi",
-        "Kalahari"
+        "Atacama"
       ],
       "oddOne": 0,
       "category": "Deserts vs Savanna",
-      "explanation": "The Serengeti is a grassland savanna ecosystem, not a desert, while Sahara, Gobi, and Kalahari are all deserts."
+      "explanation": "The Serengeti is a grassland savanna ecosystem, not a desert, while the Sahara, Gobi, and Atacama are true deserts."
     },
     "2026-09-02": {
       "words": [
@@ -2782,8 +2782,8 @@
         "Chopin"
       ],
       "oddOne": 2,
-      "category": "Classical-Era Composers, Except One",
-      "explanation": "Beethoven, Mozart, and Chopin worked within the Classical and Romantic traditions; Stravinsky was a 20th-century modernist composer known for breaking those conventions."
+      "category": "Pre-20th-Century Composers, Except a Modernist",
+      "explanation": "Beethoven, Mozart, and Chopin all composed before 1900 (spanning the Classical and Romantic eras); Stravinsky was a 20th-century modernist composer."
     },
     "2026-05-31": {
       "words": [
@@ -4697,7 +4697,7 @@
       ],
       "oddOne": 1,
       "category": "Things Named After Objects vs. a Language Not Named That Way",
-      "explanation": "Python, Java, and Ruby were all named after real-world things (a snake, coffee, and a gemstone), while C++ was named for its place in a sequence of languages."
+      "explanation": "Ruby, Java, and Python are all named after real-world things (a gemstone, coffee, and the comedy troupe Monty Python's Flying Circus, respectively); C++ is named for incrementing the C language, not for any object."
     },
     "2026-11-21": {
       "words": [
@@ -4729,8 +4729,8 @@
         "Iron"
       ],
       "oddOne": 1,
-      "category": "Precious Metals, Actually a Compound",
-      "explanation": "Rust is iron oxide, a chemical compound formed when iron corrodes, not an element; gold, silver, and iron are all pure elements."
+      "category": "Metallic Elements, Actually a Compound",
+      "explanation": "Gold, Silver, and Iron are metallic elements; Rust is iron oxide, a chemical compound formed when iron corrodes, not an element itself."
     },
     "2026-11-24": {
       "words": [
@@ -4971,8 +4971,8 @@
         "Watergate"
       ],
       "oddOne": 0,
-      "category": "Late-1960s Events, A WWII Attack",
-      "explanation": "The attack on Pearl Harbor happened in 1941, decades earlier; the Moon Landing, Woodstock, and the Watergate break-in all took place between 1969 and 1972."
+      "category": "Late 1960s-Early 1970s Events, A WWII Attack",
+      "explanation": "The attack on Pearl Harbor happened in 1941, decades earlier; the Moon Landing (1969), Woodstock (1969), and the Watergate break-in (1972) all happened between 1969 and 1972."
     },
     "2026-12-16": {
       "words": [
@@ -5309,13 +5309,13 @@
     "2026-05-26": {
       "words": [
         "PGA Championship",
-        "US Open",
+        "Australian Open",
         "French Open",
         "Wimbledon"
       ],
       "oddOne": 0,
       "category": "Tennis Grand Slam Events, Except a Golf Major",
-      "explanation": "Wimbledon, the US Open, and the French Open are tennis Grand Slam tournaments; the PGA Championship is a major in golf, a different sport entirely."
+      "explanation": "Wimbledon, the Australian Open, and the French Open are tennis Grand Slam tournaments; the PGA Championship is a men's golf major."
     },
     "2026-05-27": {
       "words": [
@@ -6458,8 +6458,8 @@
         "South Korea"
       ],
       "oddOne": 0,
-      "category": "Single-Border Countries vs Many-Border Country",
-      "explanation": "Brazil shares land borders with ten different countries; Portugal, Canada, and South Korea are each bordered by only one country by land."
+      "category": "Many-Bordering Country vs Single/Few-Border Countries",
+      "explanation": "Brazil has land borders with nine of the twelve other South American countries; Portugal borders only Spain, Canada borders only the United States, and South Korea borders only North Korea."
     },
     "2026-09-08": {
       "words": [
@@ -7038,11 +7038,11 @@
         "Motion Picture Camera",
         "Telephone",
         "Phonograph",
-        "Alkaline Battery"
+        "Nickel-Iron Battery"
       ],
       "oddOne": 1,
       "category": "Thomas Edison Inventions vs. Alexander Graham Bell's Invention",
-      "explanation": "The Phonograph, Motion Picture Camera, and Alkaline Battery all came from Thomas Edison's lab, while the Telephone was invented by Alexander Graham Bell."
+      "explanation": "The Phonograph, Motion Picture Camera, and Nickel-Iron Battery were all invented by Thomas Edison; the Telephone was patented by Alexander Graham Bell."
     },
     "2026-10-31": {
       "words": [
@@ -7201,13 +7201,13 @@
     "2026-11-14": {
       "words": [
         "Himalayas",
-        "Ural",
+        "Hindu Kush",
         "Karakoram",
         "Andes"
       ],
       "oddOne": 3,
       "category": "Asian Mountain Ranges vs. a South American Range",
-      "explanation": "The Himalayas, Ural, and Karakoram ranges all lie in Asia, while the Andes run through South America."
+      "explanation": "The Himalayas, Hindu Kush, and Karakoram ranges all lie in Asia, while the Andes run along the western edge of South America."
     },
     "2026-11-15": {
       "words": [
@@ -7511,22 +7511,22 @@
         "Canberra",
         "Ottawa",
         "Washington D.C.",
-        "Beijing"
+        "Tokyo"
       ],
       "oddOne": 3,
-      "category": "Capitals That Aren't the Biggest City, Capital and Largest City",
-      "explanation": "Beijing is both China's capital and its most populous city; Canberra, Ottawa, and Washington D.C. are all national capitals that are not their country's largest city."
+      "category": "Capitals That Aren't the Biggest City, vs. Capital and Largest City",
+      "explanation": "Tokyo is both Japan's capital and its largest city; Canberra, Ottawa, and Washington D.C. are all capitals of countries whose biggest city lies elsewhere (Sydney, Toronto, and New York City, respectively)."
     },
     "2026-12-13": {
       "words": [
         "Quadrilateral",
-        "Tetrahedron",
+        "Heptagon",
         "Hexagon",
         "Octagon"
       ],
       "oddOne": 0,
       "category": "Greek-Rooted Shape Names, A Latin-Rooted Name",
-      "explanation": "\"Quadrilateral\" uses the Latin prefix \"quadri-\" for four; tetrahedron, hexagon, and octagon all use Greek-derived prefixes tetra-, hexa-, and octa-."
+      "explanation": "\"Quadrilateral\" uses the Latin prefix \"quadri-\" for four, while heptagon, hexagon, and octagon all use Greek-rooted numerical prefixes (hepta-, hexa-, octa-)."
     },
     "2026-12-14": {
       "words": [
