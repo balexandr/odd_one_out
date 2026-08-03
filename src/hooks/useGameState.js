@@ -1,5 +1,6 @@
 import { useState, useCallback, useEffect } from 'react';
 import puzzles from '../data/puzzles.json';
+import { recordTodayShare } from '../utils/shareAll';
 
 const STORAGE_KEY = 'odd-one-out-game-state';
 const SHARE_RESULTS_KEY = 'odd-one-out-share-results';
@@ -152,6 +153,10 @@ export function useGameState() {
     };
 
     saveShareResults(shareResults);
+
+    const completed = DIFFICULTY_ORDER.filter((d) => shareResults[dateKey][d]);
+    const combinedLines = completed.map((d) => shareResults[dateKey][d].summaryLine).join('\n');
+    recordTodayShare('oddoneout', dateKey, `Odd One Out #${puzzleNumber}\n${combinedLines}`);
   }, [initialized, puzzle, gameStatus, difficulty, guesses, words, puzzleNumber, dateKey]);
 
   const selectWord = useCallback(

@@ -24,7 +24,7 @@ Resets daily at **midnight EST**.
 
 ## Sharing
 
-After completing a difficulty you can share your result. The share text shows which difficulties you completed and whether you got them right — without revealing the answer.
+After completing a difficulty you can share your result. The share text shows which difficulties you completed and whether you got them right — without revealing the answer. Once you've finished at least one NoodleGame today, a **Share all completed** button appears in the footer, letting you share every game you've solved today in one message.
 
 ---
 
@@ -36,4 +36,4 @@ React + Vite · CSS Modules · localStorage · GitHub Pages
 
 ## Puzzles
 
-Puzzles run from **May 28, 2026** onward, stored in `src/data/puzzles.json` organised by difficulty then date. Each entry contains four words, the index of the odd one out, a category label, and an explanation shown after guessing.
+Puzzles run from **May 12, 2026** onward (234 days per difficulty, through December 2026), stored in `src/data/puzzles.json` organised by difficulty then date. Each entry contains four words, the index of the odd one out, a category label, and an explanation shown after guessing.

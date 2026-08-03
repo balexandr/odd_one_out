@@ -8,6 +8,7 @@ import HowToPlay from './components/HowToPlay';
 import StatsScreen from './components/StatsScreen';
 import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
+import { getCompletedTodayCount, buildShareAllText } from './utils/shareAll';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
 
@@ -17,13 +18,47 @@ export default function App() {
   const [showHowToPlay, setShowHowToPlay] = useState(false);
   const [showStats, setShowStats] = useState(false);
   const [resultDismissed, setResultDismissed] = useState(false);
+  const [shareAllCount, setShareAllCount] = useState(0);
+  const [shareAllCopied, setShareAllCopied] = useState(false);
   const currentYear = new Date().getFullYear();
+
+  useEffect(() => {
+    setShareAllCount(getCompletedTodayCount(gameState.dateKey));
+  }, [gameState.gameStatus, gameState.dateKey]);
+
+  const handleShareAll = async () => {
+    const text = buildShareAllText(gameState.dateKey);
+    if (!text) return;
+    if (navigator.share) {
+      try { await navigator.share({ text }); return; } catch {}
+    }
+    try { await navigator.clipboard.writeText(text); }
+    catch {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.cssText = 'position:fixed;opacity:0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+    }
+    setShareAllCopied(true);
+    setTimeout(() => setShareAllCopied(false), 2500);
+  };
 
   const footer = (
     <footer className={styles.footer}>
       <a href="https://noodlegames.co" target="_blank" rel="noopener noreferrer" className={styles.footerLogo}>
         <NoodleLogoIcon size={18} /> NoodleGames
       </a>
+      {shareAllCount > 0 && (
+        <button
+          className={`${styles.footerShareAll} ${shareAllCopied ? styles.copied : ''}`}
+          onClick={handleShareAll}
+        >
+          {shareAllCopied ? '✓ Copied' : `⬆ Share all completed (${shareAllCount}/8)`}
+        </button>
+      )}
       <span className={styles.footerCopy}>© {currentYear} NoodleGames.co</span>
     </footer>
   );
