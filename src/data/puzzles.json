@@ -431,14 +431,14 @@
     },
     "2026-06-20": {
       "words": [
-        "Apple",
-        "Banana",
-        "Carrot",
-        "Grape"
+        "Whale",
+        "Dolphin",
+        "Seal",
+        "Shark"
       ],
-      "oddOne": 2,
-      "category": "Fruits vs Vegetable",
-      "explanation": "Apple, Banana, and Grape are fruits; Carrot is a root vegetable."
+      "oddOne": 3,
+      "category": "Marine Mammals, Except a Fish",
+      "explanation": "Whale, Dolphin, and Seal are marine mammals that breathe air; a Shark is a fish that breathes through gills."
     },
     "2026-06-21": {
       "words": [
@@ -519,14 +519,14 @@
     },
     "2026-06-28": {
       "words": [
-        "Oxygen",
-        "Gold",
-        "Iron",
-        "Copper"
+        "Telephone",
+        "Television",
+        "Radio",
+        "Newspaper"
       ],
-      "oddOne": 0,
-      "category": "Metals vs Nonmetal Element",
-      "explanation": "Gold, Iron, and Copper are metals; Oxygen is a nonmetal gas."
+      "oddOne": 3,
+      "category": "Electronic Communication Devices, Except a Print Medium",
+      "explanation": "Telephone, Television, and Radio all rely on electronic signals; a Newspaper is printed on paper."
     },
     "2026-06-29": {
       "words": [
@@ -596,14 +596,14 @@
     },
     "2026-07-05": {
       "words": [
-        "Spider",
-        "Ant",
-        "Bee",
-        "Beetle"
+        "Stapler",
+        "Paperclip",
+        "Envelope",
+        "Umbrella"
       ],
-      "oddOne": 0,
-      "category": "Insects vs Arachnid",
-      "explanation": "Ant, Bee, and Beetle are insects with six legs; a Spider is an arachnid with eight legs."
+      "oddOne": 3,
+      "category": "Office Supplies, Except a Rain Item",
+      "explanation": "Stapler, Paperclip, and Envelope are common desk supplies; an Umbrella is for staying dry outdoors."
     },
     "2026-07-06": {
       "words": [
@@ -739,14 +739,14 @@
     },
     "2026-07-18": {
       "words": [
-        "Swimming",
-        "Basketball",
-        "Gymnastics",
-        "Skiing"
+        "Baseball",
+        "Cricket",
+        "Rugby",
+        "Chess"
       ],
       "oddOne": 3,
-      "category": "Summer Olympic Sports vs Winter Sport",
-      "explanation": "Swimming, Basketball, and Gymnastics are Summer Olympics sports; Skiing is a Winter Olympics sport."
+      "category": "Physical Sports, Except a Board Game",
+      "explanation": "Baseball, Cricket, and Rugby are all physical sports played on a field; Chess is a board game with no physical exertion."
     },
     "2026-07-19": {
       "words": [
@@ -783,14 +783,14 @@
     },
     "2026-07-22": {
       "words": [
-        "Piano",
-        "Flute",
-        "Organ",
-        "Harpsichord"
+        "Sneeze",
+        "Cough",
+        "Yawn",
+        "Whisper"
       ],
-      "oddOne": 1,
-      "category": "Keyboard Instruments vs Wind Instrument",
-      "explanation": "Piano, Organ, and Harpsichord are keyboard instruments; a Flute is a wind instrument."
+      "oddOne": 3,
+      "category": "Involuntary Body Reflexes, Except a Voluntary Action",
+      "explanation": "Sneeze, Cough, and Yawn are involuntary reflexes the body triggers on its own; a Whisper is a form of speech you choose to make."
     },
     "2026-07-23": {
       "words": [
@@ -948,25 +948,25 @@
     },
     "2026-08-06": {
       "words": [
-        "Monday",
-        "Wednesday",
-        "Friday",
-        "Saturday"
+        "Elevator",
+        "Escalator",
+        "Staircase",
+        "Ladder"
       ],
       "oddOne": 3,
-      "category": "Weekday vs Weekend",
-      "explanation": "Saturday falls on the weekend, while Monday, Wednesday, and Friday are weekdays."
+      "category": "Fixed Ways to Change Floors, Except a Portable Tool",
+      "explanation": "Elevator, Escalator, and Staircase are permanent parts of a building; a Ladder is a portable tool you carry and set up yourself."
     },
     "2026-08-07": {
       "words": [
-        "Violin",
-        "Cello",
-        "Flute",
-        "Guitar"
+        "Knife",
+        "Peeler",
+        "Grater",
+        "Spoon"
       ],
-      "oddOne": 2,
-      "category": "String vs Wind Instrument",
-      "explanation": "A Flute is a woodwind instrument played by blowing air, while Violin, Cello, and Guitar are all string instruments."
+      "oddOne": 3,
+      "category": "Tools That Cut or Shred Food, Except One for Scooping",
+      "explanation": "Knife, Peeler, and Grater all cut or shred food; a Spoon is for scooping and stirring, not cutting."
     },
     "2026-08-08": {
       "words": [
@@ -1014,14 +1014,14 @@
     },
     "2026-08-12": {
       "words": [
-        "Summer",
-        "Winter",
-        "Spring",
-        "Monsoon"
+        "Twenty",
+        "Thirty",
+        "Fifteen",
+        "Twelve"
       ],
       "oddOne": 3,
-      "category": "The Four Seasons",
-      "explanation": "Monsoon is a seasonal rainfall pattern, not one of the four astronomical seasons, unlike Summer, Winter, and Spring."
+      "category": "Multiples of Five, Except One",
+      "explanation": "Twenty, Thirty, and Fifteen are all multiples of five; Twelve is not."
     },
     "2026-08-13": {
       "words": [
@@ -1091,14 +1091,14 @@
     },
     "2026-08-19": {
       "words": [
-        "Carrot",
-        "Beet",
-        "Radish",
-        "Spinach"
+        "Fur",
+        "Wool",
+        "Feathers",
+        "Scales"
       ],
       "oddOne": 3,
-      "category": "Root Vegetable vs Leafy Green",
-      "explanation": "Spinach is a leafy green grown for its leaves, while Carrot, Beet, and Radish are all root vegetables."
+      "category": "Body Coverings That Insulate, Except One That Doesn't",
+      "explanation": "Fur, Wool, and Feathers all trap air to keep an animal warm; Scales protect the skin but provide no insulation."
     },
     "2026-08-20": {
       "words": [
@@ -1146,14 +1146,14 @@
     },
     "2026-08-24": {
       "words": [
-        "Penne",
-        "Risotto",
-        "Fusilli",
-        "Linguine"
+        "Envelope",
+        "Stamp",
+        "Postcard",
+        "Stapler"
       ],
-      "oddOne": 1,
-      "category": "Pasta Shapes vs Rice Dish",
-      "explanation": "Risotto is a creamy rice dish, not a pasta, while Penne, Fusilli, and Linguine are all pasta shapes."
+      "oddOne": 3,
+      "category": "Items You Mail, Except an Office Tool",
+      "explanation": "Envelope, Stamp, and Postcard are all used to send mail; a Stapler is an office tool for fastening paper, not something you post."
     },
     "2026-08-25": {
       "words": [
@@ -1190,14 +1190,14 @@
     },
     "2026-08-28": {
       "words": [
-        "Square",
-        "Cube",
-        "Sphere",
-        "Cone"
+        "Telescope",
+        "Microscope",
+        "Binoculars",
+        "Camera"
       ],
-      "oddOne": 0,
-      "category": "3D Shapes vs Flat Shape",
-      "explanation": "A Square is a flat, two-dimensional shape, while Cube, Sphere, and Cone are all three-dimensional solids."
+      "oddOne": 3,
+      "category": "Instruments That Magnify a View, Except One That Captures It",
+      "explanation": "Telescope, Microscope, and Binoculars all magnify something too far or small to see clearly; a Camera captures an image rather than magnifying your view."
     },
     "2026-08-29": {
       "words": [
@@ -1267,14 +1267,14 @@
     },
     "2026-09-04": {
       "words": [
-        "Amazon",
-        "Nile",
-        "Mississippi",
-        "Michigan"
+        "Ketchup",
+        "Mayo",
+        "Relish",
+        "Bread"
       ],
       "oddOne": 3,
-      "category": "Rivers vs Lake",
-      "explanation": "Michigan is one of the Great Lakes, not a river, while Amazon, Nile, and Mississippi are all rivers."
+      "category": "Condiments, Except the Thing They Go On",
+      "explanation": "Ketchup, Mayo, and Relish are condiments added to food; Bread is what you often put them on, not a condiment itself."
     },
     "2026-09-05": {
       "words": [
@@ -1410,14 +1410,14 @@
     },
     "2026-09-17": {
       "words": [
-        "Swimming",
-        "Soccer",
-        "Basketball",
-        "Volleyball"
+        "Chess",
+        "Checkers",
+        "Backgammon",
+        "Frisbee"
       ],
-      "oddOne": 0,
-      "category": "Ball Sports vs No-Ball Sport",
-      "explanation": "Swimming does not use a ball; Soccer, Basketball, and Volleyball are all ball sports."
+      "oddOne": 3,
+      "category": "Tabletop Strategy Games, Except an Outdoor Toy",
+      "explanation": "Chess, Checkers, and Backgammon are all played on a board at a table; a Frisbee is thrown and caught outdoors."
     },
     "2026-09-18": {
       "words": [
@@ -1498,25 +1498,25 @@
     },
     "2026-09-25": {
       "words": [
-        "Triangle",
-        "Circle",
-        "Pentagon",
-        "Hexagon"
+        "Hammer",
+        "Wrench",
+        "Pliers",
+        "Scissors"
       ],
-      "oddOne": 1,
-      "category": "Polygons vs Curved Shape",
-      "explanation": "A circle has no straight sides or angles; Triangle, Pentagon, and Hexagon are all polygons."
+      "oddOne": 3,
+      "category": "Tools That Grip or Strike, Except One That Cuts",
+      "explanation": "Hammer, Wrench, and Pliers are used to strike or grip; Scissors are designed to cut."
     },
     "2026-09-26": {
       "words": [
-        "Cow",
-        "Lion",
-        "Sheep",
-        "Horse"
+        "Guitar Pick",
+        "Drumsticks",
+        "Violin Bow",
+        "Frying Pan"
       ],
-      "oddOne": 1,
-      "category": "Herbivores vs Carnivore",
-      "explanation": "A lion is a carnivorous predator; Cow, Sheep, and Horse are herbivorous grazing animals."
+      "oddOne": 3,
+      "category": "Objects Used to Play Instruments, Except a Cooking Tool",
+      "explanation": "A Guitar Pick, Drumsticks, and a Violin Bow are all used to play music; a Frying Pan is a cooking tool."
     },
     "2026-09-27": {
       "words": [
@@ -1663,14 +1663,14 @@
     },
     "2026-10-10": {
       "words": [
-        "Math",
-        "History",
-        "Soccer",
-        "Art"
+        "Highlighter",
+        "Pencil",
+        "Pen",
+        "Eraser"
       ],
-      "oddOne": 2,
-      "category": "School Subjects vs Sport",
-      "explanation": "Soccer is a sport; Math, History, and Art are school subjects."
+      "oddOne": 3,
+      "category": "Tools That Make Marks, Except One That Removes Them",
+      "explanation": "Highlighter, Pencil, and Pen all put marks on paper; an Eraser takes pencil marks away."
     },
     "2026-10-11": {
       "words": [
@@ -1729,14 +1729,14 @@
     },
     "2026-10-16": {
       "words": [
-        "Lever",
-        "Bicycle",
-        "Pulley",
-        "Wheel and Axle"
+        "Acorn",
+        "Seed",
+        "Pinecone",
+        "Leaf"
       ],
-      "oddOne": 1,
-      "category": "Simple Machines, Except a Complex One",
-      "explanation": "The Lever, Pulley, and Wheel and Axle are classic simple machines; a Bicycle combines several simple machines into one complex device."
+      "oddOne": 3,
+      "category": "Ways Plants Reproduce, Except a Non-Reproductive Part",
+      "explanation": "Acorn, Seed, and Pinecone can all grow into new plants; a Leaf doesn't produce new plants on its own."
     },
     "2026-10-17": {
       "words": [
@@ -1850,14 +1850,14 @@
     },
     "2026-10-27": {
       "words": [
-        "Poodle",
-        "Siamese",
-        "Beagle",
-        "Boxer"
+        "Sparrow",
+        "Pigeon",
+        "Crow",
+        "Bat"
       ],
-      "oddOne": 1,
-      "category": "Dog Breeds vs. a Cat Breed",
-      "explanation": "Poodle, Beagle, and Boxer are all dog breeds, while Siamese is a breed of cat."
+      "oddOne": 3,
+      "category": "Birds That Fly, Except a Flying Mammal",
+      "explanation": "Sparrow, Pigeon, and Crow are all birds; a Bat is a mammal, the only one capable of true flight."
     },
     "2026-10-28": {
       "words": [
@@ -1894,14 +1894,14 @@
     },
     "2026-10-31": {
       "words": [
-        "Cow",
-        "Pig",
-        "Sheep",
-        "Zebra"
+        "Wolf",
+        "Fox",
+        "Coyote",
+        "Poodle"
       ],
       "oddOne": 3,
-      "category": "Farm Animals vs. a Wild Animal",
-      "explanation": "Cow, Pig, and Sheep are all common farm animals, while a Zebra is a wild animal native to Africa."
+      "category": "Wild Canines, Except a Domesticated Breed",
+      "explanation": "Wolf, Fox, and Coyote are wild members of the dog family; a Poodle is a domesticated dog breed."
     },
     "2026-11-01": {
       "words": [
@@ -1971,14 +1971,14 @@
     },
     "2026-11-07": {
       "words": [
-        "Golf",
-        "Basketball",
-        "Soccer",
-        "Hockey"
+        "Necklace",
+        "Bracelet",
+        "Ring",
+        "Belt"
       ],
-      "oddOne": 0,
-      "category": "Team Sports vs. an Individual Sport",
-      "explanation": "Soccer, Basketball, and Hockey are all team sports, while Golf is played individually."
+      "oddOne": 3,
+      "category": "Jewelry Worn on the Body, Except a Clothing Accessory",
+      "explanation": "Necklace, Bracelet, and Ring are pieces of jewelry; a Belt is a functional clothing accessory, not jewelry."
     },
     "2026-11-08": {
       "words": [
@@ -1993,14 +1993,14 @@
     },
     "2026-11-09": {
       "words": [
-        "Dolphin",
-        "Elephant",
-        "Shark",
-        "Whale"
+        "Volcano",
+        "Earthquake",
+        "Hurricane",
+        "Bridge"
       ],
-      "oddOne": 1,
-      "category": "Sea Animals vs. a Land Mammal",
-      "explanation": "Whale, Dolphin, and Shark all live in the ocean, while an Elephant is a land mammal."
+      "oddOne": 3,
+      "category": "Natural Disasters, Except a Man-Made Structure",
+      "explanation": "Volcano, Earthquake, and Hurricane are all natural events; a Bridge is a structure built by people."
     },
     "2026-11-10": {
       "words": [
@@ -2081,14 +2081,14 @@
     },
     "2026-11-17": {
       "words": [
-        "Penne",
-        "Risotto",
-        "Rigatoni",
-        "Fusilli"
+        "Candle",
+        "Flashlight",
+        "Lamp",
+        "Mirror"
       ],
-      "oddOne": 1,
-      "category": "Pasta Shapes vs. a Rice Dish",
-      "explanation": "Penne, Fusilli, and Rigatoni are all shapes of pasta, while Risotto is a creamy rice dish."
+      "oddOne": 3,
+      "category": "Light Sources, Except a Reflector",
+      "explanation": "Candle, Flashlight, and Lamp all produce their own light; a Mirror only reflects light that already exists."
     },
     "2026-11-18": {
       "words": [
@@ -2224,14 +2224,14 @@
     },
     "2026-11-30": {
       "words": [
-        "Monday",
-        "Wednesday",
-        "Friday",
-        "January"
+        "Ruler",
+        "Tape Measure",
+        "Yardstick",
+        "Scale"
       ],
       "oddOne": 3,
-      "category": "Days of the Week, Not a Day",
-      "explanation": "January is a month, not a day of the week; Monday, Wednesday, and Friday are all days of the week."
+      "category": "Tools That Measure Length, Except One That Measures Weight",
+      "explanation": "Ruler, Tape Measure, and Yardstick all measure length or distance; a Scale measures weight."
     },
     "2026-12-01": {
       "words": [
@@ -2257,14 +2257,14 @@
     },
     "2026-12-03": {
       "words": [
-        "Tennis",
-        "Bowling",
-        "Badminton",
-        "Squash"
+        "Trumpet",
+        "Saxophone",
+        "Clarinet",
+        "Timpani"
       ],
-      "oddOne": 1,
-      "category": "Racket Sports, No Racket Needed",
-      "explanation": "Bowling is played by rolling a ball down a lane, with no racket involved; tennis, badminton, and squash are all played with a racket."
+      "oddOne": 3,
+      "category": "Wind Instruments You Blow, Except a Percussion Instrument",
+      "explanation": "Trumpet, Saxophone, and Clarinet all make sound by blowing air through them; Timpani are large drums struck with mallets."
     },
     "2026-12-04": {
       "words": [
@@ -2301,14 +2301,14 @@
     },
     "2026-12-07": {
       "words": [
-        "Tomato",
-        "Carrot",
-        "Cucumber",
-        "Pumpkin"
+        "Rain",
+        "Snow",
+        "Hail",
+        "Puddle"
       ],
-      "oddOne": 1,
-      "category": "Botanical Fruits, Not a Fruit",
-      "explanation": "A carrot is a root, making it a true vegetable, while the tomato, cucumber, and pumpkin all develop from a flower and contain seeds, making them botanical fruits."
+      "oddOne": 3,
+      "category": "Forms of Precipitation, Except Standing Water",
+      "explanation": "Rain, Snow, and Hail all fall from the sky as precipitation; a Puddle is water that collects on the ground afterward."
     },
     "2026-12-08": {
       "words": [
@@ -2334,14 +2334,14 @@
     },
     "2026-12-10": {
       "words": [
-        "Penne",
-        "Fusilli",
-        "Spaghetti",
-        "Risotto"
+        "Cactus",
+        "Fern",
+        "Succulent",
+        "Coral"
       ],
       "oddOne": 3,
-      "category": "Pasta Shapes, Not Pasta",
-      "explanation": "Risotto is a rice dish, not a type of pasta; penne, fusilli, and spaghetti are all pasta shapes."
+      "category": "Plants, Except a Marine Animal",
+      "explanation": "Cactus, Fern, and Succulent are all plants; Coral looks plant-like but is actually a colony of tiny marine animals."
     },
     "2026-12-11": {
       "words": [
@@ -2356,14 +2356,14 @@
     },
     "2026-12-12": {
       "words": [
-        "Monsoon",
-        "Summer",
-        "Winter",
-        "Autumn"
+        "Guitar",
+        "Banjo",
+        "Ukulele",
+        "Accordion"
       ],
-      "oddOne": 0,
-      "category": "Seasons, Not a Season",
-      "explanation": "A monsoon is a seasonal wind and rainfall pattern, not one of the four astronomical seasons; summer, winter, and autumn are all seasons."
+      "oddOne": 3,
+      "category": "Instruments You Pluck or Strum, Except One You Squeeze",
+      "explanation": "Guitar, Banjo, and Ukulele are all played by plucking or strumming strings; an Accordion makes sound by squeezing bellows past reeds."
     },
     "2026-12-13": {
       "words": [
@@ -2389,14 +2389,14 @@
     },
     "2026-12-15": {
       "words": [
-        "Skiing",
-        "Skating",
-        "Hockey",
-        "Swimming"
+        "Snowman",
+        "Igloo",
+        "Icicle",
+        "Sandcastle"
       ],
       "oddOne": 3,
-      "category": "Winter Olympic Sports, Not Winter",
-      "explanation": "Swimming is contested at the Summer Olympics, not the Winter Games; skiing, skating, and hockey are all Winter Olympic sports."
+      "category": "Things Made of Snow or Ice, Except Something Made of Sand",
+      "explanation": "Snowman, Igloo, and Icicle are all made from snow or ice; a Sandcastle is built from sand at the beach."
     },
     "2026-12-16": {
       "words": [
@@ -2433,14 +2433,14 @@
     },
     "2026-12-19": {
       "words": [
-        "Flute",
-        "Trumpet",
-        "Trombone",
-        "Tuba"
+        "Backpack",
+        "Suitcase",
+        "Duffel Bag",
+        "Piggy Bank"
       ],
-      "oddOne": 0,
-      "category": "Brass Instruments, Not Brass",
-      "explanation": "The flute is a woodwind instrument, not brass; the trumpet, trombone, and tuba are all brass instruments."
+      "oddOne": 3,
+      "category": "Bags for Packing Belongings, Except a Container for Coins",
+      "explanation": "Backpack, Suitcase, and Duffel Bag are all used to pack and carry belongings for a trip; a Piggy Bank is a container for saving coins, not luggage."
     },
     "2026-12-20": {
       "words": [
@@ -2477,14 +2477,14 @@
     },
     "2026-12-23": {
       "words": [
-        "Pound",
-        "Mile",
-        "Kilometer",
-        "Yard"
+        "Bee",
+        "Wasp",
+        "Hornet",
+        "Ladybug"
       ],
-      "oddOne": 0,
-      "category": "Units of Length, Not Length",
-      "explanation": "The pound is a unit of weight, not length; the mile, kilometer, and yard are all units of length."
+      "oddOne": 3,
+      "category": "Stinging Insects, Except a Harmless One",
+      "explanation": "Bee, Wasp, and Hornet can all sting to defend themselves; a Ladybug has no stinger."
     },
     "2026-12-24": {
       "words": [
@@ -2554,14 +2554,14 @@
     },
     "2026-12-30": {
       "words": [
-        "Monopoly",
-        "Clue",
-        "Chess",
-        "Poker"
+        "Umbrella",
+        "Raincoat",
+        "Boots",
+        "Sunscreen"
       ],
       "oddOne": 3,
-      "category": "Board Games, Actually a Card Game",
-      "explanation": "Poker is played with a deck of cards, not a board; Monopoly, Clue, and Chess are all board games."
+      "category": "Rainy-Day Gear, Except a Sunny-Day Item",
+      "explanation": "Umbrella, Raincoat, and Boots help you stay dry in the rain; Sunscreen protects you from the sun."
     },
     "2026-12-31": {
       "words": [
@@ -2650,8 +2650,8 @@
         "Mi"
       ],
       "oddOne": 2,
-      "category": "Solf\u00e8ge Syllables vs a Notation Symbol",
-      "explanation": "Do, Re, and Mi are solf\u00e8ge syllables used to sing musical scales; a Sharp is a notation symbol that raises a pitch."
+      "category": "Solfège Syllables vs a Notation Symbol",
+      "explanation": "Do, Re, and Mi are solfège syllables used to sing musical scales; a Sharp is a notation symbol that raises a pitch."
     },
     "2026-05-19": {
       "words": [
@@ -2706,7 +2706,7 @@
       ],
       "oddOne": 1,
       "category": "Jane Austen Novels, Except One",
-      "explanation": "Pride and Prejudice, Emma, and Persuasion were written by Jane Austen; Wuthering Heights was written by Emily Bront\u00eb."
+      "explanation": "Pride and Prejudice, Emma, and Persuasion were written by Jane Austen; Wuthering Heights was written by Emily Brontë."
     },
     "2026-05-24": {
       "words": [
@@ -3025,7 +3025,7 @@
       ],
       "oddOne": 1,
       "category": "Capital Isn't the Largest City vs Capital Is",
-      "explanation": "In Canada, Australia, and Brazil, the capital (Ottawa, Canberra, Bras\u00edlia) is not the country's largest city; in France, Paris is both the capital and the largest city."
+      "explanation": "In Canada, Australia, and Brazil, the capital (Ottawa, Canberra, Brasília) is not the country's largest city; in France, Paris is both the capital and the largest city."
     },
     "2026-06-22": {
       "words": [
@@ -3084,14 +3084,14 @@
     },
     "2026-06-27": {
       "words": [
-        "Jupiter",
-        "Hermes",
-        "Ares",
-        "Zeus"
+        "Judo",
+        "Wrestling",
+        "Boxing",
+        "Archery"
       ],
-      "oddOne": 0,
-      "category": "Greek God Names vs Roman God Name",
-      "explanation": "Zeus, Hermes, and Ares are names from Greek mythology; Jupiter is the Roman name for the king of the gods, equivalent to Zeus."
+      "oddOne": 3,
+      "category": "Combat Sports With Direct Physical Contact, Except a Precision Sport",
+      "explanation": "Judo, Wrestling, and Boxing all involve direct physical contact between opponents; Archery is a precision sport with no opponent contact."
     },
     "2026-06-28": {
       "words": [
@@ -3304,14 +3304,14 @@
     },
     "2026-07-17": {
       "words": [
+        "Alps",
         "Andes",
-        "Everest",
         "Rockies",
-        "Alps"
+        "K2"
       ],
-      "oddOne": 1,
-      "category": "Mountain Ranges vs a Single Peak",
-      "explanation": "The Andes, Rockies, and Alps are mountain ranges; Everest is a single peak within the Himalayas."
+      "oddOne": 3,
+      "category": "Mountain Ranges, Except a Single Peak",
+      "explanation": "Alps, Andes, and Rockies are mountain ranges; K2 is a single peak, the second-highest mountain on Earth."
     },
     "2026-07-18": {
       "words": [
@@ -3326,14 +3326,14 @@
     },
     "2026-07-19": {
       "words": [
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
+        "Dutch",
+        "Swedish",
+        "Norwegian",
+        "Portuguese"
       ],
-      "oddOne": 2,
-      "category": "Romance Languages vs Germanic Language",
-      "explanation": "Spanish, French, and Italian are Romance languages descended from Latin; German is a Germanic language."
+      "oddOne": 3,
+      "category": "Germanic Languages, Except a Romance Language",
+      "explanation": "Dutch, Swedish, and Norwegian are Germanic languages; Portuguese is a Romance language descended from Latin."
     },
     "2026-07-20": {
       "words": [
@@ -3469,14 +3469,14 @@
     },
     "2026-08-01": {
       "words": [
-        "Michelangelo",
-        "Raphael",
-        "Da Vinci",
-        "Caravaggio"
+        "Vermeer",
+        "Rembrandt",
+        "Rubens",
+        "Botticelli"
       ],
       "oddOne": 3,
-      "category": "High Renaissance vs Baroque Painter",
-      "explanation": "Caravaggio was a leading figure of the Baroque period, while Michelangelo, Raphael, and Da Vinci were all masters of the High Renaissance."
+      "category": "Dutch/Flemish Baroque Painters, Except a Renaissance Painter",
+      "explanation": "Vermeer, Rembrandt, and Rubens were leading Baroque painters from the Dutch and Flemish tradition; Botticelli painted nearly a century earlier, during the Italian Renaissance."
     },
     "2026-08-02": {
       "words": [
@@ -3502,14 +3502,14 @@
     },
     "2026-08-04": {
       "words": [
-        "Switzerland",
-        "Germany",
-        "France",
-        "Italy"
+        "Denmark",
+        "Poland",
+        "Hungary",
+        "Netherlands"
       ],
-      "oddOne": 0,
-      "category": "Eurozone Countries",
-      "explanation": "Switzerland uses the Swiss Franc and has never adopted the Euro, while Germany, France, and Italy all use the Euro."
+      "oddOne": 3,
+      "category": "EU Members That Kept Their Own Currency, Except a Eurozone Country",
+      "explanation": "Denmark, Poland, and Hungary are EU members that still use their own national currencies; the Netherlands adopted the euro."
     },
     "2026-08-05": {
       "words": [
@@ -3623,14 +3623,14 @@
     },
     "2026-08-15": {
       "words": [
-        "Brazil",
-        "Spain",
-        "Argentina",
-        "Italy"
+        "Backstroke",
+        "Breaststroke",
+        "Butterfly",
+        "Diving"
       ],
-      "oddOne": 1,
-      "category": "World Cup Champions",
-      "explanation": "Spain has won the World Cup only once (2010), while Brazil, Argentina, and Italy have each won it multiple times."
+      "oddOne": 3,
+      "category": "Competitive Swimming Strokes, Except a Different Discipline",
+      "explanation": "Backstroke, Breaststroke, and Butterfly are swimming strokes used to race across the pool; Diving is a separate aquatic discipline judged on technique, not speed."
     },
     "2026-08-16": {
       "words": [
@@ -3656,25 +3656,25 @@
     },
     "2026-08-18": {
       "words": [
-        "Great Pyramid of Giza",
-        "Hanging Gardens of Babylon",
-        "Great Wall of China",
-        "Colossus of Rhodes"
+        "Machu Picchu",
+        "Petra",
+        "Stonehenge",
+        "Statue of Liberty"
       ],
-      "oddOne": 2,
-      "category": "Seven Wonders of the Ancient World",
-      "explanation": "The Great Wall of China belongs to the modern New7Wonders list, while the Great Pyramid, Hanging Gardens, and Colossus of Rhodes are part of the original Seven Wonders of the Ancient World."
+      "oddOne": 3,
+      "category": "Ancient Historical Sites, Except a Modern Monument",
+      "explanation": "Machu Picchu, Petra, and Stonehenge are all ancient historical sites; the Statue of Liberty was built in 1886, a modern monument by comparison."
     },
     "2026-08-19": {
       "words": [
-        "Neon",
-        "Argon",
-        "Krypton",
-        "Chlorine"
+        "Iodine",
+        "Bromine",
+        "Fluorine",
+        "Sulfur"
       ],
       "oddOne": 3,
-      "category": "Noble Gases",
-      "explanation": "Chlorine is a highly reactive halogen, while Neon, Argon, and Krypton are chemically inert noble gases."
+      "category": "Halogens, Except a Different Nonmetal Group",
+      "explanation": "Iodine, Bromine, and Fluorine are all halogens on the periodic table; Sulfur belongs to a different nonmetal group, the chalcogens."
     },
     "2026-08-20": {
       "words": [
@@ -3755,14 +3755,14 @@
     },
     "2026-08-27": {
       "words": [
-        "Sight",
-        "Hearing",
-        "Balance",
-        "Taste"
+        "Smell",
+        "Taste",
+        "Touch",
+        "Intuition"
       ],
-      "oddOne": 2,
-      "category": "The Traditional Five Senses",
-      "explanation": "Balance is often called a sixth sense but isn't one of the traditional five, while Sight, Hearing, and Taste are among the classic five senses."
+      "oddOne": 3,
+      "category": "The Traditional Five Senses, Except a Gut Feeling",
+      "explanation": "Smell, Taste, and Touch are three of the traditional five senses; Intuition is a gut feeling, not a physical sense."
     },
     "2026-08-28": {
       "words": [
@@ -3810,14 +3810,14 @@
     },
     "2026-09-01": {
       "words": [
-        "Lincoln",
-        "Washington",
-        "Hamilton",
-        "Jefferson"
+        "Betsy Ross",
+        "Paul Revere",
+        "Thomas Paine",
+        "George Washington"
       ],
-      "oddOne": 2,
-      "category": "Founding Figures Who Became President",
-      "explanation": "Alexander Hamilton, pictured on the $10 bill, was never president, while Lincoln, Washington, and Jefferson all held the office."
+      "oddOne": 3,
+      "category": "Revolutionary-Era Figures Who Weren't President, Except One Who Was",
+      "explanation": "Betsy Ross, Paul Revere, and Thomas Paine are famous Revolutionary-era figures who never held the presidency; George Washington became the first US President."
     },
     "2026-09-02": {
       "words": [
@@ -3850,7 +3850,7 @@
       ],
       "oddOne": 1,
       "category": "Countries That Use the US Dollar",
-      "explanation": "Costa Rica has its own currency, the Col\u00f3n, while Ecuador, Panama, and El Salvador have all officially adopted the US Dollar."
+      "explanation": "Costa Rica has its own currency, the Colón, while Ecuador, Panama, and El Salvador have all officially adopted the US Dollar."
     },
     "2026-09-05": {
       "words": [
@@ -3898,14 +3898,14 @@
     },
     "2026-09-09": {
       "words": [
-        "Washington",
-        "Jefferson",
-        "Franklin",
-        "Madison"
+        "Alexander Hamilton",
+        "Samuel Adams",
+        "Patrick Henry",
+        "John Quincy Adams"
       ],
-      "oddOne": 2,
-      "category": "Founding Father Presidents vs Non-President",
-      "explanation": "Benjamin Franklin never served as U.S. President; Washington, Jefferson, and Madison all did."
+      "oddOne": 3,
+      "category": "Founding-Era Figures Who Weren't President, Except One Who Was",
+      "explanation": "Hamilton, Samuel Adams, and Patrick Henry were influential Founding-era figures who never became president; John Quincy Adams served as the sixth US President."
     },
     "2026-09-10": {
       "words": [
@@ -3920,14 +3920,14 @@
     },
     "2026-09-11": {
       "words": [
-        "Amazon",
-        "Nile",
-        "Congo",
-        "Zambezi"
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Everglades"
       ],
-      "oddOne": 0,
-      "category": "African Rivers vs South American River",
-      "explanation": "The Amazon River is in South America; the Nile, Congo, and Zambezi are all major rivers in Africa."
+      "oddOne": 3,
+      "category": "Deserts, Except a Wetland",
+      "explanation": "Sahara, Gobi, and Kalahari are all deserts; the Everglades is a subtropical wetland in Florida."
     },
     "2026-09-12": {
       "words": [
@@ -3997,14 +3997,14 @@
     },
     "2026-09-18": {
       "words": [
-        "John Lennon",
-        "Paul McCartney",
-        "Mick Jagger",
-        "George Harrison"
+        "Freddie Mercury",
+        "Robert Plant",
+        "David Bowie",
+        "Ringo Starr"
       ],
-      "oddOne": 2,
-      "category": "Beatles Members vs Rolling Stones Member",
-      "explanation": "Mick Jagger fronted the Rolling Stones; John Lennon, Paul McCartney, and George Harrison were all members of the Beatles."
+      "oddOne": 3,
+      "category": "Solo Rock Frontmen, Except a Beatles Drummer",
+      "explanation": "Freddie Mercury, Robert Plant, and David Bowie all fronted as solo rock icons; Ringo Starr was the drummer for the Beatles, a band, not a solo frontman."
     },
     "2026-09-19": {
       "words": [
@@ -4030,14 +4030,14 @@
     },
     "2026-09-21": {
       "words": [
-        "Madrid",
-        "Barcelona",
-        "Lisbon",
-        "Vienna"
+        "Vancouver",
+        "Turin",
+        "Nagano",
+        "Athens"
       ],
-      "oddOne": 1,
-      "category": "Capital Cities vs Non-Capital City",
-      "explanation": "Barcelona is not Spain's capital, Madrid is; Madrid, Lisbon, and Vienna are all national capital cities."
+      "oddOne": 3,
+      "category": "Winter Olympics Host Cities, Except a Summer Host",
+      "explanation": "Vancouver, Turin, and Nagano have all hosted the Winter Olympics; Athens hosted the Summer Games."
     },
     "2026-09-22": {
       "words": [
@@ -4085,14 +4085,14 @@
     },
     "2026-09-26": {
       "words": [
-        "Switzerland",
-        "Germany",
-        "France",
-        "Spain"
+        "Aspirin",
+        "Ibuprofen",
+        "Penicillin",
+        "Bandage"
       ],
-      "oddOne": 0,
-      "category": "Eurozone Countries vs Non-Eurozone",
-      "explanation": "Switzerland uses the Swiss franc, not the euro; Germany, France, and Spain all use the euro."
+      "oddOne": 3,
+      "category": "Medicines Developed to Treat Illness, Except a Physical Treatment",
+      "explanation": "Aspirin, Ibuprofen, and Penicillin are all medicines that treat pain or infection; a Bandage physically covers a wound rather than treating illness chemically."
     },
     "2026-09-27": {
       "words": [
@@ -4129,14 +4129,14 @@
     },
     "2026-09-30": {
       "words": [
-        "Texas",
-        "Nevada",
-        "Arizona",
-        "California"
+        "Idaho",
+        "Vermont",
+        "Maine",
+        "Ohio"
       ],
-      "oddOne": 1,
-      "category": "US-Mexico Border States vs Non-Border State",
-      "explanation": "Nevada does not border Mexico; Texas, Arizona, and California all share a border with Mexico."
+      "oddOne": 3,
+      "category": "US States Bordering Canada, Except One That Doesn't",
+      "explanation": "Idaho, Vermont, and Maine all share a border with Canada; Ohio does not."
     },
     "2026-10-01": {
       "words": [
@@ -4151,14 +4151,14 @@
     },
     "2026-10-02": {
       "words": [
-        "Peru",
-        "Chile",
-        "Panama",
-        "Colombia"
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Jamaica"
       ],
-      "oddOne": 2,
-      "category": "South American Countries vs Central American Country",
-      "explanation": "Panama is in Central America; Peru, Chile, and Colombia are all South American countries."
+      "oddOne": 3,
+      "category": "Central American Countries, Except a Caribbean Island Nation",
+      "explanation": "Guatemala, Honduras, and Nicaragua are all in Central America; Jamaica is an island nation in the Caribbean Sea."
     },
     "2026-10-03": {
       "words": [
@@ -4338,14 +4338,14 @@
     },
     "2026-10-19": {
       "words": [
-        "Spain",
-        "Portugal",
-        "Belgium",
-        "Germany"
+        "Switzerland",
+        "Austria",
+        "Czechia",
+        "Slovenia"
       ],
-      "oddOne": 1,
-      "category": "Countries Bordering France vs. One That Doesn't",
-      "explanation": "Spain, Germany, and Belgium all share a land border with France, while Portugal does not."
+      "oddOne": 3,
+      "category": "Landlocked European Countries, Except One With a Coastline",
+      "explanation": "Switzerland, Austria, and Czechia are all landlocked; Slovenia has a short coastline on the Adriatic Sea."
     },
     "2026-10-20": {
       "words": [
@@ -4459,14 +4459,14 @@
     },
     "2026-10-30": {
       "words": [
-        "Poland",
+        "Ukraine",
+        "Belarus",
         "Latvia",
-        "Georgia",
-        "Ukraine"
+        "Serbia"
       ],
-      "oddOne": 0,
-      "category": "Former Soviet Republics vs. a Warsaw Pact Country",
-      "explanation": "Ukraine, Georgia, and Latvia were all constituent republics of the Soviet Union, while Poland was a separate, allied Warsaw Pact nation."
+      "oddOne": 3,
+      "category": "Countries Bordering Russia, Except One That Doesn't",
+      "explanation": "Ukraine, Belarus, and Latvia all share a border with Russia; Serbia does not border Russia at all."
     },
     "2026-10-31": {
       "words": [
@@ -4527,23 +4527,23 @@
       "words": [
         "Gold",
         "Silver",
-        "Iron",
-        "Nitrogen"
+        "Lead",
+        "Calcium"
       ],
       "oddOne": 3,
-      "category": "Element Symbols From Latin Names vs. One That Matches",
-      "explanation": "Iron (Fe), Gold (Au), and Silver (Ag) all have symbols derived from their Latin names, unlike their English names, while Nitrogen's symbol, N, matches its English name."
+      "category": "Elements With Latin-Rooted Symbols, Except One That Matches English",
+      "explanation": "Gold (Au), Silver (Ag), and Lead (Pb) get their symbols from Latin names different from their English ones; Calcium's symbol, Ca, comes directly from its English name."
     },
     "2026-11-06": {
       "words": [
         "Tower Bridge",
+        "Golden Gate Bridge",
         "Brooklyn Bridge",
-        "Eiffel Tower",
-        "Golden Gate Bridge"
+        "Leaning Tower of Pisa"
       ],
-      "oddOne": 2,
-      "category": "Famous Bridges vs. a Tower",
-      "explanation": "The Golden Gate, Brooklyn, and Tower Bridges are all famous bridges, while the Eiffel Tower is a tower, not a bridge."
+      "oddOne": 3,
+      "category": "Famous Bridges, Except a Tower",
+      "explanation": "Tower Bridge, Golden Gate Bridge, and Brooklyn Bridge are all famous bridges; the Leaning Tower of Pisa is a bell tower in Italy."
     },
     "2026-11-07": {
       "words": [
@@ -4602,14 +4602,14 @@
     },
     "2026-11-12": {
       "words": [
-        "Brazil",
-        "Kenya",
-        "Peru",
-        "Indonesia"
+        "Kilimanjaro",
+        "Denali",
+        "Aconcagua",
+        "Mount Fuji"
       ],
-      "oddOne": 2,
-      "category": "Countries the Equator Crosses vs. One It Misses",
-      "explanation": "The equator passes directly through Brazil, Kenya, and Indonesia, while it runs just north of Peru, through neighboring Ecuador."
+      "oddOne": 3,
+      "category": "Tallest Peaks on Their Continent, Except One That Isn't",
+      "explanation": "Kilimanjaro, Denali, and Aconcagua are each the highest peak on their continent; Mount Fuji is Japan's tallest mountain but far from Asia's highest (that's Everest)."
     },
     "2026-11-13": {
       "words": [
@@ -4624,14 +4624,14 @@
     },
     "2026-11-14": {
       "words": [
-        "Japan",
-        "Germany",
-        "UK",
-        "Australia"
+        "Belgium",
+        "Netherlands",
+        "Luxembourg",
+        "Sweden"
       ],
-      "oddOne": 1,
-      "category": "Left-Side Driving Countries vs. a Right-Side Driving Country",
-      "explanation": "The UK, Japan, and Australia all drive on the left side of the road, while Germany drives on the right."
+      "oddOne": 3,
+      "category": "Countries Bordering Germany, Except One That Doesn't",
+      "explanation": "Belgium, the Netherlands, and Luxembourg all share a border with Germany; Sweden does not."
     },
     "2026-11-15": {
       "words": [
@@ -4712,14 +4712,14 @@
     },
     "2026-11-22": {
       "words": [
-        "Rugby",
-        "Cricket",
-        "Basketball",
-        "Golf"
+        "Table Tennis",
+        "Volleyball",
+        "Badminton",
+        "Wrestling"
       ],
-      "oddOne": 2,
-      "category": "Sports Invented in the UK vs. an American Sport",
-      "explanation": "Cricket, Rugby, and Golf all originated in the United Kingdom, while Basketball was invented in the United States by James Naismith."
+      "oddOne": 3,
+      "category": "Sports Played Across a Net, Except a Contact Sport",
+      "explanation": "Table Tennis, Volleyball, and Badminton are all played with a net dividing two sides; Wrestling is a direct-contact sport with no net at all."
     },
     "2026-11-23": {
       "words": [
@@ -4767,14 +4767,14 @@
     },
     "2026-11-27": {
       "words": [
-        "Zeus",
-        "Neptune",
-        "Poseidon",
-        "Hera"
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Ares"
       ],
-      "oddOne": 1,
-      "category": "Greek Gods, Actually Roman",
-      "explanation": "Neptune is the Roman name for the god of the sea; Zeus, Poseidon, and Hera are all Greek gods."
+      "oddOne": 3,
+      "category": "Roman God Names, Except a Greek Name",
+      "explanation": "Mars, Venus, and Mercury are Roman names for gods (war, love, and messenger); Ares is the Greek name for the god of war, equivalent to Mars."
     },
     "2026-11-28": {
       "words": [
@@ -4800,25 +4800,25 @@
     },
     "2026-11-30": {
       "words": [
-        "Nigeria",
-        "France",
+        "Ghana",
         "Senegal",
-        "Ivory Coast"
+        "Ivory Coast",
+        "Ethiopia"
       ],
-      "oddOne": 0,
-      "category": "Francophone Countries, Except an Anglophone One",
-      "explanation": "France, Senegal, and Ivory Coast all have French as an official language; Nigeria's official language is English."
+      "oddOne": 3,
+      "category": "West African Countries, Except an East African One",
+      "explanation": "Ghana, Senegal, and Ivory Coast are all in West Africa; Ethiopia is located in East Africa."
     },
     "2026-12-01": {
       "words": [
-        "Ra",
-        "Zeus",
-        "Anubis",
-        "Osiris"
+        "Athena",
+        "Apollo",
+        "Artemis",
+        "Diana"
       ],
-      "oddOne": 1,
-      "category": "Egyptian Gods, Except a Greek God",
-      "explanation": "Ra, Anubis, and Osiris are gods from ancient Egyptian mythology; Zeus is the king of the Greek gods."
+      "oddOne": 3,
+      "category": "Greek God Names, Except a Roman Name",
+      "explanation": "Athena, Apollo, and Artemis are Greek deity names; Diana is the Roman name for the goddess of the hunt, equivalent to Artemis."
     },
     "2026-12-02": {
       "words": [
@@ -4844,14 +4844,14 @@
     },
     "2026-12-04": {
       "words": [
-        "Scotland",
-        "Wales",
-        "Northern Ireland",
-        "France"
+        "Concerto",
+        "Symphony",
+        "Sonata",
+        "Overture"
       ],
       "oddOne": 3,
-      "category": "UK Home Nations in Football, Except a Separate Country",
-      "explanation": "Scotland, Wales, and Northern Ireland each field their own national football team despite being part of the United Kingdom; France is a separate sovereign country, not a UK home nation."
+      "category": "Multi-Movement Musical Forms, Except a Single-Movement Piece",
+      "explanation": "A Concerto, Symphony, and Sonata are all typically composed of multiple movements; an Overture is usually a single continuous piece."
     },
     "2026-12-05": {
       "words": [
@@ -4866,14 +4866,14 @@
     },
     "2026-12-06": {
       "words": [
-        "Einstein",
-        "Darwin",
-        "Newton",
-        "Tesla"
+        "Mendel",
+        "Pasteur",
+        "Lamarck",
+        "Aristotle"
       ],
-      "oddOne": 1,
-      "category": "Famous Physicists, A Naturalist",
-      "explanation": "Charles Darwin was a naturalist and biologist known for the theory of evolution; Einstein, Newton, and Tesla were all physicists."
+      "oddOne": 3,
+      "category": "Pioneers of Modern Biology, Except an Ancient Philosopher",
+      "explanation": "Mendel, Pasteur, and Lamarck all made foundational discoveries in modern biology; Aristotle was an ancient Greek philosopher who lived over 2,000 years earlier."
     },
     "2026-12-07": {
       "words": [
@@ -4899,14 +4899,14 @@
     },
     "2026-12-09": {
       "words": [
-        "Spain",
-        "Portugal",
-        "Italy",
-        "Greece"
+        "Hungary",
+        "Serbia",
+        "Belarus",
+        "Croatia"
       ],
-      "oddOne": 1,
-      "category": "Mediterranean Countries, An Atlantic Coastline",
-      "explanation": "Portugal's coastline lies entirely on the Atlantic Ocean; Spain, Italy, and Greece all border the Mediterranean Sea."
+      "oddOne": 3,
+      "category": "Landlocked European Countries, Except One on the Coast",
+      "explanation": "Hungary, Serbia, and Belarus are all landlocked nations; Croatia has an extensive coastline along the Adriatic Sea."
     },
     "2026-12-10": {
       "words": [
@@ -4954,14 +4954,14 @@
     },
     "2026-12-14": {
       "words": [
-        "United Kingdom",
-        "Japan",
-        "France",
-        "Sweden"
+        "Whale Shark",
+        "Great White",
+        "Hammerhead",
+        "Manta Ray"
       ],
-      "oddOne": 2,
-      "category": "Constitutional Monarchies Today, Except a Republic",
-      "explanation": "The United Kingdom, Japan, and Sweden are all constitutional monarchies today; France has been a republic since the 19th century, aside from brief interruptions."
+      "oddOne": 3,
+      "category": "Sharks, Except a Ray",
+      "explanation": "Whale Shark, Great White, and Hammerhead are all sharks; Manta Ray is a ray, a close relative but a different type of cartilaginous fish."
     },
     "2026-12-15": {
       "words": [
@@ -4987,25 +4987,25 @@
     },
     "2026-12-17": {
       "words": [
-        "Earth",
-        "Mercury",
-        "Mars",
-        "Jupiter"
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Bromine"
       ],
-      "oddOne": 1,
-      "category": "Planets With Moons, Has No Moons",
-      "explanation": "Mercury is one of only two planets in our solar system with no moons at all; Earth, Mars, and Jupiter each have at least one."
+      "oddOne": 3,
+      "category": "Gases at Room Temperature, Except a Liquid Element",
+      "explanation": "Oxygen, Nitrogen, and Helium are all gases at room temperature; Bromine is one of the few elements that's a liquid at room temperature."
     },
     "2026-12-18": {
       "words": [
-        "Nile",
         "Amazon",
+        "Congo",
         "Yangtze",
-        "Thames"
+        "Dead Sea"
       ],
       "oddOne": 3,
-      "category": "Longest Rivers, A Much Shorter River",
-      "explanation": "The Nile, Amazon, and Yangtze rank among the three longest rivers on Earth; the Thames, while famous, stretches only about 215 miles."
+      "category": "Major Rivers, Except a Landlocked Sea",
+      "explanation": "Amazon, Congo, and Yangtze are all major rivers; the Dead Sea is a landlocked saltwater lake, not a river."
     },
     "2026-12-19": {
       "words": [
@@ -5031,14 +5031,14 @@
     },
     "2026-12-21": {
       "words": [
-        "Great Pyramid of Giza",
-        "Colosseum",
-        "Hanging Gardens of Babylon",
-        "Colossus of Rhodes"
+        "Parthenon",
+        "Temple of Zeus",
+        "Delphi",
+        "Pantheon"
       ],
-      "oddOne": 1,
-      "category": "Ancient Wonders of the World, Not on the List",
-      "explanation": "The Colosseum, though ancient, was never one of the Seven Wonders of the Ancient World; the Great Pyramid of Giza, Hanging Gardens of Babylon, and Colossus of Rhodes all were."
+      "oddOne": 3,
+      "category": "Ancient Greek Sites, Except a Roman One",
+      "explanation": "The Parthenon, Temple of Zeus, and Delphi are all ancient Greek sites; the Pantheon is in Rome, built by the Romans."
     },
     "2026-12-22": {
       "words": [
@@ -5053,14 +5053,14 @@
     },
     "2026-12-23": {
       "words": [
-        "Basketball",
-        "Baseball",
-        "Softball",
-        "Kickball"
+        "Squash",
+        "Racquetball",
+        "Tennis",
+        "Rugby"
       ],
-      "oddOne": 0,
-      "category": "Diamond-Field Sports, Except a Rectangular-Court Sport",
-      "explanation": "Baseball, Softball, and Kickball are all played on a diamond with bases arranged in that shape; Basketball is played on a rectangular court."
+      "oddOne": 3,
+      "category": "Racket Sports, Except a Contact Sport",
+      "explanation": "Squash, Racquetball, and Tennis are all played with a racket; Rugby is a contact sport played without any equipment to strike a ball."
     },
     "2026-12-24": {
       "words": [
@@ -5108,14 +5108,14 @@
     },
     "2026-12-28": {
       "words": [
-        "World War I",
-        "World War II",
-        "Napoleonic Wars",
-        "Korean War"
+        "Franco-Prussian War",
+        "Crimean War",
+        "Boer War",
+        "American Civil War"
       ],
-      "oddOne": 2,
-      "category": "20th-Century Wars, A 19th-Century Conflict",
-      "explanation": "The Napoleonic Wars were fought in the early 1800s; World War I, World War II, and the Korean War were all 20th-century conflicts."
+      "oddOne": 3,
+      "category": "19th-Century European/Colonial Wars, Except a US War",
+      "explanation": "The Franco-Prussian War, Crimean War, and Boer War were all fought in Europe or by European colonial powers; the American Civil War was fought entirely within the United States."
     },
     "2026-12-29": {
       "words": [
@@ -5583,14 +5583,14 @@
     },
     "2026-06-20": {
       "words": [
-        "Curium",
+        "Technetium",
+        "Promethium",
         "Francium",
-        "Einsteinium",
-        "Mendelevium"
+        "Copper"
       ],
-      "oddOne": 1,
-      "category": "Elements Named After Scientists vs Element Named After a Country",
-      "explanation": "Curium, Einsteinium, and Mendelevium are named for scientists (Marie Curie, Albert Einstein, Dmitri Mendeleev); Francium is named after France, the country where it was discovered."
+      "oddOne": 3,
+      "category": "Elements With No Stable Isotopes, Except a Common Stable One",
+      "explanation": "Technetium, Promethium, and Francium have no stable isotopes and are always radioactive; Copper is common and stable."
     },
     "2026-06-21": {
       "words": [
@@ -5990,25 +5990,25 @@
     },
     "2026-07-27": {
       "words": [
-        "Book",
-        "Read",
-        "Lead",
-        "Bass"
+        "Album",
+        "Single",
+        "EP",
+        "Manuscript"
       ],
-      "oddOne": 0,
-      "category": "Heteronyms (Same Spelling, Different Pronunciation) vs a Word With One Pronunciation",
-      "explanation": "Read (present vs. past tense), Lead (the metal vs. to guide), and Bass (the fish vs. the low musical range) are heteronyms, spelled alike but pronounced differently depending on meaning; Book has just one pronunciation."
+      "oddOne": 3,
+      "category": "Music Release Formats, Except a Written Document",
+      "explanation": "Album, Single, and EP are all formats for releasing recorded music; a Manuscript is a handwritten or typed document, not a music release."
     },
     "2026-07-28": {
       "words": [
-        "Oxygen",
-        "Helium",
-        "Nitrogen",
+        "Neon",
+        "Argon",
+        "Krypton",
         "Hydrogen"
       ],
-      "oddOne": 1,
-      "category": "Diatomic Elements vs a Monatomic Noble Gas",
-      "explanation": "Oxygen, Nitrogen, and Hydrogen naturally occur as two-atom molecules; Helium is a noble gas that exists as single, unbonded atoms."
+      "oddOne": 3,
+      "category": "Noble Gases, Except a Diatomic Gas",
+      "explanation": "Neon, Argon, and Krypton are monatomic noble gases; Hydrogen naturally exists as a two-atom molecule, H2."
     },
     "2026-07-29": {
       "words": [
@@ -6100,14 +6100,14 @@
     },
     "2026-08-06": {
       "words": [
-        "Number",
-        "Thumb",
-        "Comb",
-        "Climb"
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Joule"
       ],
-      "oddOne": 0,
-      "category": "Words With a Silent B",
-      "explanation": "The B in Number is pronounced, while the B is silent in Thumb, Comb, and Climb."
+      "oddOne": 3,
+      "category": "SI Units Named for Electrical Pioneers, Except a Unit of Energy",
+      "explanation": "Ampere, Volt, and Ohm all measure electrical properties (current, potential, resistance); the Joule measures energy, not specifically electricity."
     },
     "2026-08-07": {
       "words": [
@@ -6162,7 +6162,7 @@
       ],
       "oddOne": 1,
       "category": "Fabrics Named After Places",
-      "explanation": "Nylon is a coined trademark name with no place origin, while Denim (N\u00eemes), Cashmere (Kashmir), and Jeans (Genoa) are all named after real places."
+      "explanation": "Nylon is a coined trademark name with no place origin, while Denim (Nîmes), Cashmere (Kashmir), and Jeans (Genoa) are all named after real places."
     },
     "2026-08-12": {
       "words": [
@@ -6210,14 +6210,14 @@
     },
     "2026-08-16": {
       "words": [
-        "Io",
         "Europa",
-        "Titan",
-        "Callisto"
+        "Ganymede",
+        "Callisto",
+        "Phobos"
       ],
-      "oddOne": 2,
-      "category": "Jupiter's Galilean Moons",
-      "explanation": "Titan orbits Saturn, not Jupiter, while Io, Europa, and Callisto are three of Jupiter's four Galilean moons."
+      "oddOne": 3,
+      "category": "Moons of Jupiter, Except a Moon of Mars",
+      "explanation": "Europa, Ganymede, and Callisto are all moons of Jupiter; Phobos orbits Mars."
     },
     "2026-08-17": {
       "words": [
@@ -6265,14 +6265,14 @@
     },
     "2026-08-21": {
       "words": [
-        "Charles Dickens",
-        "Voltaire",
-        "Mark Twain",
-        "Lewis Carroll"
+        "Gandhi",
+        "Tolstoy",
+        "Freud",
+        "Marie Curie"
       ],
-      "oddOne": 0,
-      "category": "Authors Writing Under Pen Names",
-      "explanation": "Charles Dickens published under his own name, while Voltaire, Mark Twain, and Lewis Carroll are all famous pseudonyms."
+      "oddOne": 3,
+      "category": "Influential Figures Who Never Won a Nobel Prize, Except One Who Did",
+      "explanation": "Gandhi, Tolstoy, and Freud are all famously overlooked by the Nobel committee; Marie Curie won the Nobel Prize twice, in Physics and Chemistry."
     },
     "2026-08-22": {
       "words": [
@@ -6320,14 +6320,14 @@
     },
     "2026-08-26": {
       "words": [
-        "Vega",
-        "Deneb",
-        "Sirius",
-        "Altair"
+        "Andromeda",
+        "Orion",
+        "Cassiopeia",
+        "Vega"
       ],
-      "oddOne": 2,
-      "category": "Stars of the Summer Triangle",
-      "explanation": "Sirius, the brightest star in the night sky, belongs to Canis Major and isn't part of the Summer Triangle, while Vega, Deneb, and Altair form that asterism."
+      "oddOne": 3,
+      "category": "Constellations, Except a Single Star",
+      "explanation": "Andromeda, Orion, and Cassiopeia are constellations; Vega is a single star, one of the brightest in the night sky, located in the constellation Lyra."
     },
     "2026-08-27": {
       "words": [
@@ -6400,11 +6400,11 @@
         "Beethoven",
         "Mozart",
         "Smetana",
-        "Faur\u00e9"
+        "Fauré"
       ],
       "oddOne": 1,
       "category": "Composers Who Went Deaf",
-      "explanation": "Mozart died at 35 with no record of hearing loss, while Beethoven, Smetana, and Faur\u00e9 each experienced significant deafness later in life."
+      "explanation": "Mozart died at 35 with no record of hearing loss, while Beethoven, Smetana, and Fauré each experienced significant deafness later in life."
     },
     "2026-09-03": {
       "words": [
@@ -6452,14 +6452,14 @@
     },
     "2026-09-07": {
       "words": [
-        "Brazil",
-        "Portugal",
-        "Canada",
-        "South Korea"
+        "Argentina",
+        "Uruguay",
+        "Paraguay",
+        "Suriname"
       ],
-      "oddOne": 0,
-      "category": "Many-Bordering Country vs Single/Few-Border Countries",
-      "explanation": "Brazil has land borders with nine of the twelve other South American countries; Portugal borders only Spain, Canada borders only the United States, and South Korea borders only North Korea."
+      "oddOne": 3,
+      "category": "Spanish-Speaking South American Countries, Except a Dutch-Speaking One",
+      "explanation": "Argentina, Uruguay, and Paraguay are all Spanish-speaking; Suriname's official language is Dutch."
     },
     "2026-09-08": {
       "words": [
@@ -6540,25 +6540,25 @@
     },
     "2026-09-15": {
       "words": [
-        "Romeo and Juliet",
-        "Hamlet",
-        "The Merchant of Venice",
-        "Much Ado About Nothing"
+        "Macbeth",
+        "Othello",
+        "King Lear",
+        "As You Like It"
       ],
-      "oddOne": 1,
-      "category": "Shakespeare Plays Set in Italy vs Set Elsewhere",
-      "explanation": "Hamlet is set in Denmark; Romeo and Juliet, The Merchant of Venice, and Much Ado About Nothing are all set in Italy."
+      "oddOne": 3,
+      "category": "Shakespearean Tragedies, Except a Comedy",
+      "explanation": "Macbeth, Othello, and King Lear are among Shakespeare's great tragedies; As You Like It is one of his comedies."
     },
     "2026-09-16": {
       "words": [
-        "Kelvin",
-        "Ampere",
-        "Newton",
-        "Mole"
+        "Pascal",
+        "Watt",
+        "Joule",
+        "Second"
       ],
-      "oddOne": 2,
-      "category": "SI Base Units vs Derived Unit",
-      "explanation": "The Newton is a derived SI unit (of force); Kelvin, Ampere, and Mole are all SI base units."
+      "oddOne": 3,
+      "category": "SI Derived Units, Except a Base Unit",
+      "explanation": "Pascal (pressure), Watt (power), and Joule (energy) are all SI derived units; the Second is one of the seven SI base units."
     },
     "2026-09-17": {
       "words": [
@@ -6595,14 +6595,14 @@
     },
     "2026-09-20": {
       "words": [
-        "Charles Dickens",
-        "Mark Twain",
-        "George Orwell",
-        "George Eliot"
+        "Thomas Hardy",
+        "George Eliot",
+        "Jane Austen",
+        "Leo Tolstoy"
       ],
-      "oddOne": 0,
-      "category": "Pen Names vs Author's Real Name",
-      "explanation": "Charles Dickens wrote under his own real name; Mark Twain (Samuel Clemens), George Orwell (Eric Blair), and George Eliot (Mary Ann Evans) were all pen names."
+      "oddOne": 3,
+      "category": "19th-Century British Novelists, Except a Russian Novelist",
+      "explanation": "Thomas Hardy, George Eliot, and Jane Austen were all British novelists of the 19th century; Leo Tolstoy was Russian."
     },
     "2026-09-21": {
       "words": [
@@ -6727,14 +6727,14 @@
     },
     "2026-10-02": {
       "words": [
-        "Australia",
-        "India",
-        "South Africa",
-        "West Indies"
+        "Namibia",
+        "Botswana",
+        "Zimbabwe",
+        "Kenya"
       ],
-      "oddOne": 2,
-      "category": "Cricket World Cup Winners vs Non-Winner",
-      "explanation": "South Africa has never won the Cricket World Cup despite being a strong contender; Australia, India, and the West Indies have each won it."
+      "oddOne": 3,
+      "category": "Southern African Countries, Except an East African One",
+      "explanation": "Namibia, Botswana, and Zimbabwe are all in Southern Africa; Kenya is in East Africa."
     },
     "2026-10-03": {
       "words": [
@@ -6815,14 +6815,14 @@
     },
     "2026-10-10": {
       "words": [
-        "Twenty-Seven",
-        "Thirteen",
-        "Twenty-One",
-        "Thirty-Four"
+        "Twenty-Nine",
+        "Thirty-One",
+        "Thirty-Seven",
+        "Thirty-Three"
       ],
-      "oddOne": 0,
-      "category": "Fibonacci Numbers vs Non-Fibonacci Number",
-      "explanation": "Twenty-seven is not part of the Fibonacci sequence; Thirteen, Twenty-one, and Thirty-four are all Fibonacci numbers, each the sum of the two preceding ones."
+      "oddOne": 3,
+      "category": "Prime Numbers, Except a Composite Number",
+      "explanation": "Twenty-Nine, Thirty-One, and Thirty-Seven are all prime; Thirty-Three equals 3 x 11, making it composite."
     },
     "2026-10-11": {
       "words": [
@@ -6870,14 +6870,14 @@
     },
     "2026-10-15": {
       "words": [
-        "Canada",
-        "Myanmar",
-        "Liberia",
-        "United States"
+        "Australia",
+        "New Zealand",
+        "United Kingdom",
+        "Ireland"
       ],
-      "oddOne": 0,
-      "category": "Countries That Don't Use the Metric System vs. One That Does",
-      "explanation": "The United States, Liberia, and Myanmar are the only countries that haven't officially adopted the metric system, while Canada uses metric."
+      "oddOne": 3,
+      "category": "Commonwealth Realms With the British Monarch as Head of State, Except a Republic",
+      "explanation": "Australia, New Zealand, and the United Kingdom all recognize the British monarch as head of state; Ireland is an independent republic with its own president."
     },
     "2026-10-16": {
       "words": [
@@ -6914,36 +6914,36 @@
     },
     "2026-10-19": {
       "words": [
-        "Sri Lanka",
-        "France",
-        "Bolivia",
-        "South Africa"
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Netherlands"
       ],
-      "oddOne": 1,
-      "category": "Countries With Multiple Capitals vs. One With a Single Capital",
-      "explanation": "South Africa has three capitals, Bolivia has two, and Sri Lanka has two, while France has just one, Paris."
+      "oddOne": 3,
+      "category": "Europe's Smallest Microstates, Except a Full-Sized Country",
+      "explanation": "Monaco, Vatican City, and San Marino are among Europe's smallest microstates; the Netherlands is a full-sized country."
     },
     "2026-10-20": {
       "words": [
-        "Polonium",
-        "Francium",
-        "Helium",
-        "Germanium"
+        "Radon",
+        "Xenon",
+        "Krypton",
+        "Mercury"
       ],
-      "oddOne": 2,
-      "category": "Elements Named After Countries vs. One Named From Greek",
-      "explanation": "Germanium, Polonium, and Francium are all named after countries, while Helium is named after 'helios,' the Greek word for sun."
+      "oddOne": 3,
+      "category": "Noble Gases, Except a Liquid Metal",
+      "explanation": "Radon, Xenon, and Krypton are noble gases; Mercury is a metal that's liquid at room temperature."
     },
     "2026-10-21": {
       "words": [
-        "Poland",
-        "Kazakhstan",
-        "Turkey",
-        "Russia"
+        "Czechia",
+        "Slovakia",
+        "Hungary",
+        "Ukraine"
       ],
-      "oddOne": 0,
-      "category": "Countries on Two Continents vs. One Entirely in Europe",
-      "explanation": "Turkey, Russia, and Kazakhstan all straddle both Europe and Asia, while Poland lies entirely within Europe."
+      "oddOne": 3,
+      "category": "Members of NATO's Eastern Flank Since the 1990s-2000s, Except a Non-Member",
+      "explanation": "Czechia, Slovakia, and Hungary all joined NATO by 2004; Ukraine is not a NATO member."
     },
     "2026-10-22": {
       "words": [
@@ -6969,14 +6969,14 @@
     },
     "2026-10-24": {
       "words": [
-        "Einsteinium",
-        "Nobelium",
-        "Neon",
-        "Curium"
+        "Argon",
+        "Xenon",
+        "Radon",
+        "Fluorine"
       ],
-      "oddOne": 2,
-      "category": "Elements Named After Scientists vs. One Named From Greek",
-      "explanation": "Einsteinium, Curium, and Nobelium are all named after scientists, while Neon comes from the Greek word for 'new.'"
+      "oddOne": 3,
+      "category": "Noble Gases, Except a Reactive Halogen",
+      "explanation": "Argon, Xenon, and Radon are noble gases; Fluorine is the most reactive halogen on the periodic table."
     },
     "2026-10-25": {
       "words": [
@@ -7002,25 +7002,25 @@
     },
     "2026-10-27": {
       "words": [
-        "Ethiopia",
-        "Japan",
-        "Nepal",
-        "Iran"
+        "Taiwan",
+        "Philippines",
+        "Sri Lanka",
+        "Switzerland"
       ],
-      "oddOne": 1,
-      "category": "Countries With Their Own Calendar vs. One Using Gregorian Only",
-      "explanation": "Ethiopia, Iran, and Nepal each use their own official calendar alongside or instead of the Gregorian, while Japan's official calendar is Gregorian."
+      "oddOne": 3,
+      "category": "Island Nations, Except a Landlocked Country",
+      "explanation": "Taiwan, the Philippines, and Sri Lanka are all islands; Switzerland is landlocked in the middle of Europe."
     },
     "2026-10-28": {
       "words": [
-        "Boron",
-        "Carbon",
-        "Helium",
-        "Oxygen"
+        "Argon",
+        "Neon",
+        "Xenon",
+        "Carbon Dioxide"
       ],
-      "oddOne": 2,
-      "category": "Elements With One-Letter Symbols, Except a Two-Letter One",
-      "explanation": "Boron (B), Carbon (C), and Oxygen (O) all have single-letter chemical symbols; Helium's symbol, He, uses two letters."
+      "oddOne": 3,
+      "category": "Noble Gases, Except a Compound Gas",
+      "explanation": "Argon, Neon, and Xenon are noble gases, each a single element; Carbon Dioxide is a compound made of carbon and oxygen."
     },
     "2026-10-29": {
       "words": [
@@ -7046,14 +7046,14 @@
     },
     "2026-10-31": {
       "words": [
+        "Laos",
+        "Cambodia",
         "Thailand",
-        "Vietnam",
-        "Nepal",
-        "Bhutan"
+        "Mongolia"
       ],
-      "oddOne": 1,
-      "category": "Never-Colonized Countries vs. a Former French Colony",
-      "explanation": "Thailand, Nepal, and Bhutan were never colonized by a European power, while Vietnam was part of French Indochina."
+      "oddOne": 3,
+      "category": "Southeast Asian Countries, Except an East Asian One",
+      "explanation": "Laos, Cambodia, and Thailand are all in Southeast Asia; Mongolia is in East Asia."
     },
     "2026-11-01": {
       "words": [
@@ -7200,14 +7200,14 @@
     },
     "2026-11-14": {
       "words": [
-        "Himalayas",
-        "Hindu Kush",
-        "Karakoram",
-        "Andes"
+        "Xenon",
+        "Krypton",
+        "Argon",
+        "Ozone"
       ],
       "oddOne": 3,
-      "category": "Asian Mountain Ranges vs. a South American Range",
-      "explanation": "The Himalayas, Hindu Kush, and Karakoram ranges all lie in Asia, while the Andes run along the western edge of South America."
+      "category": "Noble Gases, Except a Reactive Compound",
+      "explanation": "Xenon, Krypton, and Argon are noble gases, each a single element; Ozone (O3) is a reactive compound made of three oxygen atoms."
     },
     "2026-11-15": {
       "words": [
@@ -7255,14 +7255,14 @@
     },
     "2026-11-19": {
       "words": [
-        "Kelvin",
+        "Liter",
+        "Gram",
         "Ampere",
-        "Newton",
-        "Meter"
+        "Foot"
       ],
       "oddOne": 3,
-      "category": "SI Units Named After a Person vs. One Named From Greek",
-      "explanation": "The Kelvin, Newton, and Ampere are all SI units named after scientists, while the Meter takes its name from the Greek word for measure."
+      "category": "Metric Units, Except an Imperial Unit",
+      "explanation": "Liter, Gram, and Ampere all belong to the metric system; the Foot is a unit of the imperial system."
     },
     "2026-11-20": {
       "words": [
@@ -7431,14 +7431,14 @@
     },
     "2026-12-05": {
       "words": [
-        "Orion",
-        "Scorpius",
-        "Leo",
-        "Taurus"
+        "Ursa Minor",
+        "Cassiopeia",
+        "Draco",
+        "Polaris"
       ],
-      "oddOne": 0,
-      "category": "Zodiac Constellations, Not a Zodiac Sign",
-      "explanation": "Orion is a famous constellation but isn't one of the 12 zodiac constellations; Scorpius, Leo, and Taurus all are."
+      "oddOne": 3,
+      "category": "Constellations, Except a Single Star",
+      "explanation": "Ursa Minor, Cassiopeia, and Draco are constellations made of multiple stars; Polaris is a single star, the North Star, which happens to sit at the tip of Ursa Minor."
     },
     "2026-12-06": {
       "words": [
@@ -7486,14 +7486,14 @@
     },
     "2026-12-10": {
       "words": [
-        "Huron",
-        "Michigan",
-        "Winnipeg",
-        "Ontario"
+        "Regina",
+        "Saskatoon",
+        "Brandon",
+        "Vancouver"
       ],
-      "oddOne": 2,
-      "category": "The Great Lakes, A Canadian Lake",
-      "explanation": "Lake Winnipeg is a large lake in Canada but is not one of the five Great Lakes; Huron, Michigan, and Ontario are three of the actual five."
+      "oddOne": 3,
+      "category": "Cities in the Canadian Prairies, Except a Pacific Coast City",
+      "explanation": "Regina, Saskatoon, and Brandon are all cities on the Canadian Prairies; Vancouver sits on the Pacific coast of British Columbia."
     },
     "2026-12-11": {
       "words": [
@@ -7530,14 +7530,14 @@
     },
     "2026-12-14": {
       "words": [
-        "Fluorine",
-        "Iodine",
-        "Sodium",
-        "Bromine"
+        "Potassium",
+        "Lithium",
+        "Calcium",
+        "Zinc"
       ],
-      "oddOne": 2,
-      "category": "Halogens, An Alkali Metal",
-      "explanation": "Sodium is an alkali metal, not a halogen; fluorine, iodine, and bromine are all halogens."
+      "oddOne": 3,
+      "category": "Alkali/Alkaline Earth Metals, Except a Transition Metal",
+      "explanation": "Potassium, Lithium, and Calcium are alkali or alkaline earth metals; Zinc is a transition metal in Group 12."
     },
     "2026-12-15": {
       "words": [
@@ -7607,14 +7607,14 @@
     },
     "2026-12-21": {
       "words": [
-        "Camera",
-        "Level",
-        "Radar",
-        "Rotor"
+        "Telescope",
+        "Microscope",
+        "Periscope",
+        "Typewriter"
       ],
-      "oddOne": 0,
-      "category": "Palindromes, Reads Differently Backwards",
-      "explanation": "\"Camera\" is not a palindrome and reads differently in reverse; \"level,\" \"radar,\" and \"rotor\" all read the same forwards and backwards."
+      "oddOne": 3,
+      "category": "Optical Instruments, Except a Writing Machine",
+      "explanation": "Telescope, Microscope, and Periscope all use lenses or mirrors to view something; a Typewriter is a mechanical writing device with no optics."
     },
     "2026-12-22": {
       "words": [
