@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balexandr.github.io/odd_one_out/sitemap.xml
