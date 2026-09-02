@@ -41,7 +41,7 @@
         "Blood"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Circulatory System vs. the Integumentary System",
+      "category": "Blood-Pumping Squad vs. Your Skin",
       "explanation": "Veins, Arteries, and Blood are all part of how blood moves through your body — your skin's a covering, not a blood vessel."
     },
     "2026-05-16": {
@@ -74,7 +74,7 @@
         "Skin"
       ],
       "oddOne": 3,
-      "category": "Parts of Your Digestive System, Except the Integumentary System",
+      "category": "Digestion Squad, Except Your Skin",
       "explanation": "Intestines, Stomach, and Esophagus are all part of your digestive system — your skin's your outer covering, not part of digestion."
     },
     "2026-05-19": {
@@ -239,7 +239,7 @@
         "Spinal Cord"
       ],
       "oddOne": 0,
-      "category": "Parts of Your Nervous System, Except the Respiratory System",
+      "category": "Brain & Nerve Squad, Except a Lung",
       "explanation": "Brain, Nerves, and Spinal Cord are all part of how your body sends and receives signals — your lungs breathe, they don't send nerve signals."
     },
     "2026-06-03": {
@@ -360,7 +360,7 @@
         "Liver"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Digestive System vs. the Respiratory System",
+      "category": "Digestion Squad vs. a Lung",
       "explanation": "Intestines, Stomach, and Liver are all part of your digestive system — your lungs handle breathing, not digestion."
     },
     "2026-06-14": {
@@ -580,7 +580,7 @@
         "Nose"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Respiratory System, Except the Circulatory System",
+      "category": "Breathing Squad, Except Your Heart",
       "explanation": "Lungs, Trachea, and Nose are all working together so you can breathe — your heart pumps blood, it doesn't handle breathing."
     },
     "2026-07-04": {
@@ -591,7 +591,7 @@
         "Skin"
       ],
       "oddOne": 3,
-      "category": "Parts of Your Nervous System vs. the Integumentary System",
+      "category": "Brain & Nerve Squad vs. Your Skin",
       "explanation": "Nerves, Brain, and Spinal Cord are all part of how your body sends and receives signals — your skin covers your body but isn't the nervous system."
     },
     "2026-07-05": {
@@ -602,7 +602,7 @@
         "Muscle"
       ],
       "oddOne": 3,
-      "category": "Parts of Your Digestive System vs. the Muscular System",
+      "category": "Digestion Squad vs. a Muscle",
       "explanation": "Intestines, Liver, and Stomach are all part of your digestive system — muscles move your body, that's not digestion's job."
     },
     "2026-07-06": {
@@ -866,7 +866,7 @@
         "Diaphragm"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Respiratory System vs. the Digestive System",
+      "category": "Breathing Squad vs. a Stomach",
       "explanation": "Trachea, Lungs, and Diaphragm are all working together so you can breathe — your stomach digests food, not air."
     },
     "2026-07-30": {
@@ -976,7 +976,7 @@
         "Nerves"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Nervous System vs. the Muscular System",
+      "category": "Brain & Nerve Squad vs. a Muscle",
       "explanation": "Brain, Spinal Cord, and Nerves are all part of how your body sends and receives signals — muscle moves you, it doesn't send the signals itself."
     },
     "2026-08-09": {
@@ -1218,7 +1218,7 @@
         "Trachea"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Respiratory System, Except the Urinary System",
+      "category": "Breathing Squad, Except Your Kidney",
       "explanation": "Nose, Lungs, and Trachea are all working together so you can breathe — your kidneys filter blood, not air."
     },
     "2026-08-31": {
@@ -1284,7 +1284,7 @@
         "Trachea"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Respiratory System vs. the Nervous System",
+      "category": "Breathing Squad vs. Your Brain",
       "explanation": "Nose, Diaphragm, and Trachea are all working together so you can breathe — your brain's in charge of thinking, not breathing directly."
     },
     "2026-09-06": {
@@ -1361,7 +1361,7 @@
         "Rust"
       ],
       "oddOne": 3,
-      "category": "Pure Elements, Except a Compound",
+      "category": "Straight-Up Elements, Except a Mix",
       "explanation": "Oxygen, Gold, and Iron are pure elements straight off the periodic table — rust is a compound — iron that's reacted with oxygen."
     },
     "2026-09-13": {
@@ -1548,7 +1548,7 @@
         "Liver"
       ],
       "oddOne": 3,
-      "category": "Parts of Your Respiratory System, Except the Digestive System",
+      "category": "Breathing Squad, Except Your Liver",
       "explanation": "Lungs, Diaphragm, and Nose are all working together so you can breathe — your liver helps digestion, not breathing."
     },
     "2026-09-30": {
@@ -1559,7 +1559,7 @@
         "Esophagus"
       ],
       "oddOne": 0,
-      "category": "Parts of Your Digestive System vs. the Urinary System",
+      "category": "Digestion Squad vs. Your Kidney",
       "explanation": "Liver, Intestines, and Esophagus are all part of your digestive system — your kidneys filter waste for the urinary system."
     },
     "2026-10-01": {
@@ -1570,7 +1570,7 @@
         "Heart"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Circulatory System, Except the Respiratory System",
+      "category": "Blood-Pumping Squad, Except a Lung",
       "explanation": "Veins, Arteries, and Heart are all part of how blood moves through your body — your lungs handle breathing, not pumping blood."
     },
     "2026-10-02": {
@@ -1614,7 +1614,7 @@
         "Intestines"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Digestive System, Except the Circulatory System",
+      "category": "Digestion Squad, Except Your Heart",
       "explanation": "Esophagus, Stomach, and Intestines are all part of your digestive system — your heart pumps blood, that's the circulatory system's job."
     },
     "2026-10-06": {
@@ -1702,7 +1702,7 @@
         "Heart"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Circulatory System vs. the Digestive System",
+      "category": "Blood-Pumping Squad vs. a Stomach",
       "explanation": "Blood, Arteries, and Heart are all part of how blood moves through your body — your stomach digests food, it doesn't pump blood."
     },
     "2026-10-14": {
@@ -1823,7 +1823,7 @@
         "Heart"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Circulatory System, Except the Urinary System",
+      "category": "Blood-Pumping Squad, Except Your Kidney",
       "explanation": "Veins, Arteries, and Heart are all part of how blood moves through your body — your kidneys filter blood, but don't pump it."
     },
     "2026-10-25": {
@@ -1845,7 +1845,7 @@
         "Brain"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Nervous System, Except the Circulatory System",
+      "category": "Brain & Nerve Squad, Except Your Heart",
       "explanation": "Nerves, Spinal Cord, and Brain are all part of how your body sends and receives signals — your heart pumps blood, it doesn't send nerve signals."
     },
     "2026-10-27": {
@@ -1867,7 +1867,7 @@
         "Iron"
       ],
       "oddOne": 1,
-      "category": "Pure Elements vs. a Compound",
+      "category": "Straight-Up Elements vs. a Mix",
       "explanation": "Carbon, Gold, and Iron are pure elements straight off the periodic table — sugar's a compound built from carbon, hydrogen, and oxygen."
     },
     "2026-10-29": {
@@ -1878,7 +1878,7 @@
         "Trachea"
       ],
       "oddOne": 0,
-      "category": "Parts of Your Respiratory System vs. the Integumentary System",
+      "category": "Breathing Squad vs. Your Skin",
       "explanation": "Lungs, Diaphragm, and Trachea are all working together so you can breathe — your skin covers you, it doesn't breathe for you."
     },
     "2026-10-30": {
@@ -1988,7 +1988,7 @@
         "Nerves"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Nervous System vs. the Digestive System",
+      "category": "Brain & Nerve Squad vs. a Stomach",
       "explanation": "Brain, Spinal Cord, and Nerves are all part of how your body sends and receives signals — your stomach digests food, no nerve signals sent there."
     },
     "2026-11-09": {
@@ -2098,7 +2098,7 @@
         "Esophagus"
       ],
       "oddOne": 0,
-      "category": "Parts of Your Digestive System, Except the Nervous System",
+      "category": "Digestion Squad, Except Your Brain",
       "explanation": "Stomach, Liver, and Esophagus are all part of your digestive system — your brain runs the nervous system, not digestion."
     },
     "2026-11-19": {
@@ -2142,7 +2142,7 @@
         "Veins"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Circulatory System, Except the Nervous System",
+      "category": "Blood-Pumping Squad, Except Your Brain",
       "explanation": "Heart, Blood, and Veins are all part of how blood moves through your body — your brain sends signals, it doesn't pump blood."
     },
     "2026-11-23": {
@@ -2219,7 +2219,7 @@
         "Spinal Cord"
       ],
       "oddOne": 1,
-      "category": "Parts of Your Nervous System, Except the Skeletal System",
+      "category": "Brain & Nerve Squad, Except a Bone",
       "explanation": "Nerves, Brain, and Spinal Cord are all part of how your body sends and receives signals — bone gives you structure, not nerve signals."
     },
     "2026-11-30": {
@@ -2384,7 +2384,7 @@
         "Blood"
       ],
       "oddOne": 2,
-      "category": "Parts of Your Circulatory System vs. the Skeletal System",
+      "category": "Blood-Pumping Squad vs. a Bone",
       "explanation": "Heart, Arteries, and Blood are all part of how blood moves through your body — bone holds you up, it doesn't pump blood."
     },
     "2026-12-15": {
@@ -3849,7 +3849,7 @@
         "Nervous System"
       ],
       "oddOne": 0,
-      "category": "Body Systems vs. Just One Organ",
+      "category": "Whole-Body Squads vs. Just One Organ",
       "explanation": "Digestive System, Respiratory System, and Nervous System are whole body systems, built from many organs working together — the brain's one organ within the nervous system."
     },
     "2026-09-05": {
@@ -4036,7 +4036,7 @@
         "Scissors"
       ],
       "oddOne": 0,
-      "category": "Compound Machines vs. Just a Simple Machine",
+      "category": "Machines Built From Machines vs. Just One Simple Machine",
       "explanation": "Wheelbarrow, Can Opener, and Scissors are compound machines — built by combining two or more simple machines — a wheel and axle is one simple machine, not a combination."
     },
     "2026-09-22": {
@@ -4135,7 +4135,7 @@
         "Circulatory System"
       ],
       "oddOne": 1,
-      "category": "Body Systems, Except Just One Organ",
+      "category": "Whole-Body Squads, Except Just One Organ",
       "explanation": "Digestive System, Respiratory System, and Circulatory System are whole body systems, built from many organs working together — the heart's a single organ, part of a whole system, not a system itself."
     },
     "2026-10-01": {
@@ -4190,7 +4190,7 @@
         "Salt"
       ],
       "oddOne": 3,
-      "category": "Mixtures vs. a Pure Compound",
+      "category": "Stuff Mixed Together vs. One Pure Substance",
       "explanation": "Air, Brass, and Saltwater are mixtures — different substances mixed together, not chemically bonded — salt's a pure compound on its own, before you dissolve it in anything."
     },
     "2026-10-06": {
@@ -4289,7 +4289,7 @@
         "Vein"
       ],
       "oddOne": 0,
-      "category": "Blood Vessels, Except Part of the Nervous System",
+      "category": "Actual Blood Vessels, Except a Nerve",
       "explanation": "Capillary, Artery, and Vein are actual blood vessels, part of your circulatory system — a nerve carries signals, not blood — that's the nervous system."
     },
     "2026-10-15": {
@@ -4311,7 +4311,7 @@
         "Circulatory System"
       ],
       "oddOne": 2,
-      "category": "Body Systems, Except Just One Organ",
+      "category": "Whole-Body Squads, Except Just One Organ",
       "explanation": "Digestive System, Nervous System, and Circulatory System are whole body systems, built from many organs working together — the stomach's one organ in the digestive system."
     },
     "2026-10-17": {
@@ -4487,7 +4487,7 @@
         "Salt"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. a Pure Element",
+      "category": "Bonded-Together Stuff vs. a Lone Element",
       "explanation": "Sugar, Carbon Dioxide, and Salt are compounds, built from two or more elements bonded together — helium's a pure element, and barely bonds with anything anyway."
     },
     "2026-11-02": {
@@ -4498,7 +4498,7 @@
         "Sea Anemone"
       ],
       "oddOne": 2,
-      "category": "Cnidarians vs. Even Simpler — No Nervous System at All",
+      "category": "Stingers of the Sea vs. Something Simpler Still",
       "explanation": "Jellyfish, Coral, and Sea Anemone are cnidarians — simple animals armed with stinging cells — a sponge doesn't even have a nervous system, it's an even simpler animal group."
     },
     "2026-11-03": {
@@ -4641,7 +4641,7 @@
         "Soil"
       ],
       "oddOne": 0,
-      "category": "Mixtures, Except a Pure Compound",
+      "category": "Stuff Mixed Together, Except One Pure Substance",
       "explanation": "Air, Saltwater, and Soil are mixtures — different substances mixed together, not chemically bonded — carbon dioxide's a pure compound, one specific molecule."
     },
     "2026-11-16": {
@@ -4828,7 +4828,7 @@
         "Saltwater"
       ],
       "oddOne": 0,
-      "category": "Mixtures, Except a Pure Compound",
+      "category": "Stuff Mixed Together, Except One Pure Substance",
       "explanation": "Air, Soil, and Saltwater are mixtures — different substances mixed together, not chemically bonded — water's a pure compound, not a mixture."
     },
     "2026-12-03": {
@@ -4938,7 +4938,7 @@
         "Nervous System"
       ],
       "oddOne": 1,
-      "category": "Body Systems vs. Just One Organ (Pair)",
+      "category": "Whole-Body Squads vs. Just One Organ (Pair)",
       "explanation": "Circulatory System, Respiratory System, and Nervous System are whole body systems, built from many organs working together — the lungs are organs within the respiratory system, not the whole system."
     },
     "2026-12-13": {
@@ -4949,7 +4949,7 @@
         "Salt"
       ],
       "oddOne": 2,
-      "category": "Compounds vs. a Pure Element",
+      "category": "Bonded-Together Stuff vs. a Lone Element",
       "explanation": "Carbon Dioxide, Water, and Salt are compounds, built from two or more elements bonded together — oxygen's a pure element, not bonded to anything else here."
     },
     "2026-12-14": {
@@ -5048,7 +5048,7 @@
         "Carbon"
       ],
       "oddOne": 3,
-      "category": "Compounds vs. a Pure Element",
+      "category": "Bonded-Together Stuff vs. a Lone Element",
       "explanation": "Water, Salt, and Carbon Dioxide are compounds, built from two or more elements bonded together — carbon's a pure element on its own."
     },
     "2026-12-23": {
@@ -5114,7 +5114,7 @@
         "Pulley"
       ],
       "oddOne": 3,
-      "category": "Compound Machines vs. Just a Simple Machine",
+      "category": "Machines Built From Machines vs. Just One Simple Machine",
       "explanation": "Can Opener, Scissors, and Bicycle are compound machines — built by combining two or more simple machines — a pulley's a single simple machine on its own."
     },
     "2026-12-29": {
@@ -5732,7 +5732,7 @@
         "Neurons"
       ],
       "oddOne": 3,
-      "category": "Parts of the Immune System, Except Part of the Nervous System",
+      "category": "Germ-Fighting Squad, Except a Nerve Cell",
       "explanation": "Lymph Nodes, White Blood Cells, and Thymus are all part of your immune system's defense — neurons send nerve signals, that's the nervous system, not immunity."
     },
     "2026-07-04": {
@@ -5897,7 +5897,7 @@
         "White Blood Cells"
       ],
       "oddOne": 0,
-      "category": "Parts of the Immune System, Except Oxygen Carriers",
+      "category": "Germ-Fighting Squad, Except an Oxygen Hauler",
       "explanation": "Lymph Nodes, Antibodies, and White Blood Cells are all part of your immune system's defense — red blood cells haul oxygen, that's not immune defense."
     },
     "2026-07-19": {
@@ -6359,7 +6359,7 @@
         "Platelets"
       ],
       "oddOne": 3,
-      "category": "Parts of the Immune System vs. Clotting Helpers",
+      "category": "Germ-Fighting Squad vs. a Blood-Clot Helper",
       "explanation": "White Blood Cells, Thymus, and Antibodies are all part of your immune system's defense — platelets help blood clot, they're not part of immune defense."
     },
     "2026-08-30": {
@@ -6524,7 +6524,7 @@
         "Sugar"
       ],
       "oddOne": 2,
-      "category": "Compounds, Except a Pure Element",
+      "category": "Bonded-Together Stuff, Except a Lone Element",
       "explanation": "Water, Carbon Dioxide, and Sugar are compounds, built from two or more elements bonded together — iron's a pure element, straight off the periodic table."
     },
     "2026-09-14": {
@@ -6535,7 +6535,7 @@
         "Silver"
       ],
       "oddOne": 3,
-      "category": "Compounds, Except a Pure Element",
+      "category": "Bonded-Together Stuff, Except a Lone Element",
       "explanation": "Water, Sugar, and Salt are compounds, built from two or more elements bonded together — silver's a pure element, not a combination of two."
     },
     "2026-09-15": {
@@ -6667,7 +6667,7 @@
         "Carbon Dioxide"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. a Pure Element",
+      "category": "Bonded-Together Stuff vs. a Lone Element",
       "explanation": "Sugar, Salt, and Carbon Dioxide are compounds, built from two or more elements bonded together — helium's a pure element, and barely bonds with anything anyway."
     },
     "2026-09-27": {
@@ -7173,7 +7173,7 @@
         "Hydrogen"
       ],
       "oddOne": 3,
-      "category": "Compounds, Except a Pure Element",
+      "category": "Bonded-Together Stuff, Except a Lone Element",
       "explanation": "Carbon Dioxide, Water, and Sugar are compounds, built from two or more elements bonded together — hydrogen's a pure element, the simplest one there is."
     },
     "2026-11-12": {
@@ -7272,7 +7272,7 @@
         "Salt"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. a Pure Element",
+      "category": "Bonded-Together Stuff vs. a Lone Element",
       "explanation": "Water, Carbon Dioxide, and Salt are compounds, built from two or more elements bonded together — carbon's a pure element on its own."
     },
     "2026-11-21": {
@@ -7371,7 +7371,7 @@
         "Sea Anemone"
       ],
       "oddOne": 0,
-      "category": "Cnidarians vs. Even Simpler — No Nervous System at All",
+      "category": "Stingers of the Sea vs. Something Simpler Still",
       "explanation": "Jellyfish, Coral, and Sea Anemone are cnidarians — simple animals armed with stinging cells — a sponge doesn't even have a nervous system, it's an even simpler animal group."
     },
     "2026-11-30": {
