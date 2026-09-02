@@ -127,6 +127,7 @@ export default function App() {
             onSelectWord={gameState.selectWord}
             guesses={gameState.guesses}
             oddOne={gameState.puzzle.oddOne}
+            category={gameState.puzzle.category}
           />
         </>
       ) : (
