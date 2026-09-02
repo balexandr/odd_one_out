@@ -52,12 +52,6 @@ export default function GameBoard({
           />
         ))}
       </div>
-
-      {guesses.length === 0 && (
-        <div className={styles.attemptsRemaining}>
-          1 attempt remaining
-        </div>
-      )}
     </div>
   );
 }

@@ -15,8 +15,8 @@ export default function HowToPlay({ onDismiss }) {
           <section>
             <h3>Objective</h3>
             <p>
-              Pick the word that doesn't belong with the other three. You get one guess
-              per difficulty — choose carefully!
+              Pick the word that doesn't belong with the other three. You only get
+              <strong> one attempt</strong> per difficulty, so choose carefully!
             </p>
           </section>
 
