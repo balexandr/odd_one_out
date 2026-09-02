@@ -85,7 +85,7 @@
         "Rain"
       ],
       "oddOne": 1,
-      "category": "Precipitation, Except Not Precipitation",
+      "category": "Precipitation, Except a Burst of Electricity",
       "explanation": "Sleet, Hail, and Rain are precipitation — stuff that actually falls from clouds — lightning's electricity, not water falling."
     },
     "2026-05-20": {
@@ -129,7 +129,7 @@
         "Nuclear"
       ],
       "oddOne": 3,
-      "category": "Renewable Energy vs. Not Renewable",
+      "category": "Renewable Energy vs. a Finite Fuel",
       "explanation": "Hydro, Wind, and Geothermal are renewable energy sources that won't run out — nuclear power runs on mined uranium, a finite fuel."
     },
     "2026-05-24": {
@@ -195,7 +195,7 @@
         "Gold"
       ],
       "oddOne": 0,
-      "category": "Metals, Except Not a Metal",
+      "category": "Metals, Except Organic Material",
       "explanation": "Silver, Aluminum, and Gold are real metals, shiny and conductive — wood's organic, not a metal at all."
     },
     "2026-05-30": {
@@ -305,7 +305,7 @@
         "Incisor"
       ],
       "oddOne": 0,
-      "category": "Types of Teeth vs. Not a Tooth",
+      "category": "Types of Teeth vs. Tooth Support",
       "explanation": "Canine, Premolar, and Incisor are actual kinds of teeth in your mouth — your gums hold your teeth in, but they're not teeth themselves."
     },
     "2026-06-09": {
@@ -316,7 +316,7 @@
         "Pterodactyl"
       ],
       "oddOne": 3,
-      "category": "Actual Dinosaurs, Except a Flying Reptile, Not a Dinosaur",
+      "category": "Actual Dinosaurs, Except a Flying Reptile",
       "explanation": "Stegosaurus, Tyrannosaurus Rex, and Velociraptor are true dinosaurs that walked the Earth millions of years ago — pterodactyls were flying reptiles that lived alongside dinosaurs, but weren't technically dinosaurs."
     },
     "2026-06-10": {
@@ -338,7 +338,7 @@
         "Yellow"
       ],
       "oddOne": 2,
-      "category": "Colors of the Rainbow, Except Not a Rainbow Color",
+      "category": "Colors of the Rainbow, Except a Mixed Pigment",
       "explanation": "Red, Orange, and Yellow are actual colors you'll see in a rainbow's spectrum — brown's a mixed pigment color, it won't show up in a rainbow."
     },
     "2026-06-12": {
@@ -349,7 +349,7 @@
         "Copper"
       ],
       "oddOne": 0,
-      "category": "Metals vs. Not a Metal",
+      "category": "Metals vs. Made From Sand",
       "explanation": "Aluminum, Gold, and Copper are real metals, shiny and conductive — glass is made from sand, not a metal."
     },
     "2026-06-13": {
@@ -382,7 +382,7 @@
         "Polar Bear"
       ],
       "oddOne": 0,
-      "category": "Real Bears vs. Not a Bear",
+      "category": "Real Bears vs. a Raccoon Relative",
       "explanation": "Grizzly Bear, Panda, and Polar Bear are genuine bears, part of the bear family — a red panda isn't a true bear, it's in its own family."
     },
     "2026-06-16": {
@@ -536,7 +536,7 @@
         "Wedge"
       ],
       "oddOne": 2,
-      "category": "Simple Machines, Except Not a Simple Machine",
+      "category": "Simple Machines, Except an Energy Store",
       "explanation": "Pulley, Lever, and Wedge are classic simple machines that make work easier — a battery stores energy, it's not a simple machine."
     },
     "2026-06-30": {
@@ -569,7 +569,7 @@
         "Dimetrodon"
       ],
       "oddOne": 3,
-      "category": "Actual Dinosaurs vs. Not a Dinosaur",
+      "category": "Actual Dinosaurs vs. Older Than Dinosaurs",
       "explanation": "Stegosaurus, Velociraptor, and Triceratops are true dinosaurs that walked the Earth millions of years ago — Dimetrodon lived before dinosaurs even existed, and it's more related to mammals."
     },
     "2026-07-03": {
@@ -613,7 +613,7 @@
         "Green"
       ],
       "oddOne": 2,
-      "category": "Colors of the Rainbow vs. Not a Rainbow Color",
+      "category": "Colors of the Rainbow vs. a Lighter Tint",
       "explanation": "Red, Orange, and Green are actual colors you'll see in a rainbow's spectrum — pink's a lighter tint, not one of the rainbow's true colors."
     },
     "2026-07-07": {
@@ -668,7 +668,7 @@
         "Hearing"
       ],
       "oddOne": 1,
-      "category": "Human Senses, Except A Lesser-Known 6th Sense",
+      "category": "Human Senses, Except a Lesser-Known 6th Sense",
       "explanation": "Touch, Sight, and Hearing are classic human senses — balance is actually its own sense — it just doesn't make the famous five."
     },
     "2026-07-12": {
@@ -800,7 +800,7 @@
         "Red"
       ],
       "oddOne": 2,
-      "category": "Colors of the Rainbow, Except Not a Rainbow Color",
+      "category": "Colors of the Rainbow, Except a Color Your Brain Invents",
       "explanation": "Yellow, Green, and Red are actual colors you'll see in a rainbow's spectrum — magenta doesn't even exist on the light spectrum — your brain makes it up."
     },
     "2026-07-24": {
@@ -833,7 +833,7 @@
         "Rain"
       ],
       "oddOne": 0,
-      "category": "Precipitation vs. Not Precipitation",
+      "category": "Precipitation vs. a Low Cloud",
       "explanation": "Sleet, Snow, and Rain are precipitation — stuff that actually falls from clouds — fog is a cloud sitting on the ground, not falling."
     },
     "2026-07-27": {
@@ -1185,7 +1185,7 @@
         "Incisor"
       ],
       "oddOne": 2,
-      "category": "Types of Teeth, Except Not a Tooth",
+      "category": "Types of Teeth, Except the Bone Teeth Sit In",
       "explanation": "Premolar, Molar, and Incisor are actual kinds of teeth in your mouth — your jaw's the bone teeth sit in, not a tooth itself."
     },
     "2026-08-28": {
@@ -1251,7 +1251,7 @@
         "Saliva"
       ],
       "oddOne": 3,
-      "category": "Types of Teeth vs. Not a Tooth",
+      "category": "Types of Teeth vs. Just Spit",
       "explanation": "Molar, Premolar, and Canine are actual kinds of teeth in your mouth — saliva's just spit, definitely not a tooth."
     },
     "2026-09-03": {
@@ -1339,7 +1339,7 @@
         "Diamond"
       ],
       "oddOne": 0,
-      "category": "Precious Gemstones vs. Not Precious",
+      "category": "Precious Gemstones vs. Just a Common Rock",
       "explanation": "Sapphire, Ruby, and Diamond are gemstones formed from minerals — coal's a common rock, nowhere near gemstone status."
     },
     "2026-09-11": {
@@ -1405,7 +1405,7 @@
         "Wheel and Axle"
       ],
       "oddOne": 0,
-      "category": "Simple Machines vs. Not a Simple Machine",
+      "category": "Simple Machines vs. a Complex Machine",
       "explanation": "Pulley, Wedge, and Wheel and Axle are classic simple machines that make work easier — a motor's a complex machine, not one of the six simple ones."
     },
     "2026-09-17": {
@@ -1647,7 +1647,7 @@
         "Incisor"
       ],
       "oddOne": 0,
-      "category": "Types of Teeth, Except Not a Tooth",
+      "category": "Types of Teeth, Except a Muscle",
       "explanation": "Canine, Molar, and Incisor are actual kinds of teeth in your mouth — your tongue's a muscle, not a tooth."
     },
     "2026-10-09": {
@@ -1735,7 +1735,7 @@
         "Magnet"
       ],
       "oddOne": 3,
-      "category": "Simple Machines vs. Not a Simple Machine",
+      "category": "Simple Machines vs. Something That Attracts Metal",
       "explanation": "Wheel and Axle, Pulley, and Lever are classic simple machines that make work easier — a magnet attracts metal, that's not a simple machine."
     },
     "2026-10-17": {
@@ -1790,7 +1790,7 @@
         "Snow"
       ],
       "oddOne": 0,
-      "category": "Precipitation, Except Not Precipitation",
+      "category": "Precipitation, Except Spinning Wind",
       "explanation": "Hail, Rain, and Snow are precipitation — stuff that actually falls from clouds — a tornado's spinning wind, not precipitation."
     },
     "2026-10-22": {
@@ -1801,7 +1801,7 @@
         "Krypton"
       ],
       "oddOne": 0,
-      "category": "Noble Gases, Except Not a Noble Gas",
+      "category": "Noble Gases, Except Most of Our Air",
       "explanation": "Argon, Helium, and Krypton are noble gases — barely react with anything — nitrogen makes up most of our air, but it's not classified as noble."
     },
     "2026-10-23": {
@@ -1889,7 +1889,7 @@
         "Grizzly Bear"
       ],
       "oddOne": 2,
-      "category": "Real Bears, Except Not a Bear",
+      "category": "Real Bears, Except a Marsupial",
       "explanation": "Polar Bear, Black Bear, and Grizzly Bear are genuine bears, part of the bear family — a koala's a marsupial, not a bear, despite the nickname."
     },
     "2026-10-31": {
@@ -2076,7 +2076,7 @@
         "Fern"
       ],
       "oddOne": 3,
-      "category": "Trees, Except Not a Tree",
+      "category": "Trees, Except a Non-Woody Plant",
       "explanation": "Maple, Birch, and Oak are actual trees — a fern's a non-woody plant, no trunk like a tree."
     },
     "2026-11-17": {
@@ -2109,7 +2109,7 @@
         "Rainbow"
       ],
       "oddOne": 3,
-      "category": "Precipitation vs. Not Precipitation",
+      "category": "Precipitation vs. Just Bent Light",
       "explanation": "Hail, Sleet, and Snow are precipitation — stuff that actually falls from clouds — a rainbow's just light bending through water, nothing's falling."
     },
     "2026-11-20": {
@@ -2153,7 +2153,7 @@
         "Sleeping"
       ],
       "oddOne": 3,
-      "category": "Human Senses vs. Not a Sense",
+      "category": "Human Senses vs. Just an Activity",
       "explanation": "Hearing, Taste, and Sight are classic human senses — sleeping's an activity, not a sense."
     },
     "2026-11-24": {
@@ -2197,7 +2197,7 @@
         "Black"
       ],
       "oddOne": 3,
-      "category": "Colors of the Rainbow vs. Not a Rainbow Color",
+      "category": "Colors of the Rainbow vs. the Absence of Light",
       "explanation": "Violet, Red, and Orange are actual colors you'll see in a rainbow's spectrum — black is the absence of light, not a color of light."
     },
     "2026-11-28": {
@@ -2230,7 +2230,7 @@
         "Copper"
       ],
       "oddOne": 1,
-      "category": "Metals vs. Not a Metal",
+      "category": "Metals vs. a Synthetic Material",
       "explanation": "Gold, Iron, and Copper are real metals, shiny and conductive — plastic's synthetic, no metal in sight."
     },
     "2026-12-01": {
@@ -2241,7 +2241,7 @@
         "Sight"
       ],
       "oddOne": 1,
-      "category": "Human Senses, Except Not a Sense",
+      "category": "Human Senses, Except Just Something That Keeps You Alive",
       "explanation": "Hearing, Smell, and Sight are classic human senses — breathing keeps you alive, but it's not one of the senses."
     },
     "2026-12-02": {
@@ -2439,7 +2439,7 @@
         "Rain"
       ],
       "oddOne": 2,
-      "category": "Precipitation, Except Not Precipitation",
+      "category": "Precipitation, Except Just Moving Air",
       "explanation": "Snow, Hail, and Rain are precipitation — stuff that actually falls from clouds — wind is just moving air, nothing's falling from the sky."
     },
     "2026-12-20": {
@@ -2505,7 +2505,7 @@
         "Orange"
       ],
       "oddOne": 1,
-      "category": "Colors of the Rainbow, Except Not a Rainbow Color",
+      "category": "Colors of the Rainbow, Except All Colors Combined",
       "explanation": "Red, Blue, and Orange are actual colors you'll see in a rainbow's spectrum — white's actually all the colors combined, not one wavelength."
     },
     "2026-12-26": {
@@ -2595,7 +2595,7 @@
         "Stratus"
       ],
       "oddOne": 1,
-      "category": "Cloud Types, Except Not a Cloud Type",
+      "category": "Cloud Types, Except Spinning Wind",
       "explanation": "Cumulus, Cirrus, and Stratus are real cloud classifications — a tornado's a spinning column of air, not a cloud classification."
     },
     "2026-05-14": {
@@ -2606,7 +2606,7 @@
         "Insulin"
       ],
       "oddOne": 2,
-      "category": "Hormones, Except An Enzyme, Not a Hormone",
+      "category": "Hormones, Except an Enzyme",
       "explanation": "Testosterone, Adrenaline, and Insulin are hormones — chemical messengers your body releases into the blood — pepsin's a digestive enzyme, it breaks down food, it's not a hormone."
     },
     "2026-05-15": {
@@ -2617,7 +2617,7 @@
         "Thermal Energy"
       ],
       "oddOne": 2,
-      "category": "Forms of Energy vs. A Different Physics Quantity",
+      "category": "Forms of Energy vs. a Different Physics Quantity",
       "explanation": "Chemical Energy, Potential Energy, and Thermal Energy are actual forms of energy — momentum's its own thing in physics, not a form of energy."
     },
     "2026-05-16": {
@@ -2628,7 +2628,7 @@
         "Vitamin C"
       ],
       "oddOne": 2,
-      "category": "Vitamins vs. A Mineral, Not a Vitamin",
+      "category": "Vitamins vs. a Mineral",
       "explanation": "Vitamin E, Vitamin A, and Vitamin C are actual vitamins — iron's a mineral your blood needs, not a vitamin."
     },
     "2026-05-17": {
@@ -2639,7 +2639,7 @@
         "Smooth Muscle"
       ],
       "oddOne": 1,
-      "category": "Types of Muscle, Except Connects Bone to Bone",
+      "category": "Types of Muscle, Except Connective Tissue",
       "explanation": "Cardiac Muscle, Skeletal Muscle, and Smooth Muscle are actual types of muscle tissue in your body — a ligament links bone to bone, no muscle fiber involved."
     },
     "2026-05-18": {
@@ -2650,7 +2650,7 @@
         "Continental Shelf"
       ],
       "oddOne": 3,
-      "category": "Ocean Depth Zones, Except A Seafloor Feature",
+      "category": "Ocean Depth Zones, Except a Seafloor Feature",
       "explanation": "Midnight Zone, Sunlight Zone, and Twilight Zone are actual zones of the ocean, named for how much light reaches them — the continental shelf is a shape of the seafloor, not a depth zone."
     },
     "2026-05-19": {
@@ -2661,7 +2661,7 @@
         "Battery Acid"
       ],
       "oddOne": 2,
-      "category": "Acids, Except A Base",
+      "category": "Acids, Except a Base",
       "explanation": "Lemon Juice, Stomach Acid, and Battery Acid are acidic, sitting low on the pH scale — bleach is a strong base, definitely not acidic."
     },
     "2026-05-20": {
@@ -2672,7 +2672,7 @@
         "Lenticular"
       ],
       "oddOne": 0,
-      "category": "Types of Galaxies vs. A Star Pattern, Not a Galaxy",
+      "category": "Types of Galaxies vs. a Star Pattern",
       "explanation": "Spiral, Elliptical, and Lenticular are actual shapes galaxies come in — a constellation's just a pattern we see from Earth, not a real galaxy shape."
     },
     "2026-05-21": {
@@ -2694,7 +2694,7 @@
         "Cirrus"
       ],
       "oddOne": 0,
-      "category": "Cloud Types vs. Not a Cloud Type",
+      "category": "Cloud Types vs. a Whole Storm System",
       "explanation": "Stratus, Nimbus, and Cirrus are real cloud classifications — a hurricane's a massive storm system, not a single cloud type."
     },
     "2026-05-23": {
@@ -2716,7 +2716,7 @@
         "Chimpanzee"
       ],
       "oddOne": 2,
-      "category": "Great Apes vs. A Monkey",
+      "category": "Great Apes vs. a Monkey",
       "explanation": "Gorilla, Bonobo, and Chimpanzee are great apes — no tail, and closely related to us — a macaque's a monkey with a tail."
     },
     "2026-05-25": {
@@ -2738,7 +2738,7 @@
         "Water"
       ],
       "oddOne": 2,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Sugar, Carbon Dioxide, and Water are compounds, built from two or more elements bonded together — hydrogen's a pure element, the simplest one there is."
     },
     "2026-05-27": {
@@ -2749,7 +2749,7 @@
         "Seaweed"
       ],
       "oddOne": 1,
-      "category": "Producers vs. A Decomposer",
+      "category": "Producers vs. a Decomposer",
       "explanation": "Grass, Algae, and Seaweed are producers — they make their own food from sunlight — a mushroom breaks down dead matter, it doesn't photosynthesize."
     },
     "2026-05-28": {
@@ -2760,7 +2760,7 @@
         "Burning"
       ],
       "oddOne": 2,
-      "category": "Chemical Changes vs. A Physical Change",
+      "category": "Chemical Changes vs. a Physical Change",
       "explanation": "Rusting, Digesting Food, and Burning are chemical changes — they create a genuinely new substance — boiling water just turns it to steam, still the same H2O."
     },
     "2026-05-29": {
@@ -2771,7 +2771,7 @@
         "Ammonia"
       ],
       "oddOne": 2,
-      "category": "Bases vs. An Acid",
+      "category": "Bases vs. an Acid",
       "explanation": "Soap, Baking Soda, and Ammonia are basic, or alkaline — high on the pH scale — vinegar's acidic, that's why it tastes so sharp."
     },
     "2026-05-30": {
@@ -2793,7 +2793,7 @@
         "Nimbus"
       ],
       "oddOne": 0,
-      "category": "Cloud Types, Except Not a Cloud Type",
+      "category": "Cloud Types, Except a Burst of Electricity",
       "explanation": "Cumulus, Cirrus, and Nimbus are real cloud classifications — lightning's a burst of electricity, not a cloud."
     },
     "2026-06-01": {
@@ -2804,7 +2804,7 @@
         "Squid"
       ],
       "oddOne": 1,
-      "category": "Mollusks vs. A Cnidarian",
+      "category": "Mollusks vs. a Cnidarian",
       "explanation": "Clam, Snail, and Squid are mollusks — soft-bodied, often with a shell — a jellyfish is a cnidarian, no shell or mollusk traits."
     },
     "2026-06-02": {
@@ -2815,7 +2815,7 @@
         "Air Resistance"
       ],
       "oddOne": 2,
-      "category": "Forces, Except Not a Force",
+      "category": "Forces, Except the Capacity to Do Work",
       "explanation": "Magnetism, Gravity, and Air Resistance are actual physical forces, they push or pull on things — energy's the capacity to do work, not a push or pull itself."
     },
     "2026-06-03": {
@@ -2826,7 +2826,7 @@
         "Breaking Glass"
       ],
       "oddOne": 3,
-      "category": "Chemical Changes, Except A Physical Change",
+      "category": "Chemical Changes, Except a Physical Change",
       "explanation": "Rusting, Digesting Food, and Baking a Cake are chemical changes — they create a genuinely new substance — breaking glass just changes its shape, not what it's made of."
     },
     "2026-06-04": {
@@ -2837,7 +2837,7 @@
         "Burning"
       ],
       "oddOne": 1,
-      "category": "Chemical Changes, Except A Physical Change",
+      "category": "Chemical Changes, Except a Physical Change",
       "explanation": "Baking a Cake, Rusting, and Burning are chemical changes — they create a genuinely new substance — melting ice is still just water, no new substance formed."
     },
     "2026-06-05": {
@@ -2859,7 +2859,7 @@
         "Clavicle"
       ],
       "oddOne": 1,
-      "category": "Arm and Shoulder Bones vs. A Leg Bone",
+      "category": "Arm and Shoulder Bones vs. a Leg Bone",
       "explanation": "Radius, Humerus, and Clavicle are bones found in your arm or shoulder — the tibia's your shin bone."
     },
     "2026-06-07": {
@@ -2881,7 +2881,7 @@
         "Potential Energy"
       ],
       "oddOne": 2,
-      "category": "Forms of Energy vs. A Property of Matter",
+      "category": "Forms of Energy vs. a Property of Matter",
       "explanation": "Kinetic Energy, Chemical Energy, and Potential Energy are actual forms of energy — mass just measures how much stuff something has, not energy."
     },
     "2026-06-09": {
@@ -2892,7 +2892,7 @@
         "Rainbow"
       ],
       "oddOne": 3,
-      "category": "Cloud Types vs. Not a Cloud Type",
+      "category": "Cloud Types vs. Bent Light",
       "explanation": "Stratus, Nimbus, and Cumulus are real cloud classifications — a rainbow's light bending through raindrops, not a cloud."
     },
     "2026-06-10": {
@@ -2903,7 +2903,7 @@
         "Graphite"
       ],
       "oddOne": 2,
-      "category": "Forms of Pure Carbon vs. A Different Element",
+      "category": "Forms of Pure Carbon vs. a Different Element",
       "explanation": "Soot, Diamond, and Graphite are different forms of the same element — pure carbon — iron's a completely different element."
     },
     "2026-06-11": {
@@ -2914,7 +2914,7 @@
         "Insulin"
       ],
       "oddOne": 2,
-      "category": "Hormones vs. A Vitamin, Not a Hormone",
+      "category": "Hormones vs. a Vitamin",
       "explanation": "Adrenaline, Estrogen, and Insulin are hormones — chemical messengers your body releases into the blood — vitamin C is a nutrient your body needs, but it's not a hormone."
     },
     "2026-06-12": {
@@ -2925,7 +2925,7 @@
         "Eagle"
       ],
       "oddOne": 1,
-      "category": "Birds of Prey vs. Not a Bird of Prey",
+      "category": "Birds of Prey vs. a Small Songbird",
       "explanation": "Hawk, Owl, and Eagle are birds of prey — sharp talons, hunting other animals — a sparrow's a small songbird, not a hunter."
     },
     "2026-06-13": {
@@ -2936,7 +2936,7 @@
         "Temperature"
       ],
       "oddOne": 3,
-      "category": "Forces vs. Not a Force",
+      "category": "Forces vs. a Measure of Heat",
       "explanation": "Magnetism, Air Resistance, and Friction are actual physical forces, they push or pull on things — temperature measures how hot something is, no pushing involved."
     },
     "2026-06-14": {
@@ -2947,7 +2947,7 @@
         "Snail"
       ],
       "oddOne": 3,
-      "category": "Cnidarians, Except A Mollusk",
+      "category": "Cnidarians, Except a Mollusk",
       "explanation": "Jellyfish, Sea Anemone, and Coral are cnidarians — simple animals armed with stinging cells — a snail's a mollusk, not a cnidarian."
     },
     "2026-06-15": {
@@ -2980,7 +2980,7 @@
         "Charcoal"
       ],
       "oddOne": 2,
-      "category": "Forms of Pure Carbon, Except A Different Element",
+      "category": "Forms of Pure Carbon, Except a Different Element",
       "explanation": "Diamond, Graphite, and Charcoal are different forms of the same element — pure carbon — gold's its own element, nothing to do with carbon."
     },
     "2026-06-18": {
@@ -3002,7 +3002,7 @@
         "Water"
       ],
       "oddOne": 2,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Salt, Sugar, and Water are compounds, built from two or more elements bonded together — gold's a pure element, all on its own on the periodic table."
     },
     "2026-06-20": {
@@ -3013,7 +3013,7 @@
         "Duck"
       ],
       "oddOne": 3,
-      "category": "Birds of Prey, Except Not a Bird of Prey",
+      "category": "Birds of Prey, Except a Waterfowl",
       "explanation": "Owl, Eagle, and Falcon are birds of prey — sharp talons, hunting other animals — a duck's a waterfowl, not a predator bird."
     },
     "2026-06-21": {
@@ -3035,7 +3035,7 @@
         "Barnacle"
       ],
       "oddOne": 2,
-      "category": "Crustaceans vs. A Mollusk",
+      "category": "Crustaceans vs. a Mollusk",
       "explanation": "Shrimp, Lobster, and Barnacle are crustaceans, usually with a hard shell and jointed legs — a snail's a mollusk carrying a single shell."
     },
     "2026-06-23": {
@@ -3046,7 +3046,7 @@
         "Kinetic Energy"
       ],
       "oddOne": 1,
-      "category": "Forms of Energy, Except A Push or Pull, Not Energy",
+      "category": "Forms of Energy, Except a Push or Pull",
       "explanation": "Thermal Energy, Potential Energy, and Kinetic Energy are actual forms of energy — force is a push or pull, that's not the same thing as energy."
     },
     "2026-06-24": {
@@ -3057,7 +3057,7 @@
         "Iodine"
       ],
       "oddOne": 2,
-      "category": "Halogens vs. An Alkali Metal",
+      "category": "Halogens vs. an Alkali Metal",
       "explanation": "Chlorine, Fluorine, and Iodine are halogens, a famously reactive group of nonmetals — sodium's a soft, reactive metal, a different family entirely."
     },
     "2026-06-25": {
@@ -3068,7 +3068,7 @@
         "Vertebrate"
       ],
       "oddOne": 3,
-      "category": "Diet-Based Animal Categories, Except About Having a Backbone",
+      "category": "Diet-Based Animal Categories, Except an Anatomy Term",
       "explanation": "Herbivore, Omnivore, and Insectivore are words that describe what an animal eats — vertebrate just means it has a backbone, nothing about diet."
     },
     "2026-06-26": {
@@ -3079,7 +3079,7 @@
         "Baking a Cake"
       ],
       "oddOne": 3,
-      "category": "Physical Changes, Except A Chemical Change",
+      "category": "Physical Changes, Except a Chemical Change",
       "explanation": "Melting Ice, Cutting Paper, and Breaking Glass are physical changes — same substance, just a different shape or state — baking batter turns it into cake — that's a real chemical change."
     },
     "2026-06-27": {
@@ -3101,7 +3101,7 @@
         "Octopus"
       ],
       "oddOne": 3,
-      "category": "Fish, Except A Mollusk",
+      "category": "Fish, Except a Mollusk",
       "explanation": "Shark, Salmon, and Catfish are actual fish, gills and all — an octopus is a mollusk, not a fish at all."
     },
     "2026-06-29": {
@@ -3123,7 +3123,7 @@
         "Pufferfish"
       ],
       "oddOne": 3,
-      "category": "Venomous Animals vs. Poisonous, Not Venomous",
+      "category": "Venomous Animals vs. Poisonous",
       "explanation": "Scorpion, Cone Snail, and Rattlesnake are venomous — they inject their toxin, usually with a bite or sting — a pufferfish is poisonous if you eat it, but it doesn't inject venom."
     },
     "2026-07-01": {
@@ -3134,7 +3134,7 @@
         "Cardiac Muscle"
       ],
       "oddOne": 1,
-      "category": "Types of Muscle, Except Not Muscle",
+      "category": "Types of Muscle, Except Hard and Rigid",
       "explanation": "Smooth Muscle, Skeletal Muscle, and Cardiac Muscle are actual types of muscle tissue in your body — bone's rigid and hard, nothing like stretchy muscle tissue."
     },
     "2026-07-02": {
@@ -3145,7 +3145,7 @@
         "Solar Eclipse"
       ],
       "oddOne": 0,
-      "category": "Types of Eclipses, Except Not an Eclipse",
+      "category": "Types of Eclipses, Except a Solar Light Show",
       "explanation": "Lunar Eclipse, Annular Eclipse, and Solar Eclipse are actual kinds of eclipses — an aurora's a light show from solar particles, not an eclipse."
     },
     "2026-07-03": {
@@ -3167,7 +3167,7 @@
         "Lion"
       ],
       "oddOne": 2,
-      "category": "Big Cats That Roar, Except A Smaller Wildcat",
+      "category": "Big Cats That Roar, Except a Smaller Wildcat",
       "explanation": "Jaguar, Leopard, and Lion are the big cats that can actually roar — a lynx is a smaller wildcat, not one of the big roaring cats."
     },
     "2026-07-05": {
@@ -3178,7 +3178,7 @@
         "Capuchin Monkey"
       ],
       "oddOne": 3,
-      "category": "Great Apes vs. A Monkey",
+      "category": "Great Apes vs. a Monkey",
       "explanation": "Bonobo, Gorilla, and Orangutan are great apes — no tail, and closely related to us — a capuchin's a tailed monkey, not a tailless ape."
     },
     "2026-07-06": {
@@ -3189,7 +3189,7 @@
         "Ammonia"
       ],
       "oddOne": 1,
-      "category": "Bases, Except An Acid",
+      "category": "Bases, Except an Acid",
       "explanation": "Bleach, Baking Soda, and Ammonia are basic, or alkaline — high on the pH scale — battery acid is about as acidic as it gets."
     },
     "2026-07-07": {
@@ -3200,7 +3200,7 @@
         "Soap"
       ],
       "oddOne": 0,
-      "category": "Bases, Except An Acid",
+      "category": "Bases, Except an Acid",
       "explanation": "Baking Soda, Bleach, and Soap are basic, or alkaline — high on the pH scale — lemon juice's an acid, low on the pH scale."
     },
     "2026-07-08": {
@@ -3211,7 +3211,7 @@
         "Digestion"
       ],
       "oddOne": 0,
-      "category": "Biological Processes, Except A Geological Process",
+      "category": "Biological Processes, Except a Geological Process",
       "explanation": "Photosynthesis, Respiration, and Digestion are real biological processes happening inside living things — erosion wears down rock and soil, that's geology, not biology."
     },
     "2026-07-09": {
@@ -3222,7 +3222,7 @@
         "Chimpanzee"
       ],
       "oddOne": 1,
-      "category": "Primates vs. Not a Primate",
+      "category": "Primates vs. a Different Animal Order",
       "explanation": "Lemur, Human, and Chimpanzee are primates — a dog's from a completely different animal order."
     },
     "2026-07-10": {
@@ -3244,7 +3244,7 @@
         "Vein"
       ],
       "oddOne": 2,
-      "category": "Blood Vessels, Except Connects Bone to Bone",
+      "category": "Blood Vessels, Except Connective Tissue",
       "explanation": "Capillary, Artery, and Vein are actual blood vessels, part of your circulatory system — a ligament connects bones together, not a blood vessel."
     },
     "2026-07-12": {
@@ -3255,7 +3255,7 @@
         "Crab"
       ],
       "oddOne": 3,
-      "category": "Cnidarians, Except A Crustacean",
+      "category": "Cnidarians, Except a Crustacean",
       "explanation": "Sea Anemone, Jellyfish, and Coral are cnidarians — simple animals armed with stinging cells — a crab's a crustacean, not a cnidarian."
     },
     "2026-07-13": {
@@ -3266,7 +3266,7 @@
         "Speed"
       ],
       "oddOne": 3,
-      "category": "Forces vs. Not a Force",
+      "category": "Forces vs. a Measure of Motion",
       "explanation": "Gravity, Friction, and Air Resistance are actual physical forces, they push or pull on things — speed just describes how fast something moves."
     },
     "2026-07-14": {
@@ -3277,7 +3277,7 @@
         "Niels Bohr"
       ],
       "oddOne": 0,
-      "category": "Physicists vs. A Psychologist",
+      "category": "Physicists vs. a Psychologist",
       "explanation": "Marie Curie, Albert Einstein, and Niels Bohr are best known for groundbreaking work in physics — Sigmund Freud's known for psychology, not physics."
     },
     "2026-07-15": {
@@ -3288,7 +3288,7 @@
         "Lion"
       ],
       "oddOne": 3,
-      "category": "Producers, Except A Consumer",
+      "category": "Producers, Except a Consumer",
       "explanation": "Oak Tree, Algae, and Grass are producers — they make their own food from sunlight — a lion eats other animals, it can't make its own food."
     },
     "2026-07-16": {
@@ -3321,7 +3321,7 @@
         "Vitamin E"
       ],
       "oddOne": 2,
-      "category": "Vitamins, Except A Macronutrient, Not a Vitamin",
+      "category": "Vitamins, Except a Macronutrient",
       "explanation": "Vitamin A, Vitamin D, and Vitamin E are actual vitamins — protein's a macronutrient that builds muscle, not a vitamin."
     },
     "2026-07-19": {
@@ -3332,7 +3332,7 @@
         "Evaporation"
       ],
       "oddOne": 3,
-      "category": "Biological Processes, Except A Physical Process",
+      "category": "Biological Processes, Except a Physical Process",
       "explanation": "Photosynthesis, Digestion, and Circulation are real biological processes happening inside living things — evaporation is water turning to vapor, a physical change, not biology."
     },
     "2026-07-20": {
@@ -3343,7 +3343,7 @@
         "Lobster"
       ],
       "oddOne": 2,
-      "category": "Crustaceans, Except A Mollusk",
+      "category": "Crustaceans, Except a Mollusk",
       "explanation": "Crab, Shrimp, and Lobster are crustaceans, usually with a hard shell and jointed legs — an octopus is a mollusk, no hard shell or jointed legs."
     },
     "2026-07-21": {
@@ -3376,7 +3376,7 @@
         "Troposphere"
       ],
       "oddOne": 2,
-      "category": "Layers of the Atmosphere vs. A Layer of the Earth",
+      "category": "Layers of the Atmosphere vs. a Layer of the Earth",
       "explanation": "Thermosphere, Stratosphere, and Troposphere are actual layers of Earth's atmosphere — the mantle's deep underground, nowhere near the atmosphere."
     },
     "2026-07-24": {
@@ -3387,7 +3387,7 @@
         "Carnivore"
       ],
       "oddOne": 0,
-      "category": "Diet-Based Animal Categories vs. A Class of Animal",
+      "category": "Diet-Based Animal Categories vs. a Class of Animal",
       "explanation": "Herbivore, Insectivore, and Carnivore are words that describe what an animal eats — mammal describes what kind of animal it is, not its diet."
     },
     "2026-07-25": {
@@ -3398,7 +3398,7 @@
         "Radius"
       ],
       "oddOne": 0,
-      "category": "Arm and Shoulder Bones, Except A Leg Bone",
+      "category": "Arm and Shoulder Bones, Except a Leg Bone",
       "explanation": "Humerus, Ulna, and Radius are bones found in your arm or shoulder — the femur's your thigh bone, nowhere near your arm."
     },
     "2026-07-26": {
@@ -3409,7 +3409,7 @@
         "Twilight Zone"
       ],
       "oddOne": 1,
-      "category": "Ocean Depth Zones, Except A Shoreline Feature",
+      "category": "Ocean Depth Zones, Except a Shoreline Feature",
       "explanation": "Sunlight Zone, Midnight Zone, and Twilight Zone are actual zones of the ocean, named for how much light reaches them — a tide pool's a shallow puddle at the shore, nowhere near ocean depth zones."
     },
     "2026-07-27": {
@@ -3420,7 +3420,7 @@
         "Lithium"
       ],
       "oddOne": 2,
-      "category": "Alkali Metals vs. A Noble Gas",
+      "category": "Alkali Metals vs. a Noble Gas",
       "explanation": "Sodium, Rubidium, and Lithium are alkali metals — soft, and they react hard with water — helium barely reacts with anything, the opposite of an alkali metal."
     },
     "2026-07-28": {
@@ -3442,7 +3442,7 @@
         "Squirrel"
       ],
       "oddOne": 2,
-      "category": "Rodents, Except Not a Rodent",
+      "category": "Rodents, Except a Lagomorph",
       "explanation": "Rat, Mouse, and Squirrel are true rodents, known for those ever-growing front teeth — a rabbit's actually a lagomorph, a whole different group, not a rodent."
     },
     "2026-07-30": {
@@ -3453,7 +3453,7 @@
         "Charles Darwin"
       ],
       "oddOne": 0,
-      "category": "Biologists, Except A Physicist",
+      "category": "Biologists, Except a Physicist",
       "explanation": "Jane Goodall, Gregor Mendel, and Charles Darwin are best known for groundbreaking work in biology — Isaac Newton's famous for gravity and motion, that's physics."
     },
     "2026-07-31": {
@@ -3464,7 +3464,7 @@
         "Clam"
       ],
       "oddOne": 0,
-      "category": "Mollusks vs. A Crustacean",
+      "category": "Mollusks vs. a Crustacean",
       "explanation": "Squid, Octopus, and Clam are mollusks — soft-bodied, often with a shell — a lobster's a crustacean, related to crabs and shrimp."
     },
     "2026-08-01": {
@@ -3486,7 +3486,7 @@
         "Sugar"
       ],
       "oddOne": 2,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Carbon Dioxide, Water, and Sugar are compounds, built from two or more elements bonded together — iron's a pure element, straight off the periodic table."
     },
     "2026-08-03": {
@@ -3497,7 +3497,7 @@
         "Kelvin"
       ],
       "oddOne": 0,
-      "category": "SI Base Units, Except Not SI, and Not a Base Unit",
+      "category": "SI Base Units, Except a Non-Metric Scale",
       "explanation": "Meter, Second, and Kelvin are official SI base units scientists build every other measurement from — Fahrenheit isn't SI, and it isn't even the SI temperature unit."
     },
     "2026-08-04": {
@@ -3508,7 +3508,7 @@
         "White Dwarf"
       ],
       "oddOne": 1,
-      "category": "Types of Stars, Except Not a Star Anymore",
+      "category": "Types of Stars, Except a Collapsed Star's Remains",
       "explanation": "Red Giant, Neutron Star, and White Dwarf are different types or stages of actual stars — a black hole's what's left after a massive star collapses — it's not technically a star anymore."
     },
     "2026-08-05": {
@@ -3530,7 +3530,7 @@
         "Chimpanzee"
       ],
       "oddOne": 2,
-      "category": "Primates vs. Not a Primate",
+      "category": "Primates vs. a Hooved Mammal",
       "explanation": "Lemur, Gorilla, and Chimpanzee are primates — a horse isn't a primate either."
     },
     "2026-08-07": {
@@ -3541,7 +3541,7 @@
         "Barnacle"
       ],
       "oddOne": 1,
-      "category": "Crustaceans vs. A Mollusk",
+      "category": "Crustaceans vs. a Mollusk",
       "explanation": "Lobster, Crab, and Barnacle are crustaceans, usually with a hard shell and jointed legs — a squid's a mollusk, soft-bodied through and through."
     },
     "2026-08-08": {
@@ -3574,7 +3574,7 @@
         "Humerus"
       ],
       "oddOne": 3,
-      "category": "Leg Bones, Except An Arm Bone",
+      "category": "Leg Bones, Except an Arm Bone",
       "explanation": "Fibula, Tibia, and Femur are bones found in your leg — the humerus is up in your arm, not your leg."
     },
     "2026-08-11": {
@@ -3585,7 +3585,7 @@
         "Rubidium"
       ],
       "oddOne": 2,
-      "category": "Alkali Metals, Except A Reactive Nonmetal",
+      "category": "Alkali Metals, Except a Reactive Nonmetal",
       "explanation": "Lithium, Potassium, and Rubidium are alkali metals — soft, and they react hard with water — oxygen's a gas, not a soft metal."
     },
     "2026-08-12": {
@@ -3596,7 +3596,7 @@
         "Water"
       ],
       "oddOne": 1,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Sugar, Salt, and Water are compounds, built from two or more elements bonded together — silver's a pure element, not a combination of two."
     },
     "2026-08-13": {
@@ -3607,7 +3607,7 @@
         "Octopus"
       ],
       "oddOne": 3,
-      "category": "Cnidarians vs. A Mollusk",
+      "category": "Cnidarians vs. a Mollusk",
       "explanation": "Jellyfish, Sea Anemone, and Coral are cnidarians — simple animals armed with stinging cells — an octopus is a mollusk, a much more complex animal."
     },
     "2026-08-14": {
@@ -3629,7 +3629,7 @@
         "Octopus"
       ],
       "oddOne": 3,
-      "category": "Echinoderms vs. A Mollusk",
+      "category": "Echinoderms vs. a Mollusk",
       "explanation": "Sand Dollar, Starfish, and Sea Urchin are echinoderms — spiny-skinned ocean animals — an octopus is a soft-bodied mollusk, no spiny skin."
     },
     "2026-08-16": {
@@ -3640,7 +3640,7 @@
         "Mouse"
       ],
       "oddOne": 2,
-      "category": "Rodents vs. Not a Rodent",
+      "category": "Rodents vs. a Carnivore",
       "explanation": "Beaver, Rat, and Mouse are true rodents, known for those ever-growing front teeth — a cat's a carnivore, not a rodent."
     },
     "2026-08-17": {
@@ -3662,7 +3662,7 @@
         "Fluorine"
       ],
       "oddOne": 2,
-      "category": "Halogens, Except A Noble Gas",
+      "category": "Halogens, Except a Noble Gas",
       "explanation": "Bromine, Chlorine, and Fluorine are halogens, a famously reactive group of nonmetals — helium's about as unreactive as elements get."
     },
     "2026-08-19": {
@@ -3673,7 +3673,7 @@
         "Graphite"
       ],
       "oddOne": 0,
-      "category": "Forms of Pure Carbon, Except Frozen Water, Not Carbon",
+      "category": "Forms of Pure Carbon, Except Frozen Water",
       "explanation": "Diamond, Charcoal, and Graphite are different forms of the same element — pure carbon — ice is just frozen water, not carbon at all."
     },
     "2026-08-20": {
@@ -3717,7 +3717,7 @@
         "Blue Giant"
       ],
       "oddOne": 1,
-      "category": "Types of Stars, Except Not a Star",
+      "category": "Types of Stars, Except Ice and Dust",
       "explanation": "Neutron Star, Red Giant, and Blue Giant are different types or stages of actual stars — a comet's ice and dust, not a burning star."
     },
     "2026-08-24": {
@@ -3728,7 +3728,7 @@
         "Salmon"
       ],
       "oddOne": 1,
-      "category": "Fish, Except A Mammal",
+      "category": "Fish, Except a Mammal",
       "explanation": "Tuna, Catfish, and Salmon are actual fish, gills and all — a dolphin's a mammal, it breathes air with lungs, not gills."
     },
     "2026-08-25": {
@@ -3739,7 +3739,7 @@
         "Femur"
       ],
       "oddOne": 2,
-      "category": "Leg Bones, Except An Arm Bone",
+      "category": "Leg Bones, Except an Arm Bone",
       "explanation": "Fibula, Patella, and Femur are bones found in your leg — the ulna's the other forearm bone."
     },
     "2026-08-26": {
@@ -3750,7 +3750,7 @@
         "Hypodermis"
       ],
       "oddOne": 2,
-      "category": "Layers of Skin, Except Beneath Your Skin, Not a Layer of It",
+      "category": "Layers of Skin, Except Tissue Beneath the Skin",
       "explanation": "Dermis, Epidermis, and Hypodermis are actual layers of your skin — muscle sits below your skin's layers, it's not one of them."
     },
     "2026-08-27": {
@@ -3761,7 +3761,7 @@
         "Charcoal"
       ],
       "oddOne": 1,
-      "category": "Forms of Pure Carbon, Except A Compound, Not Pure Carbon",
+      "category": "Forms of Pure Carbon, Except a Compound",
       "explanation": "Diamond, Soot, and Charcoal are different forms of the same element — pure carbon — salt's a compound of sodium and chlorine, not carbon."
     },
     "2026-08-28": {
@@ -3772,7 +3772,7 @@
         "Chlorine"
       ],
       "oddOne": 2,
-      "category": "Halogens vs. A Noble Gas",
+      "category": "Halogens vs. a Noble Gas",
       "explanation": "Bromine, Iodine, and Chlorine are halogens, a famously reactive group of nonmetals — neon just sits there — no interest in reacting with anything."
     },
     "2026-08-29": {
@@ -3783,7 +3783,7 @@
         "Vinegar"
       ],
       "oddOne": 2,
-      "category": "Acids, Except A Base",
+      "category": "Acids, Except a Base",
       "explanation": "Battery Acid, Lemon Juice, and Vinegar are acidic, sitting low on the pH scale — baking soda's a base, it sits high on the pH scale."
     },
     "2026-08-30": {
@@ -3816,7 +3816,7 @@
         "Earthworm"
       ],
       "oddOne": 0,
-      "category": "Decomposers, Except A Consumer, Not a Decomposer",
+      "category": "Decomposers, Except a Consumer",
       "explanation": "Bacteria, Mushroom, and Earthworm are decomposers — they break down dead stuff and recycle it — a rabbit eats living plants, that's not decomposing."
     },
     "2026-09-02": {
@@ -3827,7 +3827,7 @@
         "Falcon"
       ],
       "oddOne": 1,
-      "category": "Birds of Prey, Except Not a Bird of Prey",
+      "category": "Birds of Prey, Except No Talons for Hunting",
       "explanation": "Hawk, Eagle, and Falcon are birds of prey — sharp talons, hunting other animals — a pigeon's not a hunter, no talons for prey."
     },
     "2026-09-03": {
@@ -3860,7 +3860,7 @@
         "Starfish"
       ],
       "oddOne": 3,
-      "category": "Mollusks, Except An Echinoderm",
+      "category": "Mollusks, Except an Echinoderm",
       "explanation": "Octopus, Snail, and Clam are mollusks — soft-bodied, often with a shell — a starfish is an echinoderm, its own animal group entirely."
     },
     "2026-09-06": {
@@ -3871,7 +3871,7 @@
         "Monarch Butterfly"
       ],
       "oddOne": 3,
-      "category": "Venomous Animals, Except Poisonous, Not Venomous",
+      "category": "Venomous Animals, Except Poisonous",
       "explanation": "Cone Snail, Black Widow Spider, and Rattlesnake are venomous — they inject their toxin, usually with a bite or sting — a monarch butterfly's toxic if eaten, from all that milkweed, but it has no venom to inject."
     },
     "2026-09-07": {
@@ -3882,7 +3882,7 @@
         "Passenger Pigeon"
       ],
       "oddOne": 0,
-      "category": "Extinct Animals vs. Endangered, Not Extinct",
+      "category": "Extinct Animals vs. Endangered But Alive",
       "explanation": "Woolly Mammoth, Dodo, and Passenger Pigeon are extinct — completely gone, none left anywhere — the giant panda's endangered, but it's still with us."
     },
     "2026-09-08": {
@@ -3893,7 +3893,7 @@
         "Vitamin A"
       ],
       "oddOne": 0,
-      "category": "Vitamins, Except A Mineral, Not a Vitamin",
+      "category": "Vitamins, Except a Mineral",
       "explanation": "Vitamin C, Vitamin D, and Vitamin A are actual vitamins — calcium's a mineral your bones need, not a vitamin."
     },
     "2026-09-09": {
@@ -3904,7 +3904,7 @@
         "Meter"
       ],
       "oddOne": 1,
-      "category": "SI Base Units, Except A Derived Unit",
+      "category": "SI Base Units, Except a Derived Unit",
       "explanation": "Kilogram, Second, and Meter are official SI base units scientists build every other measurement from — a liter's built from the meter, it's a derived unit, not a base one."
     },
     "2026-09-10": {
@@ -3915,7 +3915,7 @@
         "Io"
       ],
       "oddOne": 3,
-      "category": "Moons of Saturn, Except A Moon of Jupiter",
+      "category": "Moons of Saturn, Except a Moon of Jupiter",
       "explanation": "Enceladus, Mimas, and Titan are moons that orbit Saturn — Io orbits Jupiter, not Saturn."
     },
     "2026-09-11": {
@@ -3926,7 +3926,7 @@
         "Mesosphere"
       ],
       "oddOne": 1,
-      "category": "Layers of the Atmosphere, Except A Layer of the Earth",
+      "category": "Layers of the Atmosphere, Except a Layer of the Earth",
       "explanation": "Stratosphere, Troposphere, and Mesosphere are actual layers of Earth's atmosphere — the crust is part of the solid ground, not the air above it."
     },
     "2026-09-12": {
@@ -3937,7 +3937,7 @@
         "Hair"
       ],
       "oddOne": 3,
-      "category": "Layers of Skin, Except Grows From Skin, Isn't a Layer",
+      "category": "Layers of Skin, Except Something That Grows From Skin",
       "explanation": "Epidermis, Dermis, and Hypodermis are actual layers of your skin — hair grows out of your skin, it isn't a layer of it."
     },
     "2026-09-13": {
@@ -3959,7 +3959,7 @@
         "Gorilla"
       ],
       "oddOne": 2,
-      "category": "Primates, Except A Rodent",
+      "category": "Primates, Except a Rodent",
       "explanation": "Chimpanzee, Human, and Gorilla are primates — a squirrel's a rodent, not a primate."
     },
     "2026-09-15": {
@@ -3970,7 +3970,7 @@
         "Starfish"
       ],
       "oddOne": 2,
-      "category": "Echinoderms, Except A Mollusk",
+      "category": "Echinoderms, Except a Mollusk",
       "explanation": "Sand Dollar, Sea Urchin, and Starfish are echinoderms — spiny-skinned ocean animals — a clam's a mollusk, not an echinoderm."
     },
     "2026-09-16": {
@@ -3981,7 +3981,7 @@
         "Tendon"
       ],
       "oddOne": 3,
-      "category": "Blood Vessels vs. Connects Muscle to Bone",
+      "category": "Blood Vessels vs. Connective Tissue",
       "explanation": "Vein, Artery, and Capillary are actual blood vessels, part of your circulatory system — a tendon links muscle to bone, no blood flowing through it."
     },
     "2026-09-17": {
@@ -3992,7 +3992,7 @@
         "Oak Tree"
       ],
       "oddOne": 2,
-      "category": "Producers, Except A Consumer",
+      "category": "Producers, Except a Consumer",
       "explanation": "Seaweed, Grass, and Oak Tree are producers — they make their own food from sunlight — a rabbit eats plants, it doesn't make its own food."
     },
     "2026-09-18": {
@@ -4003,7 +4003,7 @@
         "Salmon"
       ],
       "oddOne": 1,
-      "category": "Fish vs. A Mammal",
+      "category": "Fish vs. a Mammal",
       "explanation": "Tuna, Shark, and Salmon are actual fish, gills and all — a whale's a mammal, it has to surface to breathe."
     },
     "2026-09-19": {
@@ -4014,7 +4014,7 @@
         "Kelvin"
       ],
       "oddOne": 2,
-      "category": "SI Base Units vs. An Imperial Unit",
+      "category": "SI Base Units vs. an Imperial Unit",
       "explanation": "Second, Kilogram, and Kelvin are official SI base units scientists build every other measurement from — a mile's an imperial unit, nowhere close to the metric SI system."
     },
     "2026-09-20": {
@@ -4025,7 +4025,7 @@
         "Neutrophil"
       ],
       "oddOne": 2,
-      "category": "White Blood Cells vs. Carries Oxygen, Not Immunity",
+      "category": "White Blood Cells vs. an Oxygen Carrier",
       "explanation": "Eosinophil, Monocyte, and Neutrophil are white blood cells, your immune system's security guards — a red blood cell's job is hauling oxygen around, it doesn't fight infection."
     },
     "2026-09-21": {
@@ -4047,7 +4047,7 @@
         "Mimas"
       ],
       "oddOne": 2,
-      "category": "Moons of Saturn, Except A Moon of Neptune",
+      "category": "Moons of Saturn, Except a Moon of Neptune",
       "explanation": "Rhea, Titan, and Mimas are moons that orbit Saturn — Triton orbits Neptune, not Saturn."
     },
     "2026-09-23": {
@@ -4069,7 +4069,7 @@
         "Albert Einstein"
       ],
       "oddOne": 1,
-      "category": "Physicists, Except A Biologist",
+      "category": "Physicists, Except a Biologist",
       "explanation": "Isaac Newton, Marie Curie, and Albert Einstein are best known for groundbreaking work in physics — Charles Darwin's famous for evolution, that's biology, not physics."
     },
     "2026-09-25": {
@@ -4091,7 +4091,7 @@
         "DNA"
       ],
       "oddOne": 0,
-      "category": "Molecules Cells Actually Use vs. Not a Biological Molecule",
+      "category": "Molecules Cells Actually Use vs. a Synthetic Material",
       "explanation": "Enzyme, RNA, and DNA are molecules your cells are built from and run on — plastic's a synthetic material, no cells involved."
     },
     "2026-09-27": {
@@ -4102,7 +4102,7 @@
         "Snail"
       ],
       "oddOne": 0,
-      "category": "Mollusks, Except A Crustacean",
+      "category": "Mollusks, Except a Crustacean",
       "explanation": "Octopus, Squid, and Snail are mollusks — soft-bodied, often with a shell — a crab's a crustacean, a totally different animal group."
     },
     "2026-09-28": {
@@ -4113,7 +4113,7 @@
         "Triton"
       ],
       "oddOne": 3,
-      "category": "Moons of Jupiter vs. A Moon of Neptune",
+      "category": "Moons of Jupiter vs. a Moon of Neptune",
       "explanation": "Io, Europa, and Callisto are moons that orbit Jupiter — Triton orbits Neptune, not Jupiter."
     },
     "2026-09-29": {
@@ -4124,7 +4124,7 @@
         "Tuna"
       ],
       "oddOne": 2,
-      "category": "Fish vs. An Invertebrate",
+      "category": "Fish vs. an Invertebrate",
       "explanation": "Catfish, Shark, and Tuna are actual fish, gills and all — a jellyfish isn't a fish, despite the name."
     },
     "2026-09-30": {
@@ -4146,7 +4146,7 @@
         "Combustion"
       ],
       "oddOne": 3,
-      "category": "Biological Processes vs. A Chemical Process",
+      "category": "Biological Processes vs. a Chemical Process",
       "explanation": "Circulation, Respiration, and Photosynthesis are real biological processes happening inside living things — combustion is just burning, a chemical reaction, not a biological one."
     },
     "2026-10-02": {
@@ -4157,7 +4157,7 @@
         "Orangutan"
       ],
       "oddOne": 2,
-      "category": "Great Apes, Except A Monkey",
+      "category": "Great Apes, Except a Monkey",
       "explanation": "Chimpanzee, Gorilla, and Orangutan are great apes — no tail, and closely related to us — a baboon's a monkey, and monkeys have tails."
     },
     "2026-10-03": {
@@ -4168,7 +4168,7 @@
         "Air"
       ],
       "oddOne": 2,
-      "category": "Mixtures, Except A Pure Element",
+      "category": "Mixtures, Except a Pure Element",
       "explanation": "Brass, Soil, and Air are mixtures — different substances mixed together, not chemically bonded — oxygen's a pure element by itself."
     },
     "2026-10-04": {
@@ -4179,7 +4179,7 @@
         "Vinegar"
       ],
       "oddOne": 1,
-      "category": "Acids vs. A Base",
+      "category": "Acids vs. a Base",
       "explanation": "Lemon Juice, Stomach Acid, and Vinegar are acidic, sitting low on the pH scale — soap's alkaline, the opposite of acidic."
     },
     "2026-10-05": {
@@ -4190,7 +4190,7 @@
         "Salt"
       ],
       "oddOne": 3,
-      "category": "Mixtures vs. A Pure Compound",
+      "category": "Mixtures vs. a Pure Compound",
       "explanation": "Air, Brass, and Saltwater are mixtures — different substances mixed together, not chemically bonded — salt's a pure compound on its own, before you dissolve it in anything."
     },
     "2026-10-06": {
@@ -4201,7 +4201,7 @@
         "Geyser"
       ],
       "oddOne": 3,
-      "category": "Types of Volcanoes, Except Not a Volcano",
+      "category": "Types of Volcanoes, Except an Erupting Hot Spring",
       "explanation": "Cinder Cone, Composite Volcano, and Shield Volcano are actual volcano shapes, built from erupted lava and ash — a geyser's an erupting hot spring, no lava involved."
     },
     "2026-10-07": {
@@ -4223,7 +4223,7 @@
         "Lion"
       ],
       "oddOne": 3,
-      "category": "Decomposers, Except A Consumer, Not a Decomposer",
+      "category": "Decomposers, Except a Consumer",
       "explanation": "Mushroom, Earthworm, and Bacteria are decomposers — they break down dead stuff and recycle it — a lion hunts living prey, it's not breaking down dead matter."
     },
     "2026-10-09": {
@@ -4234,7 +4234,7 @@
         "Starfish"
       ],
       "oddOne": 3,
-      "category": "Crustaceans, Except An Echinoderm",
+      "category": "Crustaceans, Except an Echinoderm",
       "explanation": "Barnacle, Shrimp, and Crab are crustaceans, usually with a hard shell and jointed legs — a starfish is an echinoderm, a different animal group."
     },
     "2026-10-10": {
@@ -4245,7 +4245,7 @@
         "Kelvin"
       ],
       "oddOne": 2,
-      "category": "SI Base Units vs. Not an SI Unit",
+      "category": "SI Base Units vs. an Everyday Energy Unit",
       "explanation": "Kilogram, Meter, and Kelvin are official SI base units scientists build every other measurement from — the calorie isn't part of the official SI system at all."
     },
     "2026-10-11": {
@@ -4256,7 +4256,7 @@
         "Rat"
       ],
       "oddOne": 0,
-      "category": "Rodents vs. A Weasel Relative, Not a Rodent",
+      "category": "Rodents vs. a Weasel Relative",
       "explanation": "Squirrel, Beaver, and Rat are true rodents, known for those ever-growing front teeth — a ferret's in the weasel family, not a rodent."
     },
     "2026-10-12": {
@@ -4278,7 +4278,7 @@
         "Asteroid"
       ],
       "oddOne": 3,
-      "category": "Types of Stars vs. Not a Star",
+      "category": "Types of Stars vs. a Chunk of Rock",
       "explanation": "Red Giant, Blue Giant, and White Dwarf are different types or stages of actual stars — an asteroid's a chunk of rock, nothing star-like about it."
     },
     "2026-10-14": {
@@ -4300,7 +4300,7 @@
         "Oak Tree"
       ],
       "oddOne": 0,
-      "category": "Producers vs. A Consumer",
+      "category": "Producers vs. a Consumer",
       "explanation": "Algae, Seaweed, and Oak Tree are producers — they make their own food from sunlight — a shark hunts for food, it can't produce its own."
     },
     "2026-10-16": {
@@ -4333,7 +4333,7 @@
         "Poison Dart Frog"
       ],
       "oddOne": 3,
-      "category": "Venomous Animals, Except Poisonous, Not Venomous",
+      "category": "Venomous Animals, Except Poisonous",
       "explanation": "Rattlesnake, Black Widow Spider, and Scorpion are venomous — they inject their toxin, usually with a bite or sting — a poison dart frog's poisonous — its toxin only gets you if you touch or eat it, it can't inject anything."
     },
     "2026-10-19": {
@@ -4355,7 +4355,7 @@
         "RNA"
       ],
       "oddOne": 0,
-      "category": "Molecules Cells Actually Use, Except Not a Biological Molecule",
+      "category": "Molecules Cells Actually Use, Except Just Ground-Up Rock",
       "explanation": "DNA, Protein, and RNA are molecules your cells are built from and run on — sand's just tiny bits of rock, nothing to do with cell biology."
     },
     "2026-10-21": {
@@ -4377,7 +4377,7 @@
         "Rosalind Franklin"
       ],
       "oddOne": 1,
-      "category": "Biologists vs. A Physicist",
+      "category": "Biologists vs. a Physicist",
       "explanation": "Gregor Mendel, Jane Goodall, and Rosalind Franklin are best known for groundbreaking work in biology — Stephen Hawking's famous for black hole physics."
     },
     "2026-10-23": {
@@ -4399,7 +4399,7 @@
         "Sand Dollar"
       ],
       "oddOne": 1,
-      "category": "Echinoderms vs. A Cnidarian",
+      "category": "Echinoderms vs. a Cnidarian",
       "explanation": "Sea Urchin, Starfish, and Sand Dollar are echinoderms — spiny-skinned ocean animals — coral's a cnidarian too, distantly related to jellyfish."
     },
     "2026-10-25": {
@@ -4410,7 +4410,7 @@
         "Salmon"
       ],
       "oddOne": 1,
-      "category": "Fish vs. A Mammal",
+      "category": "Fish vs. a Mammal",
       "explanation": "Shark, Tuna, and Salmon are actual fish, gills and all — a seal's a mammal that hauls out to breathe air."
     },
     "2026-10-26": {
@@ -4432,7 +4432,7 @@
         "Soap"
       ],
       "oddOne": 1,
-      "category": "Bases vs. An Acid",
+      "category": "Bases vs. an Acid",
       "explanation": "Bleach, Ammonia, and Soap are basic, or alkaline — high on the pH scale — orange juice is acidic, same family as lemon juice."
     },
     "2026-10-28": {
@@ -4454,7 +4454,7 @@
         "Sea Urchin"
       ],
       "oddOne": 0,
-      "category": "Echinoderms, Except A Cnidarian",
+      "category": "Echinoderms, Except a Cnidarian",
       "explanation": "Starfish, Sand Dollar, and Sea Urchin are echinoderms — spiny-skinned ocean animals — a jellyfish is a cnidarian, a different group entirely."
     },
     "2026-10-30": {
@@ -4465,7 +4465,7 @@
         "Jane Goodall"
       ],
       "oddOne": 0,
-      "category": "Biologists, Except An Inventor and Engineer",
+      "category": "Biologists, Except an Inventor and Engineer",
       "explanation": "Charles Darwin, Rosalind Franklin, and Jane Goodall are best known for groundbreaking work in biology — Nikola Tesla's known for electrical engineering and inventions."
     },
     "2026-10-31": {
@@ -4476,7 +4476,7 @@
         "Isaac Newton"
       ],
       "oddOne": 0,
-      "category": "Physicists vs. A Biologist",
+      "category": "Physicists vs. a Biologist",
       "explanation": "Albert Einstein, Niels Bohr, and Isaac Newton are best known for groundbreaking work in physics — Gregor Mendel's the father of genetics, a biologist."
     },
     "2026-11-01": {
@@ -4487,7 +4487,7 @@
         "Salt"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. A Pure Element",
+      "category": "Compounds vs. a Pure Element",
       "explanation": "Sugar, Carbon Dioxide, and Salt are compounds, built from two or more elements bonded together — helium's a pure element, and barely bonds with anything anyway."
     },
     "2026-11-02": {
@@ -4520,7 +4520,7 @@
         "Crab"
       ],
       "oddOne": 3,
-      "category": "Echinoderms, Except A Crustacean",
+      "category": "Echinoderms, Except a Crustacean",
       "explanation": "Sea Urchin, Starfish, and Sand Dollar are echinoderms — spiny-skinned ocean animals — a crab's a crustacean, not an echinoderm."
     },
     "2026-11-05": {
@@ -4531,7 +4531,7 @@
         "Vitamin C"
       ],
       "oddOne": 1,
-      "category": "Vitamins vs. A Carb, Not a Vitamin",
+      "category": "Vitamins vs. a Carb",
       "explanation": "Vitamin D, Vitamin E, and Vitamin C are actual vitamins — fiber's a type of carbohydrate, not a vitamin."
     },
     "2026-11-06": {
@@ -4542,7 +4542,7 @@
         "Meteor Shower"
       ],
       "oddOne": 3,
-      "category": "Types of Eclipses, Except Not an Eclipse",
+      "category": "Types of Eclipses, Except Burning Debris",
       "explanation": "Annular Eclipse, Lunar Eclipse, and Solar Eclipse are actual kinds of eclipses — a meteor shower's just bits of debris burning up, not an eclipse."
     },
     "2026-11-07": {
@@ -4553,7 +4553,7 @@
         "Skeletal Muscle"
       ],
       "oddOne": 2,
-      "category": "Types of Muscle vs. Connects Muscle to Bone",
+      "category": "Types of Muscle vs. Connective Tissue",
       "explanation": "Cardiac Muscle, Smooth Muscle, and Skeletal Muscle are actual types of muscle tissue in your body — a tendon connects muscle to bone, but it's not muscle itself."
     },
     "2026-11-08": {
@@ -4564,7 +4564,7 @@
         "Annular Eclipse"
       ],
       "oddOne": 0,
-      "category": "Types of Eclipses vs. Not an Eclipse",
+      "category": "Types of Eclipses vs. Just an Extra-Close Full Moon",
       "explanation": "Lunar Eclipse, Solar Eclipse, and Annular Eclipse are actual kinds of eclipses — a supermoon's just a full moon at its closest point to Earth."
     },
     "2026-11-09": {
@@ -4586,7 +4586,7 @@
         "Lenticular"
       ],
       "oddOne": 2,
-      "category": "Types of Galaxies, Except Not a Galaxy",
+      "category": "Types of Galaxies, Except One Star's Neighborhood",
       "explanation": "Spiral, Irregular, and Lenticular are actual shapes galaxies come in — a solar system's one star and its planets, a galaxy holds billions of stars."
     },
     "2026-11-11": {
@@ -4597,7 +4597,7 @@
         "Battery Acid"
       ],
       "oddOne": 2,
-      "category": "Acids vs. A Base",
+      "category": "Acids vs. a Base",
       "explanation": "Vinegar, Stomach Acid, and Battery Acid are acidic, sitting low on the pH scale — ammonia's a base — that sharp smell is a giveaway."
     },
     "2026-11-12": {
@@ -4608,7 +4608,7 @@
         "Human"
       ],
       "oddOne": 0,
-      "category": "Primates, Except Not a Primate",
+      "category": "Primates, Except Its Own Order Entirely",
       "explanation": "Gorilla, Lemur, and Human are primates — an elephant's its own thing, not a primate."
     },
     "2026-11-13": {
@@ -4619,7 +4619,7 @@
         "Octopus"
       ],
       "oddOne": 0,
-      "category": "Mollusks, Except A Crustacean",
+      "category": "Mollusks, Except a Crustacean",
       "explanation": "Snail, Squid, and Octopus are mollusks — soft-bodied, often with a shell — a shrimp's a crustacean, not a mollusk."
     },
     "2026-11-14": {
@@ -4630,7 +4630,7 @@
         "Boiling Water"
       ],
       "oddOne": 1,
-      "category": "Physical Changes vs. A Chemical Change",
+      "category": "Physical Changes vs. a Chemical Change",
       "explanation": "Cutting Paper, Melting Ice, and Boiling Water are physical changes — same substance, just a different shape or state — burning wood turns it into ash and gas, brand new substances."
     },
     "2026-11-15": {
@@ -4641,7 +4641,7 @@
         "Soil"
       ],
       "oddOne": 0,
-      "category": "Mixtures, Except A Pure Compound",
+      "category": "Mixtures, Except a Pure Compound",
       "explanation": "Air, Saltwater, and Soil are mixtures — different substances mixed together, not chemically bonded — carbon dioxide's a pure compound, one specific molecule."
     },
     "2026-11-16": {
@@ -4663,7 +4663,7 @@
         "Patella"
       ],
       "oddOne": 2,
-      "category": "Leg Bones vs. An Arm Bone",
+      "category": "Leg Bones vs. an Arm Bone",
       "explanation": "Tibia, Femur, and Patella are bones found in your leg — the radius is a forearm bone."
     },
     "2026-11-18": {
@@ -4674,7 +4674,7 @@
         "Eosinophil"
       ],
       "oddOne": 1,
-      "category": "White Blood Cells, Except The Liquid Part of Blood",
+      "category": "White Blood Cells, Except the Liquid Part of Blood",
       "explanation": "Neutrophil, Lymphocyte, and Eosinophil are white blood cells, your immune system's security guards — plasma's the liquid blood cells float in, it's not a cell at all."
     },
     "2026-11-19": {
@@ -4685,7 +4685,7 @@
         "Ulna"
       ],
       "oddOne": 2,
-      "category": "Arm and Shoulder Bones, Except A Leg Bone",
+      "category": "Arm and Shoulder Bones, Except a Leg Bone",
       "explanation": "Humerus, Clavicle, and Ulna are bones found in your arm or shoulder — the fibula's the thinner bone in your lower leg."
     },
     "2026-11-20": {
@@ -4696,7 +4696,7 @@
         "Thermal Energy"
       ],
       "oddOne": 1,
-      "category": "Forms of Energy, Except A Measure of Motion",
+      "category": "Forms of Energy, Except a Measure of Motion",
       "explanation": "Kinetic Energy, Chemical Energy, and Thermal Energy are actual forms of energy — velocity just measures speed and direction, not energy itself."
     },
     "2026-11-21": {
@@ -4707,7 +4707,7 @@
         "Troposphere"
       ],
       "oddOne": 1,
-      "category": "Layers of the Atmosphere, Except Not the Atmosphere",
+      "category": "Layers of the Atmosphere, Except Surface Water",
       "explanation": "Mesosphere, Thermosphere, and Troposphere are actual layers of Earth's atmosphere — the ocean's water on the surface, not a layer of air."
     },
     "2026-11-22": {
@@ -4718,7 +4718,7 @@
         "Jaguar"
       ],
       "oddOne": 0,
-      "category": "Big Cats That Roar vs. A Smaller Wildcat",
+      "category": "Big Cats That Roar vs. a Smaller Wildcat",
       "explanation": "Leopard, Tiger, and Jaguar are the big cats that can actually roar — a bobcat's a small wildcat, no roaring here."
     },
     "2026-11-23": {
@@ -4729,7 +4729,7 @@
         "Catfish"
       ],
       "oddOne": 1,
-      "category": "Fish, Except An Invertebrate",
+      "category": "Fish, Except an Invertebrate",
       "explanation": "Tuna, Salmon, and Catfish are actual fish, gills and all — a starfish isn't a fish either — it's an echinoderm."
     },
     "2026-11-24": {
@@ -4740,7 +4740,7 @@
         "Breaking Glass"
       ],
       "oddOne": 2,
-      "category": "Physical Changes vs. A Chemical Change",
+      "category": "Physical Changes vs. a Chemical Change",
       "explanation": "Boiling Water, Cutting Paper, and Breaking Glass are physical changes — same substance, just a different shape or state — digestion breaks food down into totally different molecules."
     },
     "2026-11-25": {
@@ -4751,7 +4751,7 @@
         "Potassium"
       ],
       "oddOne": 0,
-      "category": "Alkali Metals, Except A Transition Metal",
+      "category": "Alkali Metals, Except a Transition Metal",
       "explanation": "Sodium, Lithium, and Potassium are alkali metals — soft, and they react hard with water — iron's a transition metal, a different group entirely."
     },
     "2026-11-26": {
@@ -4773,7 +4773,7 @@
         "Breaking Glass"
       ],
       "oddOne": 0,
-      "category": "Physical Changes, Except A Chemical Change",
+      "category": "Physical Changes, Except a Chemical Change",
       "explanation": "Boiling Water, Melting Ice, and Breaking Glass are physical changes — same substance, just a different shape or state — rusting iron actually creates a whole new substance — iron oxide."
     },
     "2026-11-28": {
@@ -4784,7 +4784,7 @@
         "Antibody"
       ],
       "oddOne": 3,
-      "category": "Hormones, Except An Immune Protein, Not a Hormone",
+      "category": "Hormones, Except an Immune Protein",
       "explanation": "Testosterone, Estrogen, and Insulin are hormones — chemical messengers your body releases into the blood — an antibody fights off invaders, it's not a hormone."
     },
     "2026-11-29": {
@@ -4806,7 +4806,7 @@
         "Squirrel"
       ],
       "oddOne": 1,
-      "category": "Rodents, Except Not a Rodent",
+      "category": "Rodents, Except a Canine",
       "explanation": "Beaver, Mouse, and Squirrel are true rodents, known for those ever-growing front teeth — a dog's not a rodent either."
     },
     "2026-12-01": {
@@ -4828,7 +4828,7 @@
         "Saltwater"
       ],
       "oddOne": 0,
-      "category": "Mixtures, Except A Pure Compound",
+      "category": "Mixtures, Except a Pure Compound",
       "explanation": "Air, Soil, and Saltwater are mixtures — different substances mixed together, not chemically bonded — water's a pure compound, not a mixture."
     },
     "2026-12-03": {
@@ -4839,7 +4839,7 @@
         "Titan"
       ],
       "oddOne": 0,
-      "category": "Moons of Saturn vs. A Moon of Jupiter",
+      "category": "Moons of Saturn vs. a Moon of Jupiter",
       "explanation": "Rhea, Enceladus, and Titan are moons that orbit Saturn — Europa orbits Jupiter, not Saturn."
     },
     "2026-12-04": {
@@ -4850,7 +4850,7 @@
         "Spiral"
       ],
       "oddOne": 1,
-      "category": "Types of Galaxies, Except A Cloud of Gas and Dust",
+      "category": "Types of Galaxies, Except a Cloud of Gas and Dust",
       "explanation": "Irregular, Elliptical, and Spiral are actual shapes galaxies come in — a nebula's a cloud of gas and dust, much smaller than a galaxy."
     },
     "2026-12-05": {
@@ -4861,7 +4861,7 @@
         "Soot"
       ],
       "oddOne": 1,
-      "category": "Forms of Pure Carbon vs. Silicon Dioxide, Not Carbon",
+      "category": "Forms of Pure Carbon vs. Silicon Dioxide",
       "explanation": "Graphite, Charcoal, and Soot are different forms of the same element — pure carbon — quartz is made of silicon and oxygen, no carbon involved."
     },
     "2026-12-06": {
@@ -4883,7 +4883,7 @@
         "Mass"
       ],
       "oddOne": 3,
-      "category": "Forces, Except A Property, Not a Force",
+      "category": "Forces, Except a Property of Matter",
       "explanation": "Friction, Gravity, and Magnetism are actual physical forces, they push or pull on things — mass just measures how much stuff something's made of, it doesn't push or pull."
     },
     "2026-12-08": {
@@ -4894,7 +4894,7 @@
         "Bacteria"
       ],
       "oddOne": 0,
-      "category": "Decomposers vs. A Producer, Not a Decomposer",
+      "category": "Decomposers vs. a Producer",
       "explanation": "Earthworm, Mushroom, and Bacteria are decomposers — they break down dead stuff and recycle it — grass makes its own food from sunlight, it's not a decomposer."
     },
     "2026-12-09": {
@@ -4916,7 +4916,7 @@
         "Hawk"
       ],
       "oddOne": 0,
-      "category": "Birds of Prey vs. Not a Bird of Prey",
+      "category": "Birds of Prey vs. a Bird That Can't Even Fly",
       "explanation": "Owl, Falcon, and Hawk are birds of prey — sharp talons, hunting other animals — a penguin can't even fly, let alone hunt from the air."
     },
     "2026-12-11": {
@@ -4927,7 +4927,7 @@
         "Starfish"
       ],
       "oddOne": 3,
-      "category": "Cnidarians, Except An Echinoderm",
+      "category": "Cnidarians, Except an Echinoderm",
       "explanation": "Jellyfish, Sea Anemone, and Coral are cnidarians — simple animals armed with stinging cells — a starfish is an echinoderm, no stinging cells here."
     },
     "2026-12-12": {
@@ -4949,7 +4949,7 @@
         "Salt"
       ],
       "oddOne": 2,
-      "category": "Compounds vs. A Pure Element",
+      "category": "Compounds vs. a Pure Element",
       "explanation": "Carbon Dioxide, Water, and Salt are compounds, built from two or more elements bonded together — oxygen's a pure element, not bonded to anything else here."
     },
     "2026-12-14": {
@@ -4960,7 +4960,7 @@
         "Tiger"
       ],
       "oddOne": 3,
-      "category": "Extinct Animals vs. Endangered, Not Extinct",
+      "category": "Extinct Animals vs. Endangered But Alive",
       "explanation": "Woolly Mammoth, Saber-Tooth Cat, and Passenger Pigeon are extinct — completely gone, none left anywhere — tigers are endangered, but not extinct — not yet, anyway."
     },
     "2026-12-15": {
@@ -4982,7 +4982,7 @@
         "Europa"
       ],
       "oddOne": 1,
-      "category": "Moons of Jupiter vs. A Moon of Mars",
+      "category": "Moons of Jupiter vs. a Moon of Mars",
       "explanation": "Callisto, Ganymede, and Europa are moons that orbit Jupiter — Phobos orbits Mars, not Jupiter."
     },
     "2026-12-17": {
@@ -5026,7 +5026,7 @@
         "Omnivore"
       ],
       "oddOne": 0,
-      "category": "Diet-Based Animal Categories, Except About When, Not What",
+      "category": "Diet-Based Animal Categories, Except a Timing Word",
       "explanation": "Herbivore, Carnivore, and Omnivore are words that describe what an animal eats — nocturnal describes when an animal's active, not what it eats."
     },
     "2026-12-21": {
@@ -5037,7 +5037,7 @@
         "Neutron Star"
       ],
       "oddOne": 2,
-      "category": "Types of Stars vs. Not a Star",
+      "category": "Types of Stars vs. Just Reflected Light",
       "explanation": "White Dwarf, Blue Giant, and Neutron Star are different types or stages of actual stars — a planet reflects light, it doesn't burn like a star."
     },
     "2026-12-22": {
@@ -5048,7 +5048,7 @@
         "Carbon"
       ],
       "oddOne": 3,
-      "category": "Compounds vs. A Pure Element",
+      "category": "Compounds vs. a Pure Element",
       "explanation": "Water, Salt, and Carbon Dioxide are compounds, built from two or more elements bonded together — carbon's a pure element on its own."
     },
     "2026-12-23": {
@@ -5081,7 +5081,7 @@
         "Twilight Zone"
       ],
       "oddOne": 0,
-      "category": "Ocean Depth Zones vs. An Ecosystem",
+      "category": "Ocean Depth Zones vs. an Ecosystem",
       "explanation": "Sunlight Zone, Midnight Zone, and Twilight Zone are actual zones of the ocean, named for how much light reaches them — a coral reef is a whole ecosystem, not a depth zone."
     },
     "2026-12-26": {
@@ -5092,7 +5092,7 @@
         "Orangutan"
       ],
       "oddOne": 2,
-      "category": "Great Apes, Except A Monkey",
+      "category": "Great Apes, Except a Monkey",
       "explanation": "Bonobo, Chimpanzee, and Orangutan are great apes — no tail, and closely related to us — a spider monkey's got a tail it can even grip branches with."
     },
     "2026-12-27": {
@@ -5103,7 +5103,7 @@
         "Sinkhole"
       ],
       "oddOne": 3,
-      "category": "Types of Volcanoes vs. Not Volcanic",
+      "category": "Types of Volcanoes vs. a Ground Collapse",
       "explanation": "Composite Volcano, Shield Volcano, and Cinder Cone are actual volcano shapes, built from erupted lava and ash — a sinkhole's the ground collapsing, nothing to do with lava."
     },
     "2026-12-28": {
@@ -5125,7 +5125,7 @@
         "Bromine"
       ],
       "oddOne": 2,
-      "category": "Halogens, Except A Different Nonmetal Group",
+      "category": "Halogens, Except a Different Nonmetal Group",
       "explanation": "Fluorine, Iodine, and Bromine are halogens, a famously reactive group of nonmetals — oxygen's reactive too, but it's not a halogen."
     },
     "2026-12-30": {
@@ -5136,7 +5136,7 @@
         "Calcium"
       ],
       "oddOne": 3,
-      "category": "Alkali Metals vs. An Alkaline Earth Metal",
+      "category": "Alkali Metals vs. an Alkaline Earth Metal",
       "explanation": "Potassium, Rubidium, and Sodium are alkali metals — soft, and they react hard with water — calcium's close, but it's in the next group over."
     },
     "2026-12-31": {
@@ -5160,7 +5160,7 @@
         "Ferret"
       ],
       "oddOne": 3,
-      "category": "Rodents vs. A Weasel Relative, Not a Rodent",
+      "category": "Rodents vs. a Weasel Relative",
       "explanation": "Beaver, Rat, and Squirrel are true rodents, known for those ever-growing front teeth — a ferret's in the weasel family, not a rodent."
     },
     "2026-05-13": {
@@ -5182,7 +5182,7 @@
         "Iron"
       ],
       "oddOne": 0,
-      "category": "Transition Metals vs. A Noble Gas",
+      "category": "Transition Metals vs. a Noble Gas",
       "explanation": "Copper, Silver, and Iron are transition metals — a big block in the middle of the periodic table — neon's a noble gas, a totally different family."
     },
     "2026-05-15": {
@@ -5193,7 +5193,7 @@
         "Copper"
       ],
       "oddOne": 1,
-      "category": "Transition Metals vs. A Halogen",
+      "category": "Transition Metals vs. a Halogen",
       "explanation": "Titanium, Iron, and Copper are transition metals — a big block in the middle of the periodic table — chlorine's a halogen, a different group entirely."
     },
     "2026-05-16": {
@@ -5204,7 +5204,7 @@
         "Shark"
       ],
       "oddOne": 0,
-      "category": "Fish vs. A Mammal",
+      "category": "Fish vs. a Mammal",
       "explanation": "Tuna, Salmon, and Shark are actual fish, gills and all — a whale's a mammal, it has to surface to breathe."
     },
     "2026-05-17": {
@@ -5226,7 +5226,7 @@
         "Pepsin"
       ],
       "oddOne": 1,
-      "category": "Digestive Enzymes vs. Carries Oxygen, Not a Digestive Enzyme",
+      "category": "Digestive Enzymes vs. an Oxygen Carrier",
       "explanation": "Amylase, Trypsin, and Pepsin are enzymes that help break down your food — hemoglobin carries oxygen in your blood, it doesn't digest anything."
     },
     "2026-05-19": {
@@ -5259,7 +5259,7 @@
         "Gorilla"
       ],
       "oddOne": 1,
-      "category": "Great Apes, Except A Monkey",
+      "category": "Great Apes, Except a Monkey",
       "explanation": "Chimpanzee, Orangutan, and Gorilla are great apes — no tail, and closely related to us — a baboon's a monkey, and monkeys have tails."
     },
     "2026-05-22": {
@@ -5292,7 +5292,7 @@
         "Black Hole"
       ],
       "oddOne": 0,
-      "category": "End States of a Star, Except The Very Beginning",
+      "category": "End States of a Star, Except the Very Beginning",
       "explanation": "White Dwarf, Neutron Star, and Black Hole are what's left after a star's core stops burning — how it ends depends on its mass — a protostar's a star just being born, the opposite of an ending."
     },
     "2026-05-25": {
@@ -5303,7 +5303,7 @@
         "Sea Urchin"
       ],
       "oddOne": 1,
-      "category": "Echinoderms, Except A Mollusk",
+      "category": "Echinoderms, Except a Mollusk",
       "explanation": "Sand Dollar, Starfish, and Sea Urchin are echinoderms — spiny-skinned ocean animals — a clam's a mollusk, not an echinoderm."
     },
     "2026-05-26": {
@@ -5314,7 +5314,7 @@
         "Newton"
       ],
       "oddOne": 0,
-      "category": "Derived SI Units, Except Not Even Metric",
+      "category": "Derived SI Units, Except an Imperial Unit",
       "explanation": "Watt, Joule, and Newton are derived SI units — each built from combining the base units — a mile's an imperial unit, not part of the SI system at all."
     },
     "2026-05-27": {
@@ -5325,7 +5325,7 @@
         "Microwaves"
       ],
       "oddOne": 1,
-      "category": "The Electromagnetic Spectrum, Except A Mechanical Wave, Not Electromagnetic",
+      "category": "The Electromagnetic Spectrum, Except a Mechanical Wave",
       "explanation": "X-rays, Radio Waves, and Microwaves are electromagnetic waves — they can travel through the vacuum of space — sound waves need a medium like air to travel — they can't cross the vacuum of space at all."
     },
     "2026-05-28": {
@@ -5347,7 +5347,7 @@
         "Crab"
       ],
       "oddOne": 1,
-      "category": "Crustaceans vs. A Mollusk",
+      "category": "Crustaceans vs. a Mollusk",
       "explanation": "Lobster, Barnacle, and Crab are crustaceans, usually with a hard shell and jointed legs — a squid's a mollusk, soft-bodied through and through."
     },
     "2026-05-30": {
@@ -5369,7 +5369,7 @@
         "Displacement Reaction"
       ],
       "oddOne": 1,
-      "category": "Types of Chemical Reactions vs. A Physical Process, Not a Reaction",
+      "category": "Types of Chemical Reactions vs. a Physical Process",
       "explanation": "Synthesis Reaction, Decomposition Reaction, and Displacement Reaction are actual categories of chemical reactions — diffusion is particles spreading out, not a chemical reaction type."
     },
     "2026-06-01": {
@@ -5391,7 +5391,7 @@
         "Spider Monkey"
       ],
       "oddOne": 3,
-      "category": "Great Apes, Except A Monkey",
+      "category": "Great Apes, Except a Monkey",
       "explanation": "Orangutan, Bonobo, and Chimpanzee are great apes — no tail, and closely related to us — a spider monkey's got a tail it can even grip branches with."
     },
     "2026-06-03": {
@@ -5402,7 +5402,7 @@
         "Nitric Acid"
       ],
       "oddOne": 2,
-      "category": "Strong Acids, Except A Weak Acid",
+      "category": "Strong Acids, Except a Weak Acid",
       "explanation": "Hydrochloric Acid, Sulfuric Acid, and Nitric Acid are classified as strong acids — they fully break apart in water — acetic acid (that's vinegar) is a weak acid, it doesn't fully break apart."
     },
     "2026-06-04": {
@@ -5413,7 +5413,7 @@
         "Squid"
       ],
       "oddOne": 2,
-      "category": "Mollusks, Except A Crustacean",
+      "category": "Mollusks, Except a Crustacean",
       "explanation": "Snail, Octopus, and Squid are mollusks — soft-bodied, often with a shell — a shrimp's a crustacean, not a mollusk."
     },
     "2026-06-05": {
@@ -5446,7 +5446,7 @@
         "Plasma"
       ],
       "oddOne": 1,
-      "category": "States of Matter vs. A Type of Substance, Not a State",
+      "category": "States of Matter vs. a Type of Substance",
       "explanation": "Liquid, Gas, and Plasma are genuine states of matter — an element's a kind of substance, not a physical state."
     },
     "2026-06-08": {
@@ -5457,7 +5457,7 @@
         "Adenine"
       ],
       "oddOne": 1,
-      "category": "DNA Bases vs. RNA's Sugar, Not a DNA Base",
+      "category": "DNA Bases vs. RNA's Sugar",
       "explanation": "Thymine, Guanine, and Adenine are the four bases that make up DNA — ribose is RNA's sugar, not a base and not part of DNA."
     },
     "2026-06-09": {
@@ -5468,7 +5468,7 @@
         "Solid"
       ],
       "oddOne": 2,
-      "category": "States of Matter, Except Not a State of Matter",
+      "category": "States of Matter, Except the Capacity to Do Work",
       "explanation": "Liquid, Gas, and Solid are genuine states of matter — energy isn't matter at all, so it's not a state of it."
     },
     "2026-06-10": {
@@ -5490,7 +5490,7 @@
         "Phylum"
       ],
       "oddOne": 0,
-      "category": "Taxonomic Ranks vs. Not a Taxonomic Rank",
+      "category": "Taxonomic Ranks vs. a Whole Community and Environment",
       "explanation": "Kingdom, Order, and Phylum are official ranks scientists use to classify living things — an ecosystem's a whole community and environment, not a classification level."
     },
     "2026-06-12": {
@@ -5501,7 +5501,7 @@
         "Phloem"
       ],
       "oddOne": 2,
-      "category": "Things Unique to Plants vs. In Animal Cells Too",
+      "category": "Things Unique to Plants vs. Something Animal Cells Have Too",
       "explanation": "Xylem, Chlorophyll, and Phloem are found in plants and not in animals — a nucleus is in animal cells too, not something unique to plants."
     },
     "2026-06-13": {
@@ -5512,7 +5512,7 @@
         "Shrimp"
       ],
       "oddOne": 1,
-      "category": "Crustaceans, Except An Echinoderm",
+      "category": "Crustaceans, Except an Echinoderm",
       "explanation": "Barnacle, Crab, and Shrimp are crustaceans, usually with a hard shell and jointed legs — a starfish is an echinoderm, a different animal group."
     },
     "2026-06-14": {
@@ -5545,7 +5545,7 @@
         "Methane"
       ],
       "oddOne": 2,
-      "category": "Greenhouse Gases, Except Not a Significant Greenhouse Gas",
+      "category": "Greenhouse Gases, Except Just Regular Air",
       "explanation": "Carbon Dioxide, Nitrous Oxide, and Methane are gases that trap heat in the atmosphere — oxygen doesn't trap heat the way greenhouse gases do."
     },
     "2026-06-17": {
@@ -5556,7 +5556,7 @@
         "Ariel"
       ],
       "oddOne": 2,
-      "category": "Moons of Uranus vs. A Moon of Neptune",
+      "category": "Moons of Uranus vs. a Moon of Neptune",
       "explanation": "Oberon, Titania, and Ariel are moons that orbit Uranus — Triton orbits Neptune, not Uranus."
     },
     "2026-06-18": {
@@ -5567,7 +5567,7 @@
         "White Dwarf"
       ],
       "oddOne": 2,
-      "category": "End States of a Star, Except An Earlier Stage, Not an Ending",
+      "category": "End States of a Star, Except an Earlier Life Stage",
       "explanation": "Neutron Star, Black Hole, and White Dwarf are what's left after a star's core stops burning — how it ends depends on its mass — a red giant's an earlier stage in a star's life, not how it ends up."
     },
     "2026-06-19": {
@@ -5578,7 +5578,7 @@
         "Rainforest"
       ],
       "oddOne": 2,
-      "category": "Biomes, Except A Different Scale of Term",
+      "category": "Biomes, Except a Different Scale of Term",
       "explanation": "Tundra, Desert, and Rainforest are large-scale biome types, defined by climate, plants, and animals — an ecosystem describes living things and their environment at any scale, not a named biome type."
     },
     "2026-06-20": {
@@ -5611,7 +5611,7 @@
         "Magnesium"
       ],
       "oddOne": 1,
-      "category": "Alkaline Earth Metals vs. A Halogen",
+      "category": "Alkaline Earth Metals vs. a Halogen",
       "explanation": "Calcium, Strontium, and Magnesium are alkaline earth metals — fluorine's a halogen, the most reactive nonmetal there is."
     },
     "2026-06-23": {
@@ -5622,7 +5622,7 @@
         "Mutualism"
       ],
       "oddOne": 0,
-      "category": "Types of Symbiosis, Except A Different Kind of Interaction",
+      "category": "Types of Symbiosis, Except a Different Kind of Interaction",
       "explanation": "Parasitism, Commensalism, and Mutualism are different types of symbiosis — species living closely together — predation's one animal eating another, not classified as symbiosis."
     },
     "2026-06-24": {
@@ -5666,7 +5666,7 @@
         "Octopus"
       ],
       "oddOne": 3,
-      "category": "Crustaceans, Except A Mollusk",
+      "category": "Crustaceans, Except a Mollusk",
       "explanation": "Shrimp, Crab, and Lobster are crustaceans, usually with a hard shell and jointed legs — an octopus is a mollusk, no hard shell or jointed legs."
     },
     "2026-06-28": {
@@ -5688,7 +5688,7 @@
         "Iron"
       ],
       "oddOne": 3,
-      "category": "Metalloids, Except A True Metal",
+      "category": "Metalloids, Except a True Metal",
       "explanation": "Germanium, Silicon, and Boron are metalloids — they act a bit like metals and a bit like nonmetals — iron's a true metal, shiny and fully conductive."
     },
     "2026-06-30": {
@@ -5721,7 +5721,7 @@
         "Giant Panda"
       ],
       "oddOne": 3,
-      "category": "Extinct Animals vs. Endangered, Not Extinct",
+      "category": "Extinct Animals vs. Endangered But Alive",
       "explanation": "Dodo, Passenger Pigeon, and Woolly Mammoth are extinct — completely gone, none left anywhere — the giant panda's endangered, but it's still with us."
     },
     "2026-07-03": {
@@ -5765,7 +5765,7 @@
         "Nautilus"
       ],
       "oddOne": 0,
-      "category": "Cephalopods vs. A Cnidarian",
+      "category": "Cephalopods vs. a Cnidarian",
       "explanation": "Squid, Cuttlefish, and Nautilus are cephalopods — a jellyfish is a cnidarian, a totally different animal group."
     },
     "2026-07-07": {
@@ -5776,7 +5776,7 @@
         "Black Mamba"
       ],
       "oddOne": 0,
-      "category": "Venomous Snakes vs. A Constrictor, Not Venomous",
+      "category": "Venomous Snakes vs. a Constrictor",
       "explanation": "King Cobra, Eastern Diamondback Rattlesnake, and Black Mamba are venomous snakes — they deliver toxin with a bite — a boa constrictor squeezes its prey, no venom involved."
     },
     "2026-07-08": {
@@ -5798,7 +5798,7 @@
         "Anglerfish"
       ],
       "oddOne": 0,
-      "category": "Deep-Sea Creatures, Except A Coastal Animal",
+      "category": "Deep-Sea Creatures, Except a Coastal Animal",
       "explanation": "Gulper Eel, Vampire Squid, and Anglerfish are creatures that live way down in the deep, dark ocean — a sea otter hangs out near the coast, not in the deep ocean."
     },
     "2026-07-10": {
@@ -5809,7 +5809,7 @@
         "Octopus"
       ],
       "oddOne": 1,
-      "category": "Mollusks, Except An Echinoderm",
+      "category": "Mollusks, Except an Echinoderm",
       "explanation": "Clam, Snail, and Octopus are mollusks — soft-bodied, often with a shell — a starfish is an echinoderm, its own animal group entirely."
     },
     "2026-07-11": {
@@ -5820,7 +5820,7 @@
         "Class"
       ],
       "oddOne": 1,
-      "category": "Taxonomic Ranks, Except A Large-Scale Habitat, Not a Rank",
+      "category": "Taxonomic Ranks, Except a Large-Scale Habitat",
       "explanation": "Kingdom, Order, and Class are official ranks scientists use to classify living things — a biome's a large habitat type, not a taxonomic ranking."
     },
     "2026-07-12": {
@@ -5842,7 +5842,7 @@
         "Salmon"
       ],
       "oddOne": 0,
-      "category": "Fish vs. A Mammal",
+      "category": "Fish vs. a Mammal",
       "explanation": "Tuna, Shark, and Salmon are actual fish, gills and all — a seal's a mammal that hauls out to breathe air."
     },
     "2026-07-14": {
@@ -5875,7 +5875,7 @@
         "Chromosome"
       ],
       "oddOne": 0,
-      "category": "Genetics Terms vs. What Genes Build, Not Genetic Code Itself",
+      "category": "Genetics Terms vs. What Genes Build",
       "explanation": "Gene, Genome, and Chromosome are terms that describe an organism's genetic information itself — a protein is what a gene codes for, not the genetic material itself."
     },
     "2026-07-17": {
@@ -5886,7 +5886,7 @@
         "Enola Gay"
       ],
       "oddOne": 3,
-      "category": "Real Space Missions, Except A WWII Aircraft, Not a Space Mission",
+      "category": "Real Space Missions, Except a WWII Aircraft",
       "explanation": "Curiosity Rover, Hubble Space Telescope, and Apollo 11 are real space exploration missions — the Enola Gay was a WWII bomber plane, not a space mission."
     },
     "2026-07-18": {
@@ -5897,7 +5897,7 @@
         "White Blood Cells"
       ],
       "oddOne": 0,
-      "category": "Parts of the Immune System, Except Carry Oxygen, Not Immune Defense",
+      "category": "Parts of the Immune System, Except Oxygen Carriers",
       "explanation": "Lymph Nodes, Antibodies, and White Blood Cells are all part of your immune system's defense — red blood cells haul oxygen, that's not immune defense."
     },
     "2026-07-19": {
@@ -5919,7 +5919,7 @@
         "Black Mamba"
       ],
       "oddOne": 1,
-      "category": "Venomous Snakes, Except A Constrictor, Not Venomous",
+      "category": "Venomous Snakes, Except a Constrictor",
       "explanation": "Inland Taipan, King Cobra, and Black Mamba are venomous snakes — they deliver toxin with a bite — an anaconda kills by squeezing, it's not venomous at all."
     },
     "2026-07-21": {
@@ -5952,7 +5952,7 @@
         "Mutualism"
       ],
       "oddOne": 0,
-      "category": "Types of Symbiosis, Except About Movement, Not a Relationship",
+      "category": "Types of Symbiosis, Except Just About Movement",
       "explanation": "Parasitism, Commensalism, and Mutualism are different types of symbiosis — species living closely together — migration's just animals moving around, no relationship between species involved."
     },
     "2026-07-24": {
@@ -5974,7 +5974,7 @@
         "Ocelot"
       ],
       "oddOne": 0,
-      "category": "Wild Cats vs. A Canid, Not a Cat",
+      "category": "Wild Cats vs. a Canid",
       "explanation": "Serval, Caracal, and Ocelot are real wild cats — part of the cat family — a jackal's a canid, part of the dog family."
     },
     "2026-07-26": {
@@ -5996,7 +5996,7 @@
         "Crust"
       ],
       "oddOne": 3,
-      "category": "Layers of the Sun, Except A Layer of a Rocky Planet",
+      "category": "Layers of the Sun, Except a Layer of a Rocky Planet",
       "explanation": "Radiative Zone, Photosphere, and Core are actual layers of the Sun — the crust is a rocky planet's outer layer, not the Sun's."
     },
     "2026-07-28": {
@@ -6007,7 +6007,7 @@
         "Amylase"
       ],
       "oddOne": 0,
-      "category": "Digestive Enzymes, Except A Hormone, Not a Digestive Enzyme",
+      "category": "Digestive Enzymes, Except a Hormone",
       "explanation": "Lipase, Pepsin, and Amylase are enzymes that help break down your food — insulin's a hormone that manages blood sugar, not a digestive enzyme."
     },
     "2026-07-29": {
@@ -6040,7 +6040,7 @@
         "DNA"
       ],
       "oddOne": 3,
-      "category": "Cell Organelles, Except The Genetic Material Stored Inside",
+      "category": "Cell Organelles, Except the Genetic Material Stored Inside",
       "explanation": "Golgi Apparatus, Ribosome, and Mitochondria are actual organelles, specialized structures doing a job inside the cell — DNA's the genetic material tucked inside the nucleus, not an organelle on its own."
     },
     "2026-08-01": {
@@ -6073,7 +6073,7 @@
         "Watt"
       ],
       "oddOne": 0,
-      "category": "Derived SI Units, Except A Base Unit",
+      "category": "Derived SI Units, Except a Base Unit",
       "explanation": "Newton, Joule, and Watt are derived SI units — each built from combining the base units — the meter's a base unit, the building block, not a derived one."
     },
     "2026-08-04": {
@@ -6084,7 +6084,7 @@
         "Boron"
       ],
       "oddOne": 0,
-      "category": "Metalloids, Except A True Metal",
+      "category": "Metalloids, Except a True Metal",
       "explanation": "Silicon, Germanium, and Boron are metalloids — they act a bit like metals and a bit like nonmetals — sodium's a true (and very reactive) metal."
     },
     "2026-08-05": {
@@ -6106,7 +6106,7 @@
         "Cobalt"
       ],
       "oddOne": 2,
-      "category": "Transition Metals, Except A Nonmetal",
+      "category": "Transition Metals, Except a Nonmetal",
       "explanation": "Iron, Zinc, and Cobalt are transition metals — a big block in the middle of the periodic table — carbon's a nonmetal, the basis of all organic chemistry."
     },
     "2026-08-07": {
@@ -6117,7 +6117,7 @@
         "Clownfish"
       ],
       "oddOne": 3,
-      "category": "Deep-Sea Creatures, Except A Shallow Reef Fish",
+      "category": "Deep-Sea Creatures, Except a Shallow Reef Fish",
       "explanation": "Vampire Squid, Anglerfish, and Giant Squid are creatures that live way down in the deep, dark ocean — a clownfish lives in shallow coral reefs, nowhere near the deep sea."
     },
     "2026-08-08": {
@@ -6128,7 +6128,7 @@
         "Xylem"
       ],
       "oddOne": 1,
-      "category": "Things Unique to Plants, Except In Animal Cells Too",
+      "category": "Things Unique to Plants, Except Something Animal Cells Have Too",
       "explanation": "Stomata, Phloem, and Xylem are found in plants and not in animals — mitochondria are in animal cells too, nothing special to plants."
     },
     "2026-08-09": {
@@ -6172,7 +6172,7 @@
         "Iron"
       ],
       "oddOne": 2,
-      "category": "Transition Metals, Except A Noble Gas",
+      "category": "Transition Metals, Except a Noble Gas",
       "explanation": "Copper, Cobalt, and Iron are transition metals — a big block in the middle of the periodic table — helium's a noble gas, barely reacts with anything."
     },
     "2026-08-13": {
@@ -6183,7 +6183,7 @@
         "Catfish"
       ],
       "oddOne": 1,
-      "category": "Fish, Except A Mollusk",
+      "category": "Fish, Except a Mollusk",
       "explanation": "Shark, Salmon, and Catfish are actual fish, gills and all — an octopus is a mollusk, not a fish at all."
     },
     "2026-08-14": {
@@ -6194,7 +6194,7 @@
         "Triton"
       ],
       "oddOne": 0,
-      "category": "Moons of Neptune, Except A Moon of Uranus",
+      "category": "Moons of Neptune, Except a Moon of Uranus",
       "explanation": "Proteus, Nereid, and Triton are moons that orbit Neptune — Titania orbits Uranus, not Neptune."
     },
     "2026-08-15": {
@@ -6205,7 +6205,7 @@
         "Synthesis Reaction"
       ],
       "oddOne": 2,
-      "category": "Types of Chemical Reactions, Except A Physical Change, Not a Reaction",
+      "category": "Types of Chemical Reactions, Except a Physical Change",
       "explanation": "Displacement Reaction, Combustion Reaction, and Synthesis Reaction are actual categories of chemical reactions — evaporation just changes water's state, no new substance formed."
     },
     "2026-08-16": {
@@ -6216,7 +6216,7 @@
         "Neutron Star"
       ],
       "oddOne": 0,
-      "category": "End States of a Star vs. A Star's Prime, Not an Ending",
+      "category": "End States of a Star vs. a Star's Prime",
       "explanation": "Black Hole, White Dwarf, and Neutron Star are what's left after a star's core stops burning — how it ends depends on its mass — a main sequence star (like our Sun right now) is in its prime, not an end state."
     },
     "2026-08-17": {
@@ -6227,7 +6227,7 @@
         "Calcium"
       ],
       "oddOne": 2,
-      "category": "Alkaline Earth Metals, Except A Transition Metal",
+      "category": "Alkaline Earth Metals, Except a Transition Metal",
       "explanation": "Barium, Magnesium, and Calcium are alkaline earth metals — gold's a transition metal, not an alkaline earth metal."
     },
     "2026-08-18": {
@@ -6238,7 +6238,7 @@
         "Tuna"
       ],
       "oddOne": 0,
-      "category": "Fish vs. An Invertebrate",
+      "category": "Fish vs. an Invertebrate",
       "explanation": "Catfish, Shark, and Tuna are actual fish, gills and all — a jellyfish isn't a fish, despite the name."
     },
     "2026-08-19": {
@@ -6271,7 +6271,7 @@
         "Ionosphere"
       ],
       "oddOne": 3,
-      "category": "Layers of the Sun, Except A Layer of Earth's Atmosphere",
+      "category": "Layers of the Sun, Except a Layer of Earth's Atmosphere",
       "explanation": "Photosphere, Corona, and Core are actual layers of the Sun — the ionosphere's part of Earth's atmosphere, not the Sun."
     },
     "2026-08-22": {
@@ -6293,7 +6293,7 @@
         "Citric Acid"
       ],
       "oddOne": 3,
-      "category": "Strong Acids vs. A Weak Acid",
+      "category": "Strong Acids vs. a Weak Acid",
       "explanation": "Nitric Acid, Sulfuric Acid, and Hydrochloric Acid are classified as strong acids — they fully break apart in water — citric acid, from citrus fruit, is a weak acid."
     },
     "2026-08-24": {
@@ -6304,7 +6304,7 @@
         "Catfish"
       ],
       "oddOne": 1,
-      "category": "Fish, Except An Invertebrate",
+      "category": "Fish, Except an Invertebrate",
       "explanation": "Tuna, Salmon, and Catfish are actual fish, gills and all — a starfish isn't a fish either — it's an echinoderm."
     },
     "2026-08-25": {
@@ -6315,7 +6315,7 @@
         "Octopus"
       ],
       "oddOne": 0,
-      "category": "Cephalopods, Except A Gastropod, Not a Cephalopod",
+      "category": "Cephalopods, Except a Gastropod",
       "explanation": "Cuttlefish, Squid, and Octopus are cephalopods — a snail's a gastropod, a different mollusk branch entirely."
     },
     "2026-08-26": {
@@ -6326,7 +6326,7 @@
         "Radiative Zone"
       ],
       "oddOne": 2,
-      "category": "Layers of the Sun vs. A Layer of Earth's Atmosphere",
+      "category": "Layers of the Sun vs. a Layer of Earth's Atmosphere",
       "explanation": "Photosphere, Corona, and Radiative Zone are actual layers of the Sun — the ozone layer floats in Earth's atmosphere, nowhere near the Sun's structure."
     },
     "2026-08-27": {
@@ -6337,7 +6337,7 @@
         "Chromosome"
       ],
       "oddOne": 1,
-      "category": "Genetics Terms, Except The Whole Container, Not Genetic Material",
+      "category": "Genetics Terms, Except the Whole Container",
       "explanation": "Allele, Gene, and Chromosome are terms that describe an organism's genetic information itself — a cell holds genetic material, but the cell itself isn't genetic information."
     },
     "2026-08-28": {
@@ -6348,7 +6348,7 @@
         "Adenine"
       ],
       "oddOne": 2,
-      "category": "DNA Bases, Except A Protein Building Block",
+      "category": "DNA Bases, Except a Protein Building Block",
       "explanation": "Cytosine, Guanine, and Adenine are the four bases that make up DNA — an amino acid builds proteins, it's not a base in DNA at all."
     },
     "2026-08-29": {
@@ -6359,7 +6359,7 @@
         "Platelets"
       ],
       "oddOne": 3,
-      "category": "Parts of the Immune System vs. Help Clotting, Not Immune Defense",
+      "category": "Parts of the Immune System vs. Clotting Helpers",
       "explanation": "White Blood Cells, Thymus, and Antibodies are all part of your immune system's defense — platelets help blood clot, they're not part of immune defense."
     },
     "2026-08-30": {
@@ -6381,7 +6381,7 @@
         "Iron"
       ],
       "oddOne": 1,
-      "category": "Transition Metals vs. An Alkaline Earth Metal",
+      "category": "Transition Metals vs. an Alkaline Earth Metal",
       "explanation": "Nickel, Zinc, and Iron are transition metals — a big block in the middle of the periodic table — magnesium's an alkaline earth metal, not a transition metal."
     },
     "2026-09-01": {
@@ -6403,7 +6403,7 @@
         "Sulfuric Acid"
       ],
       "oddOne": 2,
-      "category": "Strong Acids, Except A Weak Acid",
+      "category": "Strong Acids, Except a Weak Acid",
       "explanation": "Nitric Acid, Hydrochloric Acid, and Sulfuric Acid are classified as strong acids — they fully break apart in water — carbonic acid, the fizz in soda, is a weak acid."
     },
     "2026-09-03": {
@@ -6414,7 +6414,7 @@
         "Sand Dollar"
       ],
       "oddOne": 0,
-      "category": "Echinoderms, Except A Crustacean",
+      "category": "Echinoderms, Except a Crustacean",
       "explanation": "Sea Urchin, Starfish, and Sand Dollar are echinoderms — spiny-skinned ocean animals — a crab's a crustacean, not an echinoderm."
     },
     "2026-09-04": {
@@ -6425,7 +6425,7 @@
         "Coral"
       ],
       "oddOne": 3,
-      "category": "Echinoderms vs. A Cnidarian",
+      "category": "Echinoderms vs. a Cnidarian",
       "explanation": "Starfish, Sea Urchin, and Sand Dollar are echinoderms — spiny-skinned ocean animals — coral's a cnidarian too, distantly related to jellyfish."
     },
     "2026-09-05": {
@@ -6436,7 +6436,7 @@
         "Class"
       ],
       "oddOne": 2,
-      "category": "Taxonomic Ranks, Except Where It Lives, Not a Rank",
+      "category": "Taxonomic Ranks, Except Just Its Location",
       "explanation": "Phylum, Kingdom, and Class are official ranks scientists use to classify living things — habitat just describes where something lives, not a classification rank."
     },
     "2026-09-06": {
@@ -6447,7 +6447,7 @@
         "Titanic"
       ],
       "oddOne": 3,
-      "category": "Real Space Missions, Except A Ship, Not a Space Mission",
+      "category": "Real Space Missions, Except an Ocean Liner",
       "explanation": "Apollo 11, Hubble Space Telescope, and Voyager 1 are real space exploration missions — the Titanic was an ocean liner, nothing to do with space."
     },
     "2026-09-07": {
@@ -6469,7 +6469,7 @@
         "Phobos"
       ],
       "oddOne": 3,
-      "category": "Moons of Uranus vs. A Moon of Mars",
+      "category": "Moons of Uranus vs. a Moon of Mars",
       "explanation": "Ariel, Miranda, and Oberon are moons that orbit Uranus — Phobos orbits Mars, not Uranus."
     },
     "2026-09-09": {
@@ -6502,7 +6502,7 @@
         "Calcium"
       ],
       "oddOne": 3,
-      "category": "Transition Metals, Except An Alkaline Earth Metal",
+      "category": "Transition Metals, Except an Alkaline Earth Metal",
       "explanation": "Manganese, Iron, and Copper are transition metals — a big block in the middle of the periodic table — calcium's an alkaline earth metal, one column over."
     },
     "2026-09-12": {
@@ -6513,7 +6513,7 @@
         "Ariel"
       ],
       "oddOne": 1,
-      "category": "Moons of Uranus, Except A Moon of Jupiter",
+      "category": "Moons of Uranus, Except a Moon of Jupiter",
       "explanation": "Titania, Miranda, and Ariel are moons that orbit Uranus — Europa orbits Jupiter, not Uranus."
     },
     "2026-09-13": {
@@ -6524,7 +6524,7 @@
         "Sugar"
       ],
       "oddOne": 2,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Water, Carbon Dioxide, and Sugar are compounds, built from two or more elements bonded together — iron's a pure element, straight off the periodic table."
     },
     "2026-09-14": {
@@ -6535,7 +6535,7 @@
         "Silver"
       ],
       "oddOne": 3,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Water, Sugar, and Salt are compounds, built from two or more elements bonded together — silver's a pure element, not a combination of two."
     },
     "2026-09-15": {
@@ -6557,7 +6557,7 @@
         "Gamma Rays"
       ],
       "oddOne": 1,
-      "category": "The Electromagnetic Spectrum vs. A Mechanical Wave, Not Electromagnetic",
+      "category": "The Electromagnetic Spectrum vs. a Mechanical Wave",
       "explanation": "Radio Waves, Microwaves, and Gamma Rays are electromagnetic waves — they can travel through the vacuum of space — ocean waves need water to move through, not electromagnetic at all."
     },
     "2026-09-17": {
@@ -6568,7 +6568,7 @@
         "Squid"
       ],
       "oddOne": 0,
-      "category": "Cephalopods vs. A Bivalve, Not a Cephalopod",
+      "category": "Cephalopods vs. a Bivalve",
       "explanation": "Nautilus, Octopus, and Squid are cephalopods — a clam's a bivalve, a different mollusk branch."
     },
     "2026-09-18": {
@@ -6590,7 +6590,7 @@
         "Trypsin"
       ],
       "oddOne": 1,
-      "category": "Digestive Enzymes, Except A Structural Protein, Not an Enzyme",
+      "category": "Digestive Enzymes, Except a Structural Protein",
       "explanation": "Amylase, Lipase, and Trypsin are enzymes that help break down your food — collagen's a structural protein in skin and joints, not a digestive enzyme."
     },
     "2026-09-20": {
@@ -6623,7 +6623,7 @@
         "Chromosome"
       ],
       "oddOne": 1,
-      "category": "Genetics Terms, Except A Specific Protein, Not Genetic Material",
+      "category": "Genetics Terms, Except a Specific Protein",
       "explanation": "Genome, Allele, and Chromosome are terms that describe an organism's genetic information itself — an enzyme's a type of protein, still not genetic material itself."
     },
     "2026-09-23": {
@@ -6634,7 +6634,7 @@
         "Triton"
       ],
       "oddOne": 0,
-      "category": "Moons of Neptune vs. A Moon of Jupiter",
+      "category": "Moons of Neptune vs. a Moon of Jupiter",
       "explanation": "Proteus, Nereid, and Triton are moons that orbit Neptune — Europa orbits Jupiter, not Neptune."
     },
     "2026-09-24": {
@@ -6656,7 +6656,7 @@
         "Methane"
       ],
       "oddOne": 0,
-      "category": "Greenhouse Gases vs. Not a Greenhouse Gas",
+      "category": "Greenhouse Gases vs. Most of Our Air",
       "explanation": "Carbon Dioxide, Water Vapor, and Methane are gases that trap heat in the atmosphere — nitrogen makes up most of our air, but it's not a greenhouse gas."
     },
     "2026-09-26": {
@@ -6667,7 +6667,7 @@
         "Carbon Dioxide"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. A Pure Element",
+      "category": "Compounds vs. a Pure Element",
       "explanation": "Sugar, Salt, and Carbon Dioxide are compounds, built from two or more elements bonded together — helium's a pure element, and barely bonds with anything anyway."
     },
     "2026-09-27": {
@@ -6678,7 +6678,7 @@
         "Carbon Dioxide"
       ],
       "oddOne": 2,
-      "category": "Greenhouse Gases, Except An Inert Noble Gas",
+      "category": "Greenhouse Gases, Except an Inert Noble Gas",
       "explanation": "Nitrous Oxide, Water Vapor, and Carbon Dioxide are gases that trap heat in the atmosphere — argon's a noble gas, it just sits there, not trapping any heat."
     },
     "2026-09-28": {
@@ -6700,7 +6700,7 @@
         "Octopus"
       ],
       "oddOne": 2,
-      "category": "Cephalopods, Except An Echinoderm",
+      "category": "Cephalopods, Except an Echinoderm",
       "explanation": "Nautilus, Cuttlefish, and Octopus are cephalopods — a starfish is an echinoderm, not even in the mollusk family."
     },
     "2026-09-30": {
@@ -6711,7 +6711,7 @@
         "Sweet"
       ],
       "oddOne": 2,
-      "category": "Basic Tastes, Except Not One of the Basic Five",
+      "category": "Basic Tastes, Except an Occasional Extra",
       "explanation": "Umami, Sour, and Sweet are the actual basic tastes your tongue detects — metallic can come through sometimes, but it's not one of the official basic tastes."
     },
     "2026-10-01": {
@@ -6722,7 +6722,7 @@
         "Bitter"
       ],
       "oddOne": 1,
-      "category": "Basic Tastes vs. A Cooling Signal, Not a Taste",
+      "category": "Basic Tastes vs. a Cooling Signal",
       "explanation": "Sweet, Sour, and Bitter are the actual basic tastes your tongue detects — minty is a cooling sensation from nerve receptors, not one of the basic tastes."
     },
     "2026-10-02": {
@@ -6744,7 +6744,7 @@
         "Chlorophyll"
       ],
       "oddOne": 2,
-      "category": "Things Unique to Plants, Except In Animal Cells Too",
+      "category": "Things Unique to Plants, Except Something Animal Cells Have Too",
       "explanation": "Stomata, Xylem, and Chlorophyll are found in plants and not in animals — ribosomes are in animal cells too, plants don't have them exclusively."
     },
     "2026-10-04": {
@@ -6755,7 +6755,7 @@
         "King Cobra"
       ],
       "oddOne": 0,
-      "category": "Venomous Snakes, Except A Constrictor, Not Venomous",
+      "category": "Venomous Snakes, Except a Constrictor",
       "explanation": "Copperhead, Black Mamba, and King Cobra are venomous snakes — they deliver toxin with a bite — a ball python's a squeezer, not a venomous snake."
     },
     "2026-10-05": {
@@ -6777,7 +6777,7 @@
         "Iron"
       ],
       "oddOne": 1,
-      "category": "Transition Metals vs. An Alkali Metal",
+      "category": "Transition Metals vs. an Alkali Metal",
       "explanation": "Nickel, Copper, and Iron are transition metals — a big block in the middle of the periodic table — potassium's an alkali metal, way more reactive than any transition metal."
     },
     "2026-10-07": {
@@ -6799,7 +6799,7 @@
         "Sea Urchin"
       ],
       "oddOne": 2,
-      "category": "Echinoderms, Except A Cnidarian",
+      "category": "Echinoderms, Except a Cnidarian",
       "explanation": "Sand Dollar, Starfish, and Sea Urchin are echinoderms — spiny-skinned ocean animals — a jellyfish is a cnidarian, a different group entirely."
     },
     "2026-10-09": {
@@ -6832,7 +6832,7 @@
         "King Cobra"
       ],
       "oddOne": 0,
-      "category": "Venomous Snakes, Except A Constrictor, Not Venomous",
+      "category": "Venomous Snakes, Except a Constrictor",
       "explanation": "Black Mamba, Gaboon Viper, and King Cobra are venomous snakes — they deliver toxin with a bite — a green anaconda squeezes its prey to death, no venom needed."
     },
     "2026-10-12": {
@@ -6843,7 +6843,7 @@
         "Arsenic"
       ],
       "oddOne": 1,
-      "category": "Metalloids vs. A True Metal",
+      "category": "Metalloids vs. a True Metal",
       "explanation": "Silicon, Boron, and Arsenic are metalloids — they act a bit like metals and a bit like nonmetals — copper's a true metal, no in-between about it."
     },
     "2026-10-13": {
@@ -6865,7 +6865,7 @@
         "Barnacle"
       ],
       "oddOne": 2,
-      "category": "Crustaceans vs. A Mollusk",
+      "category": "Crustaceans vs. a Mollusk",
       "explanation": "Shrimp, Lobster, and Barnacle are crustaceans, usually with a hard shell and jointed legs — a snail's a mollusk carrying a single shell."
     },
     "2026-10-15": {
@@ -6876,7 +6876,7 @@
         "Germanium"
       ],
       "oddOne": 0,
-      "category": "Metalloids, Except A Noble Gas",
+      "category": "Metalloids, Except a Noble Gas",
       "explanation": "Arsenic, Silicon, and Germanium are metalloids — they act a bit like metals and a bit like nonmetals — helium's a noble gas, not a metalloid."
     },
     "2026-10-16": {
@@ -6898,7 +6898,7 @@
         "Starch"
       ],
       "oddOne": 3,
-      "category": "Simple Sugars, Except A Long Chain of Sugars",
+      "category": "Simple Sugars, Except a Long Chain of Sugars",
       "explanation": "Glucose, Galactose, and Fructose are monosaccharides — the simplest, single-unit sugars — starch is a long chain of glucose units, way more complex than a simple sugar."
     },
     "2026-10-18": {
@@ -6920,7 +6920,7 @@
         "Gamma Rays"
       ],
       "oddOne": 2,
-      "category": "The Electromagnetic Spectrum, Except A Mechanical Wave, Not Electromagnetic",
+      "category": "The Electromagnetic Spectrum, Except a Mechanical Wave",
       "explanation": "Radio Waves, X-rays, and Gamma Rays are electromagnetic waves — they can travel through the vacuum of space — seismic waves travel through the ground, a mechanical wave, not electromagnetic."
     },
     "2026-10-20": {
@@ -6931,7 +6931,7 @@
         "Pascal"
       ],
       "oddOne": 1,
-      "category": "Derived SI Units vs. A Base Unit",
+      "category": "Derived SI Units vs. a Base Unit",
       "explanation": "Joule, Watt, and Pascal are derived SI units — each built from combining the base units — Kelvin's a base unit for temperature."
     },
     "2026-10-21": {
@@ -6953,7 +6953,7 @@
         "Gorilla"
       ],
       "oddOne": 1,
-      "category": "Great Apes vs. A Monkey",
+      "category": "Great Apes vs. a Monkey",
       "explanation": "Orangutan, Bonobo, and Gorilla are great apes — no tail, and closely related to us — a capuchin's a tailed monkey, not a tailless ape."
     },
     "2026-10-23": {
@@ -6975,7 +6975,7 @@
         "Strontium"
       ],
       "oddOne": 2,
-      "category": "Alkaline Earth Metals vs. A Transition Metal",
+      "category": "Alkaline Earth Metals vs. a Transition Metal",
       "explanation": "Calcium, Magnesium, and Strontium are alkaline earth metals — iron's a transition metal, a different block entirely."
     },
     "2026-10-25": {
@@ -6986,7 +6986,7 @@
         "King Cobra"
       ],
       "oddOne": 1,
-      "category": "Venomous Snakes vs. A Constrictor, Not Venomous",
+      "category": "Venomous Snakes vs. a Constrictor",
       "explanation": "Black Mamba, Puff Adder, and King Cobra are venomous snakes — they deliver toxin with a bite — a Burmese python's a constrictor, not a venomous snake."
     },
     "2026-10-26": {
@@ -6997,7 +6997,7 @@
         "Sea Anemone"
       ],
       "oddOne": 0,
-      "category": "Cnidarians, Except An Echinoderm",
+      "category": "Cnidarians, Except an Echinoderm",
       "explanation": "Coral, Jellyfish, and Sea Anemone are cnidarians — simple animals armed with stinging cells — a starfish is an echinoderm, no stinging cells here."
     },
     "2026-10-27": {
@@ -7019,7 +7019,7 @@
         "Miranda"
       ],
       "oddOne": 2,
-      "category": "Moons of Uranus, Except A Moon of Saturn",
+      "category": "Moons of Uranus, Except a Moon of Saturn",
       "explanation": "Oberon, Titania, and Miranda are moons that orbit Uranus — Titan orbits Saturn, not Uranus."
     },
     "2026-10-29": {
@@ -7030,7 +7030,7 @@
         "Decomposition Reaction"
       ],
       "oddOne": 0,
-      "category": "Types of Chemical Reactions, Except A Physical Process, Not a Reaction",
+      "category": "Types of Chemical Reactions, Except a Physical Process",
       "explanation": "Synthesis Reaction, Combustion Reaction, and Decomposition Reaction are actual categories of chemical reactions — osmosis is water moving across a membrane, not a chemical reaction."
     },
     "2026-10-30": {
@@ -7041,7 +7041,7 @@
         "Barium"
       ],
       "oddOne": 0,
-      "category": "Alkaline Earth Metals vs. A Halogen",
+      "category": "Alkaline Earth Metals vs. a Halogen",
       "explanation": "Strontium, Magnesium, and Barium are alkaline earth metals — chlorine's a halogen, a totally different group."
     },
     "2026-10-31": {
@@ -7052,7 +7052,7 @@
         "Gorilla"
       ],
       "oddOne": 1,
-      "category": "Great Apes vs. A Monkey",
+      "category": "Great Apes vs. a Monkey",
       "explanation": "Chimpanzee, Bonobo, and Gorilla are great apes — no tail, and closely related to us — a macaque's a monkey with a tail."
     },
     "2026-11-01": {
@@ -7063,7 +7063,7 @@
         "Curiosity Rover"
       ],
       "oddOne": 0,
-      "category": "Real Space Missions vs. A Passenger Jet, Not a Space Mission",
+      "category": "Real Space Missions vs. a Passenger Jet",
       "explanation": "Apollo 11, Voyager 1, and Curiosity Rover are real space exploration missions — the Concorde was a supersonic jet, never left the atmosphere."
     },
     "2026-11-02": {
@@ -7085,7 +7085,7 @@
         "Catfish"
       ],
       "oddOne": 2,
-      "category": "Fish, Except A Mammal",
+      "category": "Fish, Except a Mammal",
       "explanation": "Salmon, Tuna, and Catfish are actual fish, gills and all — a dolphin's a mammal, it breathes air with lungs, not gills."
     },
     "2026-11-04": {
@@ -7096,7 +7096,7 @@
         "Tiger"
       ],
       "oddOne": 1,
-      "category": "Big Cats That Roar vs. A Smaller Wildcat",
+      "category": "Big Cats That Roar vs. a Smaller Wildcat",
       "explanation": "Jaguar, Leopard, and Tiger are the big cats that can actually roar — a bobcat's a small wildcat, no roaring here."
     },
     "2026-11-05": {
@@ -7107,7 +7107,7 @@
         "Brainstem"
       ],
       "oddOne": 1,
-      "category": "Brain Regions, Except Connects to the Brain, But Separate",
+      "category": "Brain Regions, Except Its Own Separate Structure",
       "explanation": "Cerebrum, Hypothalamus, and Brainstem are actual regions of the brain — the spinal cord connects to the brain, but it's its own structure."
     },
     "2026-11-06": {
@@ -7118,7 +7118,7 @@
         "Solid"
       ],
       "oddOne": 2,
-      "category": "States of Matter vs. A Transfer of Energy, Not a State",
+      "category": "States of Matter vs. a Transfer of Energy",
       "explanation": "Liquid, Plasma, and Solid are genuine states of matter — heat's energy moving around, not a state matter can be in."
     },
     "2026-11-07": {
@@ -7140,7 +7140,7 @@
         "Commensalism"
       ],
       "oddOne": 1,
-      "category": "Types of Symbiosis vs. A Different Kind of Interaction",
+      "category": "Types of Symbiosis vs. a Different Kind of Interaction",
       "explanation": "Parasitism, Mutualism, and Commensalism are different types of symbiosis — species living closely together — competition's species fighting over resources, not living together closely."
     },
     "2026-11-09": {
@@ -7173,7 +7173,7 @@
         "Hydrogen"
       ],
       "oddOne": 3,
-      "category": "Compounds, Except A Pure Element",
+      "category": "Compounds, Except a Pure Element",
       "explanation": "Carbon Dioxide, Water, and Sugar are compounds, built from two or more elements bonded together — hydrogen's a pure element, the simplest one there is."
     },
     "2026-11-12": {
@@ -7206,7 +7206,7 @@
         "Chlorine"
       ],
       "oddOne": 3,
-      "category": "Metalloids vs. A True Nonmetal",
+      "category": "Metalloids vs. a True Nonmetal",
       "explanation": "Boron, Silicon, and Arsenic are metalloids — they act a bit like metals and a bit like nonmetals — chlorine's a true nonmetal, a reactive halogen gas."
     },
     "2026-11-15": {
@@ -7217,7 +7217,7 @@
         "Helium"
       ],
       "oddOne": 3,
-      "category": "Alkaline Earth Metals, Except A Noble Gas",
+      "category": "Alkaline Earth Metals, Except a Noble Gas",
       "explanation": "Barium, Calcium, and Strontium are alkaline earth metals — helium's a noble gas, about as unreactive as it gets."
     },
     "2026-11-16": {
@@ -7239,7 +7239,7 @@
         "Magnetism"
       ],
       "oddOne": 3,
-      "category": "Chemical Bonds vs. A Force, Not a Bond",
+      "category": "Chemical Bonds vs. a Force",
       "explanation": "Hydrogen Bond, Covalent Bond, and Metallic Bond are real types of chemical bonds holding atoms together — magnetism's a force between charges, not a chemical bond type."
     },
     "2026-11-18": {
@@ -7261,7 +7261,7 @@
         "Grassland"
       ],
       "oddOne": 0,
-      "category": "Biomes, Except About Weather Patterns",
+      "category": "Biomes, Except Just Weather Patterns",
       "explanation": "Tundra, Rainforest, and Grassland are large-scale biome types, defined by climate, plants, and animals — climate describes long-term weather patterns, it's a factor in a biome, not a biome itself."
     },
     "2026-11-20": {
@@ -7272,7 +7272,7 @@
         "Salt"
       ],
       "oddOne": 1,
-      "category": "Compounds vs. A Pure Element",
+      "category": "Compounds vs. a Pure Element",
       "explanation": "Water, Carbon Dioxide, and Salt are compounds, built from two or more elements bonded together — carbon's a pure element on its own."
     },
     "2026-11-21": {
@@ -7283,7 +7283,7 @@
         "Snail"
       ],
       "oddOne": 1,
-      "category": "Mollusks vs. A Cnidarian",
+      "category": "Mollusks vs. a Cnidarian",
       "explanation": "Clam, Squid, and Snail are mollusks — soft-bodied, often with a shell — a jellyfish is a cnidarian, no shell or mollusk traits."
     },
     "2026-11-22": {
@@ -7305,7 +7305,7 @@
         "Lynx"
       ],
       "oddOne": 3,
-      "category": "Big Cats That Roar, Except A Smaller Wildcat",
+      "category": "Big Cats That Roar, Except a Smaller Wildcat",
       "explanation": "Leopard, Jaguar, and Lion are the big cats that can actually roar — a lynx is a smaller wildcat, not one of the big roaring cats."
     },
     "2026-11-24": {
@@ -7316,7 +7316,7 @@
         "Magnesium"
       ],
       "oddOne": 1,
-      "category": "Alkaline Earth Metals, Except An Alkali Metal",
+      "category": "Alkaline Earth Metals, Except an Alkali Metal",
       "explanation": "Calcium, Barium, and Magnesium are alkaline earth metals — sodium's an alkali metal, one column over on the periodic table."
     },
     "2026-11-25": {
@@ -7360,7 +7360,7 @@
         "Sweet"
       ],
       "oddOne": 2,
-      "category": "Basic Tastes, Except A Pain Signal, Not a Taste",
+      "category": "Basic Tastes, Except a Pain Signal",
       "explanation": "Salty, Sour, and Sweet are the actual basic tastes your tongue detects — spicy isn't technically a taste — it's a heat and pain signal from your nerves."
     },
     "2026-11-29": {
@@ -7382,7 +7382,7 @@
         "Joule"
       ],
       "oddOne": 0,
-      "category": "Derived SI Units vs. A Base Unit",
+      "category": "Derived SI Units vs. a Base Unit",
       "explanation": "Newton, Pascal, and Joule are derived SI units — each built from combining the base units — the kilogram's a base unit for mass, not derived from others."
     },
     "2026-12-01": {
@@ -7404,7 +7404,7 @@
         "Gold"
       ],
       "oddOne": 1,
-      "category": "Transition Metals, Except A Reactive Nonmetal",
+      "category": "Transition Metals, Except a Reactive Nonmetal",
       "explanation": "Iron, Copper, and Gold are transition metals — a big block in the middle of the periodic table — oxygen's a nonmetal gas, not a transition metal."
     },
     "2026-12-03": {
@@ -7415,7 +7415,7 @@
         "Covalent Bond"
       ],
       "oddOne": 1,
-      "category": "Chemical Bonds vs. A Force, Not a Bond",
+      "category": "Chemical Bonds vs. a Force",
       "explanation": "Ionic Bond, Metallic Bond, and Covalent Bond are real types of chemical bonds holding atoms together — gravity pulls masses together, it's not a chemical bond."
     },
     "2026-12-04": {
@@ -7426,7 +7426,7 @@
         "Octopus"
       ],
       "oddOne": 0,
-      "category": "Mollusks, Except A Crustacean",
+      "category": "Mollusks, Except a Crustacean",
       "explanation": "Snail, Squid, and Octopus are mollusks — soft-bodied, often with a shell — a crab's a crustacean, a totally different animal group."
     },
     "2026-12-05": {
@@ -7437,7 +7437,7 @@
         "Nereid"
       ],
       "oddOne": 0,
-      "category": "Moons of Neptune, Except A Moon of Saturn",
+      "category": "Moons of Neptune, Except a Moon of Saturn",
       "explanation": "Triton, Proteus, and Nereid are moons that orbit Neptune — Titan orbits Saturn, not Neptune."
     },
     "2026-12-06": {
@@ -7448,7 +7448,7 @@
         "Gas"
       ],
       "oddOne": 0,
-      "category": "States of Matter, Except The Absence of Matter",
+      "category": "States of Matter, Except the Absence of Matter",
       "explanation": "Solid, Plasma, and Gas are genuine states of matter — a vacuum is empty space — literally no matter to have a state."
     },
     "2026-12-07": {
@@ -7459,7 +7459,7 @@
         "Uracil"
       ],
       "oddOne": 1,
-      "category": "RNA Bases vs. DNA's Sugar, Not RNA's",
+      "category": "RNA Bases vs. DNA's Sugar",
       "explanation": "Adenine, Guanine, and Uracil are the four bases that make up RNA — deoxyribose is DNA's sugar, RNA uses ribose instead."
     },
     "2026-12-08": {
@@ -7481,7 +7481,7 @@
         "Zinc"
       ],
       "oddOne": 2,
-      "category": "Transition Metals, Except An Alkali Metal",
+      "category": "Transition Metals, Except an Alkali Metal",
       "explanation": "Iron, Copper, and Zinc are transition metals — a big block in the middle of the periodic table — sodium's an alkali metal, a different column entirely."
     },
     "2026-12-10": {
@@ -7492,7 +7492,7 @@
         "Cell Membrane"
       ],
       "oddOne": 3,
-      "category": "Cell Organelles vs. The Boundary, Not an Organelle",
+      "category": "Cell Organelles vs. the Cell's Boundary",
       "explanation": "Golgi Apparatus, Nucleus, and Mitochondria are actual organelles, specialized structures doing a job inside the cell — the cell membrane's the outer boundary, it's not counted as an organelle."
     },
     "2026-12-11": {
@@ -7514,7 +7514,7 @@
         "Oxygen"
       ],
       "oddOne": 3,
-      "category": "Metalloids, Except A True Nonmetal",
+      "category": "Metalloids, Except a True Nonmetal",
       "explanation": "Silicon, Arsenic, and Germanium are metalloids — they act a bit like metals and a bit like nonmetals — oxygen's a clear nonmetal, a reactive gas."
     },
     "2026-12-13": {
@@ -7536,7 +7536,7 @@
         "Black Mamba"
       ],
       "oddOne": 1,
-      "category": "Venomous Snakes vs. A Constrictor, Not Venomous",
+      "category": "Venomous Snakes vs. a Constrictor",
       "explanation": "King Cobra, Cottonmouth, and Black Mamba are venomous snakes — they deliver toxin with a bite — a reticulated python constricts its prey, no venom."
     },
     "2026-12-15": {
@@ -7569,7 +7569,7 @@
         "Vampire Squid"
       ],
       "oddOne": 2,
-      "category": "Deep-Sea Creatures vs. Not Even Aquatic",
+      "category": "Deep-Sea Creatures vs. a Bird That Flies Over Water",
       "explanation": "Giant Squid, Gulper Eel, and Vampire Squid are creatures that live way down in the deep, dark ocean — a seagull's a bird that flies over water, it doesn't live in it."
     },
     "2026-12-18": {
@@ -7602,7 +7602,7 @@
         "Ribosome"
       ],
       "oddOne": 1,
-      "category": "Cell Organelles, Except The Fluid They Float In",
+      "category": "Cell Organelles, Except the Fluid They Float In",
       "explanation": "Nucleus, Mitochondria, and Ribosome are actual organelles, specialized structures doing a job inside the cell — cytoplasm's just the gel-like fluid organelles float around in, not an organelle itself."
     },
     "2026-12-21": {
@@ -7613,7 +7613,7 @@
         "Octopus"
       ],
       "oddOne": 0,
-      "category": "Mollusks vs. A Crustacean",
+      "category": "Mollusks vs. a Crustacean",
       "explanation": "Clam, Squid, and Octopus are mollusks — soft-bodied, often with a shell — a lobster's a crustacean, related to crabs and shrimp."
     },
     "2026-12-22": {
@@ -7624,7 +7624,7 @@
         "Pascal"
       ],
       "oddOne": 1,
-      "category": "Derived SI Units, Except A Base Unit",
+      "category": "Derived SI Units, Except a Base Unit",
       "explanation": "Newton, Watt, and Pascal are derived SI units — each built from combining the base units — the second's a base unit for time."
     },
     "2026-12-23": {
@@ -7646,7 +7646,7 @@
         "Jellyfish"
       ],
       "oddOne": 0,
-      "category": "Cnidarians, Except A Mollusk",
+      "category": "Cnidarians, Except a Mollusk",
       "explanation": "Coral, Sea Anemone, and Jellyfish are cnidarians — simple animals armed with stinging cells — a snail's a mollusk, not a cnidarian."
     },
     "2026-12-25": {
@@ -7668,7 +7668,7 @@
         "Fructose"
       ],
       "oddOne": 0,
-      "category": "Simple Sugars vs. A Combo of Two Simple Sugars",
+      "category": "Simple Sugars vs. a Combo of Two Simple Sugars",
       "explanation": "Glucose, Galactose, and Fructose are monosaccharides — the simplest, single-unit sugars — lactose is glucose and galactose combined, not a single simple sugar."
     },
     "2026-12-27": {
@@ -7679,7 +7679,7 @@
         "Ocelot"
       ],
       "oddOne": 2,
-      "category": "Wild Cats vs. A Canid, Not a Cat",
+      "category": "Wild Cats vs. a Canid",
       "explanation": "Caracal, Lynx, and Ocelot are real wild cats — part of the cat family — a fox is a canid, dog family, not a cat."
     },
     "2026-12-28": {
@@ -7690,7 +7690,7 @@
         "Passenger Pigeon"
       ],
       "oddOne": 2,
-      "category": "Extinct Animals vs. Endangered, Not Extinct",
+      "category": "Extinct Animals vs. Endangered But Alive",
       "explanation": "Saber-Tooth Cat, Woolly Mammoth, and Passenger Pigeon are extinct — completely gone, none left anywhere — tigers are endangered, but not extinct — not yet, anyway."
     },
     "2026-12-29": {
@@ -7723,7 +7723,7 @@
         "Sea Urchin"
       ],
       "oddOne": 0,
-      "category": "Echinoderms vs. A Mollusk",
+      "category": "Echinoderms vs. a Mollusk",
       "explanation": "Sand Dollar, Starfish, and Sea Urchin are echinoderms — spiny-skinned ocean animals — an octopus is a soft-bodied mollusk, no spiny skin."
     }
   }
