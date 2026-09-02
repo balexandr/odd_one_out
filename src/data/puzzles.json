@@ -6260,7 +6260,7 @@
         "Anemometer"
       ],
       "oddOne": 2,
-      "category": "Weather Instruments, Except For Listening to Heartbeats",
+      "category": "Weather Instruments, Except a Tool for Listening to Heartbeats",
       "explanation": "Barometer, Hygrometer, and Anemometer are instruments that measure the weather — a stethoscope's for listening to your heart and lungs, not the weather."
     },
     "2026-08-21": {
@@ -6480,7 +6480,7 @@
         "Microscope"
       ],
       "oddOne": 3,
-      "category": "Weather Instruments vs. For Viewing Tiny Things",
+      "category": "Weather Instruments vs. a Tool for Viewing Tiny Things",
       "explanation": "Hygrometer, Barometer, and Thermometer are instruments that measure the weather — a microscope's for looking at tiny things up close, not weather."
     },
     "2026-09-10": {
@@ -7349,7 +7349,7 @@
         "Telescope"
       ],
       "oddOne": 3,
-      "category": "Weather Instruments, Except For Viewing Space",
+      "category": "Weather Instruments, Except a Tool for Viewing Space",
       "explanation": "Anemometer, Thermometer, and Barometer are instruments that measure the weather — a telescope's for looking at space, not measuring weather."
     },
     "2026-11-28": {
