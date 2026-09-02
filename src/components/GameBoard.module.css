@@ -36,15 +36,6 @@
   max-width: 400px;
 }
 
-.attemptsRemaining {
-  margin-top: 28px;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.16);
-}
-
 /* Hint nudge — always shown, deliberately partial (see utils/hint.js) */
 .hint {
   display: flex;
