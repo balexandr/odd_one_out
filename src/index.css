@@ -11,6 +11,28 @@ body {
   background-size: 24px 24px;
   color: #ffffff;
   min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* A single warm dot drifts a slow loop through the grid, glowing brighter
+   than the rest: the wallpaper doing what the game itself asks you to
+   do, spot the one that stands apart. */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle 90px at 50% 50%, rgba(245, 158, 11, 0.16) 0%, transparent 70%);
+  animation: oddDrift 22s ease-in-out infinite;
+  z-index: 0;
+}
+
+@keyframes oddDrift {
+  0%   { transform: translate(-32vw, -22vh); }
+  25%  { transform: translate(30vw, -18vh); }
+  50%  { transform: translate(26vw, 24vh); }
+  75%  { transform: translate(-28vw, 20vh); }
+  100% { transform: translate(-32vw, -22vh); }
 }
 
 html, body, #root {
