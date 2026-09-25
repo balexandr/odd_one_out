@@ -18,7 +18,7 @@ Three difficulties unlock independently each day:
 | 🟨 **Medium** | Tricky misdirects and double meanings |
 | 🟥 **Hard** | Lateral thinking required |
 
-Resets daily at **midnight EST**.
+Resets daily at **midnight ET**.
 
 ---
 
