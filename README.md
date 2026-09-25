@@ -1,4 +1,4 @@
-# Odd One Out — Daily Word Puzzle
+# Odd One Out: Daily Word Puzzle
 
 A daily puzzle game where you pick the word that doesn't belong. Three difficulty levels, one shot each.
 
@@ -8,7 +8,7 @@ Part of the [NoodleGames](https://noodlegames.co) family alongside **Sequence** 
 
 ## How to play
 
-You're shown four words. One doesn't belong — tap it to guess. You only get **one attempt per difficulty**, so think before you pick.
+You're shown four words. One doesn't belong: tap it to guess. You only get **one attempt per difficulty**, so think before you pick.
 
 Three difficulties unlock independently each day:
 
@@ -24,7 +24,7 @@ Resets daily at **midnight ET**.
 
 ## Sharing
 
-After completing a difficulty you can share your result. The share text shows which difficulties you completed and whether you got them right — without revealing the answer. Once you've finished at least one NoodleGame today, a **Share all completed** button appears in the footer, letting you share every game you've solved today in one message.
+After completing a difficulty you can share your result. The share text shows which difficulties you completed and whether you got them right, without revealing the answer. Once you've finished at least one NoodleGame today, a **Share all completed** button appears in the footer, letting you share every game you've solved today in one message.
 
 ---
 
