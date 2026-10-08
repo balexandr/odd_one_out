@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { IconClose, IconCheckCircle, IconXCircle, IconCheckmark, IconSparkle } from './Icons';
 import styles from './ResultScreen.module.css';
 
 export default function ResultScreen({
@@ -15,7 +16,7 @@ export default function ResultScreen({
   allCompleted,
   onDismiss,
 }) {
-  const [copiedLabel, setCopiedLabel] = useState('');
+  const [copiedKind, setCopiedKind] = useState('');
   const [previewMode, setPreviewMode] = useState('single');
   const didRecordRef = useRef(false);
 
@@ -37,7 +38,7 @@ export default function ResultScreen({
   const canShareAll = completedCount > 1 && Boolean(allShareText) && allShareText !== shareText;
   const previewText = previewMode === 'all' && canShareAll ? allShareText : shareText;
 
-  const shareToDevice = async (text, copiedMessage) => {
+  const shareToDevice = async (text, kind) => {
     if (navigator.share) {
       try {
         await navigator.share({ text });
@@ -60,32 +61,32 @@ export default function ResultScreen({
       document.body.removeChild(textarea);
     }
 
-    setCopiedLabel(copiedMessage);
-    setTimeout(() => setCopiedLabel(''), 2500);
+    setCopiedKind(kind);
+    setTimeout(() => setCopiedKind(''), 2500);
   };
 
   const handleShareSingle = async () => {
     setPreviewMode('single');
-    await shareToDevice(shareText, '✓ Copied this difficulty');
+    await shareToDevice(shareText, 'single');
   };
 
   const handleShareAll = async () => {
     setPreviewMode('all');
-    await shareToDevice(allShareText, '✓ Copied all completed');
+    await shareToDevice(allShareText, 'all');
   };
 
   return (
     <div className={styles.container}>
       <div className={styles.content}>
-        <button className={styles.closeBtn} onClick={onDismiss} aria-label="Close">✕</button>
+        <button className={styles.closeBtn} onClick={onDismiss} aria-label="Close"><IconClose /></button>
         {won ? (
           <>
-            <div className={styles.result}>🎉 Correct!</div>
+            <div className={styles.result}><IconCheckCircle /> Correct!</div>
             <p className={styles.message}>You found the odd one out!</p>
           </>
         ) : (
           <>
-            <div className={styles.result}>❌ Game Over</div>
+            <div className={styles.result}><IconXCircle /> Game Over</div>
             <p className={styles.message}>Better luck next time!</p>
           </>
         )}
@@ -98,18 +99,18 @@ export default function ResultScreen({
 
         <div className={styles.actions}>
           <button
-            className={`${styles.shareButton} ${copiedLabel === '✓ Copied this difficulty' ? styles.copied : ''}`}
+            className={`${styles.shareButton} ${copiedKind === 'single' ? styles.copied : ''}`}
             onClick={handleShareSingle}
           >
-            {copiedLabel === '✓ Copied this difficulty' ? copiedLabel : 'Share this difficulty'}
+            {copiedKind === 'single' ? <><IconCheckmark size={14} /> Copied this difficulty</> : 'Share this difficulty'}
           </button>
           {canShareAll && (
             <button
-              className={`${styles.shareAllButton} ${copiedLabel === '✓ Copied all completed' ? styles.copied : ''}`}
+              className={`${styles.shareAllButton} ${copiedKind === 'all' ? styles.copied : ''}`}
               onClick={handleShareAll}
             >
-              {copiedLabel === '✓ Copied all completed'
-                ? copiedLabel
+              {copiedKind === 'all'
+                ? <><IconCheckmark size={14} /> Copied all completed</>
                 : `Share all completed (${completedCount})`}
             </button>
           )}
@@ -120,7 +121,7 @@ export default function ResultScreen({
             </button>
           ) : (
             <div className={styles.completedMessage}>
-              ✨ You've completed all difficulties today!
+              <IconSparkle size={16} /> You've completed all difficulties today!
               <br />
               Come back tomorrow for new puzzles.
             </div>

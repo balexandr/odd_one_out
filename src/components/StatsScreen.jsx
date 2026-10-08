@@ -1,3 +1,4 @@
+import { IconClose } from './Icons';
 import styles from './StatsScreen.module.css';
 
 export default function StatsScreen({ stats, winPct, onClose }) {
@@ -7,7 +8,7 @@ export default function StatsScreen({ stats, winPct, onClose }) {
         <div className={styles.header}>
           <h2>Statistics</h2>
           <button className={styles.closeButton} onClick={onClose}>
-            ✕
+            <IconClose />
           </button>
         </div>
 

@@ -1,3 +1,4 @@
+import { IconClose } from './Icons';
 import styles from './HowToPlay.module.css';
 
 export default function HowToPlay({ onDismiss }) {
@@ -7,7 +8,7 @@ export default function HowToPlay({ onDismiss }) {
         <div className={styles.header}>
           <h2>How to Play</h2>
           <button className={styles.closeButton} onClick={onDismiss}>
-            ✕
+            <IconClose />
           </button>
         </div>
 

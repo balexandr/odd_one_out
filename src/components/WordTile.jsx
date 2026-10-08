@@ -1,3 +1,4 @@
+import { IconCheckmark, IconXSmall } from './Icons';
 import styles from './WordTile.module.css';
 
 export default function WordTile({ word, index, onClick, state, disabled }) {
@@ -15,8 +16,8 @@ export default function WordTile({ word, index, onClick, state, disabled }) {
     >
       <span className={styles.num}>{index + 1}</span>
       <span className={styles.word}>{word}</span>
-      {state === 'correct'   && <span className={styles.feedback}>✓</span>}
-      {state === 'incorrect' && <span className={styles.feedback}>✗</span>}
+      {state === 'correct'   && <span className={styles.feedback}><IconCheckmark size={15} /></span>}
+      {state === 'incorrect' && <span className={styles.feedback}><IconXSmall size={15} /></span>}
     </button>
   );
 }

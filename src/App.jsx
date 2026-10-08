@@ -8,6 +8,7 @@ import HowToPlay from './components/HowToPlay';
 import StatsScreen from './components/StatsScreen';
 import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
+import { IconCheckmark, IconShare } from './components/Icons';
 import { getCompletedTodayCount, buildShareAllText, TOTAL_GAMES } from './utils/shareAll';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
@@ -56,7 +57,9 @@ export default function App() {
           className={`${styles.footerShareAll} ${shareAllCopied ? styles.copied : ''}`}
           onClick={handleShareAll}
         >
-          {shareAllCopied ? '✓ Copied' : `⬆ Share all completed (${shareAllCount}/${TOTAL_GAMES})`}
+          {shareAllCopied
+            ? <><IconCheckmark size={13} /> Copied</>
+            : <><IconShare size={13} /> Share all completed ({shareAllCount}/{TOTAL_GAMES})</>}
         </button>
       )}
       <a href="https://noodlegames.co/privacy" target="_blank" rel="noopener noreferrer" className={styles.footerPrivacy}>Privacy Policy</a>

@@ -1,10 +1,11 @@
 import styles from './Header.module.css';
 import { GameLogo } from './GameLogo';
+import { IconDiffDot, IconCheckmark } from './Icons';
 
 const DIFF_META = {
-  easy:   { emoji: '🟩', label: 'Easy' },
-  medium: { emoji: '🟨', label: 'Medium' },
-  hard:   { emoji: '🟥', label: 'Hard' },
+  easy:   { color: '#22c55e', label: 'Easy' },
+  medium: { color: '#f59e0b', label: 'Medium' },
+  hard:   { color: '#ef4444', label: 'Hard' },
 };
 
 export default function Header({
@@ -40,7 +41,7 @@ export default function Header({
 
       <div className={styles.tabs}>
         {['easy', 'medium', 'hard'].map((d) => {
-          const { emoji, label } = DIFF_META[d];
+          const { color, label } = DIFF_META[d];
           const played = isPlayed(d);
           return (
             <button
@@ -49,9 +50,9 @@ export default function Header({
               onClick={() => onDifficultyChange(d)}
               disabled={played && difficulty !== d}
             >
-              <span className={styles.tabEmoji}>{emoji}</span>
+              <span className={styles.tabEmoji}><IconDiffDot color={color} /></span>
               <span className={styles.tabLabel}>{label}</span>
-              {played && <span className={styles.tabCheck}>✓</span>}
+              {played && <span className={styles.tabCheck}><IconCheckmark size={12} /></span>}
             </button>
           );
         })}

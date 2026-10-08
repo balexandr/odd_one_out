@@ -36,6 +36,10 @@
 }
 
 .result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
   font-size: 2rem;
   font-weight: 700;
   text-align: center;
@@ -94,6 +98,10 @@
 .shareButton,
 .shareAllButton,
 .playButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
   padding: 12px;
   border-radius: 6px;
   font-size: 0.95rem;

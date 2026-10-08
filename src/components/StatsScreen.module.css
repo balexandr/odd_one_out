@@ -35,9 +35,11 @@
 }
 
 .closeButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: none;
   border: none;
-  font-size: 1.5rem;
   color: #999;
   cursor: pointer;
   padding: 0;
