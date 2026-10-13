@@ -69,6 +69,16 @@ export function IconSparkle({ size = 18, ...props }) {
   );
 }
 
+export function IconLeaderboard({ size = 20, ...props }) {
+  return (
+    <svg width={size} height={size} {...base(props)}>
+      <rect x="4" y="13" width="4" height="7" rx="1" stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round" />
+      <rect x="10" y="8" width="4" height="12" rx="1" stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round" />
+      <rect x="16" y="4" width="4" height="16" rx="1" stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
 // Difficulty indicator: a filled dot in the difficulty's own color,
 // replacing the colored-square emoji (🟩🟨🟥) with an exact theme color
 // instead of whatever a given OS's emoji font happens to render.

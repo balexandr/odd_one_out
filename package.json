@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
     "js-cookie": "^3.0.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"

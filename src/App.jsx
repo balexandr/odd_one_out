@@ -6,10 +6,12 @@ import GameBoard from './components/GameBoard';
 import ResultScreen from './components/ResultScreen';
 import HowToPlay from './components/HowToPlay';
 import StatsScreen from './components/StatsScreen';
+import LeaderboardPanel from './components/LeaderboardPanel';
 import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
 import { IconCheckmark, IconShare } from './components/Icons';
 import { getCompletedTodayCount, buildShareAllText, TOTAL_GAMES } from './utils/shareAll';
+import { toLeaderboardScore } from './utils/leaderboardScore';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
 
@@ -18,6 +20,7 @@ export default function App() {
   const statsHook = useStats();
   const [showHowToPlay, setShowHowToPlay] = useState(false);
   const [showStats, setShowStats] = useState(false);
+  const [showLeaderboard, setShowLeaderboard] = useState(false);
   const [resultDismissed, setResultDismissed] = useState(false);
   const [shareAllCount, setShareAllCount] = useState(0);
   const [shareAllCopied, setShareAllCopied] = useState(false);
@@ -116,6 +119,7 @@ export default function App() {
       <Header
         onStatsClick={() => setShowStats(true)}
         onHowToPlayClick={() => setShowHowToPlay(true)}
+        onLeaderboardClick={() => setShowLeaderboard(true)}
         difficulty={gameState.difficulty}
         puzzleNumber={gameState.puzzleNumber}
         onDifficultyChange={gameState.changeDifficulty}
@@ -147,6 +151,7 @@ export default function App() {
           availableDifficulties={statsHook.getAvailableDifficulties()}
           allCompleted={statsHook.allCompleted}
           onDismiss={() => setResultDismissed(true)}
+          onViewLeaderboard={() => setShowLeaderboard(true)}
         />
       )}
 
@@ -156,6 +161,18 @@ export default function App() {
           stats={statsHook.stats}
           winPct={statsHook.winPct}
           onClose={() => setShowStats(false)}
+        />
+      )}
+      {showLeaderboard && (
+        <LeaderboardPanel
+          difficulty={gameState.difficulty}
+          dateKey={gameState.dateKey}
+          pendingScore={
+            gameState.gameStatus === 'won' && gameState.elapsedMs != null
+              ? toLeaderboardScore(gameState.elapsedMs)
+              : null
+          }
+          onClose={() => setShowLeaderboard(false)}
         />
       )}
 

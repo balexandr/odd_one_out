@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import puzzles from '../data/puzzles.json';
 import { recordTodayShare } from '../utils/shareAll';
 
@@ -96,6 +96,14 @@ export function useGameState() {
   const [showFeedback, setShowFeedback] = useState(false);
   const [initialized, setInitialized] = useState(false);
   const [words, setWords] = useState([]);
+  // Response-time leaderboard: a stopwatch started the moment this
+  // difficulty's words are actually on screen to pick from, read back
+  // at the instant of the click that decides the game. Not persisted
+  // across reloads — if the page reloads mid-decision the stopwatch
+  // just restarts, which is fine for a single-click game with no
+  // meaningful "paused" state to preserve.
+  const startTimeRef = useRef(null);
+  const [elapsedMs, setElapsedMs] = useState(null);
 
   // Initialize state
   useEffect(() => {
@@ -113,6 +121,8 @@ export function useGameState() {
       setFeedback(saved.feedback);
       setShowFeedback(saved.gameStatus !== 'playing');
       setPuzzle(puzzleData);
+      setElapsedMs(null);
+      if (saved.gameStatus === 'playing') startTimeRef.current = performance.now();
     } else {
       // Initialize fresh game
       setWords(puzzleData.words);
@@ -121,6 +131,8 @@ export function useGameState() {
       setFeedback(null);
       setShowFeedback(false);
       setPuzzle(puzzleData);
+      setElapsedMs(null);
+      startTimeRef.current = performance.now();
     }
     setInitialized(true);
   }, [difficulty, dateKey]);
@@ -176,6 +188,7 @@ export function useGameState() {
 
       if (isCorrect) {
         setGameStatus('won');
+        setElapsedMs(startTimeRef.current ? performance.now() - startTimeRef.current : null);
       } else {
         // One attempt per difficulty
         setGameStatus('lost');
@@ -243,6 +256,7 @@ export function useGameState() {
     dateKey,
     puzzleNumber,
     difficulty,
+    elapsedMs,
     selectWord,
     changeDifficulty,
     generateShareText,

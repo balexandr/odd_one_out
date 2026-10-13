@@ -1,6 +1,6 @@
 import styles from './Header.module.css';
 import { GameLogo } from './GameLogo';
-import { IconDiffDot, IconCheckmark } from './Icons';
+import { IconDiffDot, IconCheckmark, IconLeaderboard } from './Icons';
 
 const DIFF_META = {
   easy:   { color: '#22c55e', label: 'Easy' },
@@ -11,6 +11,7 @@ const DIFF_META = {
 export default function Header({
   onStatsClick,
   onHowToPlayClick,
+  onLeaderboardClick,
   difficulty,
   puzzleNumber,
   onDifficultyChange,
@@ -27,6 +28,9 @@ export default function Header({
           {puzzleNumber && <span className={styles.puzzleNumber}>#{puzzleNumber}</span>}
         </div>
         <div className={styles.actions}>
+          <button className={styles.iconButton} onClick={onLeaderboardClick} aria-label="Leaderboard">
+            <IconLeaderboard size={20} />
+          </button>
           <button className={styles.iconButton} onClick={onStatsClick} aria-label="Statistics">
             <svg className={styles.statsIcon} viewBox="0 0 24 24" fill="none" aria-hidden="true">
               <path d="M4 20H20" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />

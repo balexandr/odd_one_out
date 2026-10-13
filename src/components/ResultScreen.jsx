@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { IconClose, IconCheckCircle, IconXCircle, IconCheckmark, IconSparkle } from './Icons';
+import { IconClose, IconCheckCircle, IconXCircle, IconCheckmark, IconSparkle, IconLeaderboard } from './Icons';
 import styles from './ResultScreen.module.css';
 
 export default function ResultScreen({
@@ -15,6 +15,7 @@ export default function ResultScreen({
   availableDifficulties,
   allCompleted,
   onDismiss,
+  onViewLeaderboard,
 }) {
   const [copiedKind, setCopiedKind] = useState('');
   const [previewMode, setPreviewMode] = useState('single');
@@ -112,6 +113,11 @@ export default function ResultScreen({
               {copiedKind === 'all'
                 ? <><IconCheckmark size={14} /> Copied all completed</>
                 : `Share all completed (${completedCount})`}
+            </button>
+          )}
+          {won && (
+            <button className={styles.leaderboardButton} onClick={onViewLeaderboard}>
+              <IconLeaderboard size={14} /> Today's leaderboard
             </button>
           )}
           {!allCompleted && availableDifficulties.length > 0 ? (
