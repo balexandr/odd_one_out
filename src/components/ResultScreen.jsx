@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { IconClose, IconCheckCircle, IconXCircle, IconCheckmark, IconSparkle, IconLeaderboard } from './Icons';
+import { copyToClipboard } from '../utils/shareAll';
 import styles from './ResultScreen.module.css';
 
 export default function ResultScreen({
@@ -49,18 +50,7 @@ export default function ResultScreen({
       }
     }
 
-    try {
-      await navigator.clipboard.writeText(text);
-    } catch {
-      const textarea = document.createElement('textarea');
-      textarea.value = text;
-      textarea.style.position = 'fixed';
-      textarea.style.opacity = '0';
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textarea);
-    }
+    await copyToClipboard(text);
 
     setCopiedKind(kind);
     setTimeout(() => setCopiedKind(''), 2500);

@@ -96,3 +96,22 @@ export function buildShareAllText(dateKey) {
 }
 
 export const TOTAL_GAMES = GAMES.length;
+
+// Shared "copy to clipboard" fallback used by every Share button in the
+// suite, for whenever navigator.share() isn't available (desktop browsers)
+// or the clipboard API itself is blocked (non-HTTPS, older Safari). Callers
+// handle navigator.share themselves first since that's a user-gesture
+// native share sheet, not a clipboard write - this only covers the copy.
+export async function copyToClipboard(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+    return;
+  } catch {}
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.cssText = 'position:fixed;opacity:0';
+  document.body.appendChild(ta);
+  ta.select();
+  document.execCommand('copy');
+  document.body.removeChild(ta);
+}

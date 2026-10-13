@@ -1,13 +1,13 @@
 import { IconClose } from './Icons';
 import styles from './HowToPlay.module.css';
 
-export default function HowToPlay({ onDismiss }) {
+export default function HowToPlay({ onClose }) {
   return (
-    <div className={styles.overlay} onClick={onDismiss}>
+    <div className={styles.overlay} onClick={onClose}>
       <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
         <div className={styles.header}>
           <h2>How to Play</h2>
-          <button className={styles.closeButton} onClick={onDismiss}>
+          <button className={styles.closeButton} onClick={onClose}>
             <IconClose />
           </button>
         </div>
@@ -52,7 +52,7 @@ export default function HowToPlay({ onDismiss }) {
           </section>
         </div>
 
-        <button className={styles.playButton} onClick={onDismiss}>
+        <button className={styles.playButton} onClick={onClose}>
           Got it! Let's Play
         </button>
       </div>

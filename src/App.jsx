@@ -10,7 +10,7 @@ import LeaderboardPanel from './components/LeaderboardPanel';
 import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
 import { IconCheckmark, IconShare } from './components/Icons';
-import { getCompletedTodayCount, buildShareAllText, TOTAL_GAMES } from './utils/shareAll';
+import { getCompletedTodayCount, buildShareAllText, copyToClipboard, TOTAL_GAMES } from './utils/shareAll';
 import { toLeaderboardScore, leaderboardGameId } from './utils/leaderboardScore';
 import { fetchTodayBoard, findMyRow, wouldQualify } from './utils/leaderboard';
 
@@ -60,16 +60,7 @@ export default function App() {
     if (navigator.share) {
       try { await navigator.share({ text }); return; } catch {}
     }
-    try { await navigator.clipboard.writeText(text); }
-    catch {
-      const ta = document.createElement('textarea');
-      ta.value = text;
-      ta.style.cssText = 'position:fixed;opacity:0';
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand('copy');
-      document.body.removeChild(ta);
-    }
+    await copyToClipboard(text);
     setShareAllCopied(true);
     setTimeout(() => setShareAllCopied(false), 2500);
   };
@@ -179,7 +170,7 @@ export default function App() {
         />
       )}
 
-      {showHowToPlay && <HowToPlay onDismiss={dismissHowToPlay} />}
+      {showHowToPlay && <HowToPlay onClose={dismissHowToPlay} />}
       {showStats && (
         <StatsScreen
           stats={statsHook.stats}
