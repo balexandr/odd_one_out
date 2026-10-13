@@ -11,7 +11,8 @@ import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
 import { IconCheckmark, IconShare } from './components/Icons';
 import { getCompletedTodayCount, buildShareAllText, TOTAL_GAMES } from './utils/shareAll';
-import { toLeaderboardScore } from './utils/leaderboardScore';
+import { toLeaderboardScore, leaderboardGameId } from './utils/leaderboardScore';
+import { fetchTodayBoard, findMyRow, wouldQualify } from './utils/leaderboard';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
 
@@ -29,6 +30,29 @@ export default function App() {
   useEffect(() => {
     setShareAllCount(getCompletedTodayCount(gameState.dateKey));
   }, [gameState.gameStatus, gameState.dateKey]);
+
+  // Auto-opens the leaderboard (initials prompt included) a beat after
+  // a qualifying win, instead of making the player click "today's
+  // leaderboard" to find out they made the cut. Gated on elapsedMs
+  // too, same as the pendingScore passed to LeaderboardPanel below —
+  // a reload right after winning can leave it null (see leaderboardScore.js).
+  useEffect(() => {
+    if (gameState.gameStatus !== 'won' || gameState.elapsedMs == null) return;
+    const gameId = leaderboardGameId(gameState.difficulty);
+    const dateKey = gameState.dateKey;
+    const t = setTimeout(() => {
+      const pending = toLeaderboardScore(gameState.elapsedMs);
+      fetchTodayBoard(gameId, dateKey).then((board) => {
+        if (!board.config) return;
+        if (findMyRow(gameId, board.rows)) return;
+        if (wouldQualify(pending.score, board.rows, board.config)) {
+          setShowLeaderboard(true);
+        }
+      });
+    }, 2000);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [gameState.gameStatus, gameState.difficulty]);
 
   const handleShareAll = async () => {
     const text = buildShareAllText(gameState.dateKey);
