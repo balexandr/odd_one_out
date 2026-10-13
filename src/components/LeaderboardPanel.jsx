@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { fetchTodayBoard, submitScore, wouldQualify, findMyRow, LEADERBOARD_SIZE } from '../utils/leaderboard';
+import { fetchTodayBoard, submitScore, wouldQualify, findMyRow, LEADERBOARD_SIZE, getSavedInitials, saveInitials } from '../utils/leaderboard';
 import { leaderboardGameId } from '../utils/leaderboardScore';
 import { IconClose, IconSparkle } from './Icons';
 import styles from './LeaderboardPanel.module.css';
@@ -10,7 +10,7 @@ import styles from './LeaderboardPanel.module.css';
 export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, onClose }) {
   const gameId = leaderboardGameId(difficulty);
   const [board, setBoard] = useState(null);
-  const [initials, setInitials] = useState('');
+  const [initials, setInitials] = useState(() => getSavedInitials());
   const [submitting, setSubmitting] = useState(false);
   const [outcome, setOutcome] = useState(null); // null | 'accepted' | 'missed'
 
@@ -32,7 +32,10 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
     const result = await submitScore(gameId, { ...pendingScore, initials });
     setSubmitting(false);
     setOutcome(result.accepted ? 'accepted' : 'missed');
-    if (result.accepted) reload();
+    if (result.accepted) {
+      saveInitials(initials);
+      reload();
+    }
   };
 
   return (
