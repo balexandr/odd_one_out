@@ -34,7 +34,7 @@
 }
 
 .titleOdd {
-  color: #84cc16;
+  color: var(--accent);
 }
 
 /* Puzzle number badge */
