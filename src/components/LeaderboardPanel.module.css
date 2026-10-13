@@ -97,6 +97,44 @@
 
 .submitBtn:disabled { opacity: 0.5; }
 
+.editActions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.cancelBtn {
+  font-size: 0.78rem;
+  color: #666;
+  background: none;
+}
+
+.playingAs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 10px;
+  margin-bottom: 16px;
+  background: #0a0a0a;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  color: #999;
+}
+
+.playingAs strong {
+  color: #fff;
+  letter-spacing: 0.1em;
+}
+
+.editLink {
+  color: #4ade80;
+  font-weight: 700;
+  font-size: 0.78rem;
+  background: none;
+  padding: 2px 4px;
+}
+
 .outcomeMissed {
   font-size: 0.8rem;
   color: #999;

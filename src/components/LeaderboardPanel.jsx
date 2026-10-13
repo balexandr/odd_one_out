@@ -11,6 +11,8 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
   const gameId = leaderboardGameId(difficulty);
   const [board, setBoard] = useState(null);
   const [initials, setInitials] = useState(() => getSavedInitials());
+  const [savedInitials, setSavedInitials] = useState(() => getSavedInitials());
+  const [editing, setEditing] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [outcome, setOutcome] = useState(null); // null | 'accepted' | 'missed'
 
@@ -34,8 +36,20 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
     setOutcome(result.accepted ? 'accepted' : 'missed');
     if (result.accepted) {
       saveInitials(initials);
+      setSavedInitials(initials);
       reload();
     }
+  };
+
+  // Not tied to a score submission — just changes what prefills next
+  // time, so a player who's already on the board (or never qualifies
+  // again) still has a way to fix a mistyped set of initials.
+  const handleEditSave = (e) => {
+    e.preventDefault();
+    if (initials.length !== 3) return;
+    saveInitials(initials);
+    setSavedInitials(initials);
+    setEditing(false);
   };
 
   return (
@@ -46,7 +60,25 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
           <button className={styles.closeBtn} onClick={onClose} aria-label="Close"><IconClose /></button>
         </div>
 
-        {qualifies && (
+        {editing && (
+          <form className={styles.initialsForm} onSubmit={handleEditSave}>
+            <p className={styles.prompt}>Change your initials:</p>
+            <input
+              className={styles.initialsInput}
+              value={initials}
+              onChange={(e) => setInitials(e.target.value.toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 3))}
+              maxLength={3}
+              autoFocus
+              aria-label="Your initials"
+            />
+            <div className={styles.editActions}>
+              <button type="submit" className={styles.submitBtn} disabled={initials.length !== 3}>Save</button>
+              <button type="button" className={styles.cancelBtn} onClick={() => { setInitials(savedInitials); setEditing(false); }}>Cancel</button>
+            </div>
+          </form>
+        )}
+
+        {!editing && qualifies && (
           <form className={styles.initialsForm} onSubmit={handleSubmit}>
             <p className={styles.prompt}><IconSparkle size={14} /> Top {LEADERBOARD_SIZE}! Enter your initials:</p>
             <input
@@ -61,6 +93,13 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
               {submitting ? 'Saving…' : 'Submit'}
             </button>
           </form>
+        )}
+
+        {!editing && !qualifies && savedInitials && (
+          <div className={styles.playingAs}>
+            <span>Playing as <strong>{savedInitials}</strong></span>
+            <button type="button" className={styles.editLink} onClick={() => setEditing(true)}>edit</button>
+          </div>
         )}
 
         {outcome === 'missed' && (
