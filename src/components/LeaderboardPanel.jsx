@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { fetchTodayBoard, submitScore, wouldQualify, findMyRow } from '../utils/leaderboard';
+import { fetchTodayBoard, submitScore, wouldQualify, findMyRow, LEADERBOARD_SIZE } from '../utils/leaderboard';
 import { leaderboardGameId } from '../utils/leaderboardScore';
 import { IconClose, IconSparkle } from './Icons';
 import styles from './LeaderboardPanel.module.css';
@@ -45,7 +45,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
 
         {qualifies && (
           <form className={styles.initialsForm} onSubmit={handleSubmit}>
-            <p className={styles.prompt}><IconSparkle size={14} /> Top 10! Enter your initials:</p>
+            <p className={styles.prompt}><IconSparkle size={14} /> Top {LEADERBOARD_SIZE}! Enter your initials:</p>
             <input
               className={styles.initialsInput}
               value={initials}
