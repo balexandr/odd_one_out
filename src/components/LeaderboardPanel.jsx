@@ -29,11 +29,16 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (initials.length !== 3 || submitting) return;
+    if (initials.length < 2 || submitting) return;
     setSubmitting(true);
     const result = await submitScore(gameId, { ...pendingScore, initials });
     setSubmitting(false);
-    setOutcome(result.accepted ? 'accepted' : 'missed');
+    if (result.error) {
+      console.error('submitScore failed:', result.error);
+      setOutcome('error');
+    } else {
+      setOutcome(result.accepted ? 'accepted' : 'missed');
+    }
     if (result.accepted) {
       saveInitials(initials);
       setSavedInitials(initials);
@@ -46,7 +51,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
   // again) still has a way to fix a mistyped set of initials.
   const handleEditSave = (e) => {
     e.preventDefault();
-    if (initials.length !== 3) return;
+    if (initials.length < 2) return;
     saveInitials(initials);
     setSavedInitials(initials);
     setEditing(false);
@@ -62,7 +67,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
 
         {editing && (
           <form className={styles.initialsForm} onSubmit={handleEditSave}>
-            <p className={styles.prompt}>Change your initials:</p>
+            <p className={styles.prompt}>Change your initials (2-3 letters):</p>
             <input
               className={styles.initialsInput}
               value={initials}
@@ -72,7 +77,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
               aria-label="Your initials"
             />
             <div className={styles.editActions}>
-              <button type="submit" className={styles.submitBtn} disabled={initials.length !== 3}>Save</button>
+              <button type="submit" className={styles.submitBtn} disabled={initials.length < 2}>Save</button>
               <button type="button" className={styles.cancelBtn} onClick={() => { setInitials(savedInitials); setEditing(false); }}>Cancel</button>
             </div>
           </form>
@@ -80,7 +85,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
 
         {!editing && qualifies && (
           <form className={styles.initialsForm} onSubmit={handleSubmit}>
-            <p className={styles.prompt}><IconSparkle size={14} /> Top {LEADERBOARD_SIZE}! Enter your initials:</p>
+            <p className={styles.prompt}><IconSparkle size={14} /> Top {LEADERBOARD_SIZE}! Enter your initials (2-3 letters):</p>
             <input
               className={styles.initialsInput}
               value={initials}
@@ -89,7 +94,7 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
               autoFocus
               aria-label="Your initials"
             />
-            <button type="submit" className={styles.submitBtn} disabled={initials.length !== 3 || submitting}>
+            <button type="submit" className={styles.submitBtn} disabled={initials.length < 2 || submitting}>
               {submitting ? 'Saving…' : 'Submit'}
             </button>
           </form>
@@ -104,6 +109,10 @@ export default function LeaderboardPanel({ difficulty, dateKey, pendingScore, on
 
         {outcome === 'missed' && (
           <p className={styles.outcomeMissed}>Someone beat you to that spot just now, so close.</p>
+        )}
+
+        {outcome === 'error' && (
+          <p className={styles.outcomeMissed}>Couldn't save your score — try again in a bit.</p>
         )}
 
         {!board && <p className={styles.loading}>Loading…</p>}

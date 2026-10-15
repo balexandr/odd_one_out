@@ -180,3 +180,31 @@
 .tab.played.active {
   opacity: 0.75;
 }
+
+/* Three icon buttons (leaderboard/stats/how-to-play) plus "Odd One
+   Out" at full size don't fit a narrow phone's single header row —
+   tighten proportionally rather than wrapping to a second line. */
+@media (max-width: 380px) {
+  .title {
+    font-size: 1.2rem;
+  }
+
+  .titleWrap {
+    gap: 6px;
+  }
+
+  .puzzleNumber {
+    min-width: 28px;
+    padding: 0 6px;
+    font-size: 0.66rem;
+  }
+
+  .actions {
+    gap: 4px;
+  }
+
+  .iconButton {
+    width: 32px;
+    height: 32px;
+  }
+}
