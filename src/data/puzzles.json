@@ -1751,36 +1751,36 @@
     },
     "2026-10-18": {
       "words": [
-        "Bicycle",
-        "Alien",
-        "Rocket Ship",
-        "Space Suit"
+        "Knife",
+        "Spoon",
+        "Whisk",
+        "Spatula"
       ],
       "oddOne": 0,
-      "category": "Space Adventure Movie Props, Except Something You'd Ride to School",
-      "explanation": "A rocket ship, space suit, and alien are all staples of a good space adventure movie. A bicycle is a great ride, but it's not leaving the atmosphere."
+      "category": "Kitchen Utensils Used for Stirring, Except Something Used for Cutting",
+      "explanation": "Spoon, whisk, and spatula are all used to stir or mix. A knife is for cutting, not stirring."
     },
     "2026-10-19": {
       "words": [
-        "Rocket",
-        "Surfboard",
-        "Alien",
-        "Astronaut"
+        "Sneakers",
+        "Beanie",
+        "Sandals",
+        "Boots"
       ],
       "oddOne": 1,
-      "category": "Outer Space Movie Icons, Except Something From a Beach Movie",
-      "explanation": "Astronaut, alien, and rocket are all icons of a great space flick. A surfboard belongs on a totally different kind of adventure, with waves instead of stars."
+      "category": "Things You Wear on Your Feet, Except Something You Wear on Your Head",
+      "explanation": "Sneakers, sandals, and boots are all footwear. A beanie is a hat, worn on your head."
     },
     "2026-10-20": {
       "words": [
-        "Dragon",
-        "Submarine",
-        "Castle",
-        "Wizard"
+        "Pancakes",
+        "Waffles",
+        "Steak",
+        "Cereal"
       ],
-      "oddOne": 1,
-      "category": "Fantasy Kingdom Staples, Except Something Underwater",
-      "explanation": "Dragon, wizard, and castle all belong to a classic fantasy kingdom. A submarine belongs deep underwater, in a very different kind of adventure."
+      "oddOne": 2,
+      "category": "Breakfast Foods, Except a Dinner Food",
+      "explanation": "Pancakes, waffles, and cereal are classic breakfast foods. Steak is typically a dinner dish."
     },
     "2026-10-21": {
       "words": [
@@ -2238,11 +2238,11 @@
         "Textbook",
         "Party Hat",
         "Balloons",
-        "Pi\u00f1ata"
+        "Piñata"
       ],
       "oddOne": 0,
       "category": "Party Decorations, Except Something From Your Desk",
-      "explanation": "Pi\u00f1ata, balloons, and a party hat all show up at a celebration. A textbook shows up at your desk, decidedly less festive."
+      "explanation": "Piñata, balloons, and a party hat all show up at a celebration. A textbook shows up at your desk, decidedly less festive."
     },
     "2026-12-02": {
       "words": [
@@ -3064,12 +3064,12 @@
       "words": [
         "Sweet Sixteen",
         "Sweet Tooth",
-        "Quincea\u00f1era",
+        "Quinceañera",
         "Bar Mitzvah"
       ],
       "oddOne": 1,
       "category": "Coming-of-Age Celebrations, Except a Craving",
-      "explanation": "Sweet Sixteen, Quincea\u00f1era, and Bar Mitzvah are all milestone celebrations marking growing up. A sweet tooth just means you really, really like dessert."
+      "explanation": "Sweet Sixteen, Quinceañera, and Bar Mitzvah are all milestone celebrations marking growing up. A sweet tooth just means you really, really like dessert."
     },
     "2026-06-26": {
       "words": [
@@ -3515,12 +3515,12 @@
       "words": [
         "Cayenne Pepper",
         "Peppermint",
-        "Jalape\u00f1o",
+        "Jalapeño",
         "Habanero"
       ],
       "oddOne": 1,
       "category": "Types of Hot Chili Peppers, Except an Herb That Just Borrows the Name",
-      "explanation": "Cayenne, habanero, and jalape\u00f1o are all real, spicy chili peppers you'd rate on the Scoville scale. Peppermint is a cooling herb in the mint family, nowhere near as fiery as its name suggests."
+      "explanation": "Cayenne, habanero, and jalapeño are all real, spicy chili peppers you'd rate on the Scoville scale. Peppermint is a cooling herb in the mint family, nowhere near as fiery as its name suggests."
     },
     "2026-08-06": {
       "words": [
@@ -6903,201 +6903,201 @@
     },
     "2026-10-18": {
       "words": [
-        "Spill the Beans",
-        "Let the Cat Out of the Bag",
-        "Pandora's Box",
-        "Break the Ice"
+        "Loose Cannon",
+        "Three Sheets to the Wind",
+        "Batten Down the Hatches",
+        "Win by a Nose"
       ],
-      "oddOne": 2,
-      "category": "Everyday Idioms About Revealing a Secret, Except an Idiom Straight From Greek Mythology",
-      "explanation": "\"Spill the beans,\" \"let the cat out of the bag,\" and \"break the ice\" (well, easing tension rather than a secret, but a common everyday idiom nonetheless) are ordinary English idioms without a mythological backstory. \"Pandora's box\" comes directly from the myth of Pandora, whose curiosity released trouble into the world."
+      "oddOne": 3,
+      "category": "Idioms With Real Nautical Origins, Except an Idiom From the World of Horse Racing",
+      "explanation": "\"Loose cannon,\" \"three sheets to the wind,\" and \"batten down the hatches\" all come from sailing ship life. \"Win by a nose\" comes from horse racing, not the sea."
     },
     "2026-10-19": {
       "words": [
-        "Zombie",
-        "Werewolf",
-        "Vampire",
-        "Frankenstein's Monster"
+        "Ace Up Your Sleeve",
+        "Win by a Nose",
+        "Front Runner",
+        "Down to the Wire"
       ],
-      "oddOne": 3,
-      "category": "Classic Monsters Born From Folklore and Legend, Except One Invented Whole-Cloth by a Novelist",
-      "explanation": "Werewolf, vampire, and zombie all grew out of centuries of genuine folklore across different cultures. Frankenstein's monster was invented by one specific author, Mary Shelley, in her 1818 novel, with no older legend behind him."
+      "oddOne": 0,
+      "category": "Idioms Rooted in Horse Racing, Except a Phrase From Card Games",
+      "explanation": "\"Win by a nose,\" \"front runner,\" and \"down to the wire\" all come from horse racing. \"An ace up your sleeve\" comes from card-game trickery."
     },
     "2026-10-20": {
       "words": [
-        "Frankenstein's Monster",
-        "Sherlock Holmes",
-        "Dracula",
-        "Mr. Hyde"
+        "Poker Face",
+        "Throw in the Towel",
+        "Ace Up Your Sleeve",
+        "Show Your Hand"
       ],
       "oddOne": 1,
-      "category": "Classic Characters Born From 19th-Century Gothic or Horror Novels, Except a Detective From a Totally Different Kind of Story",
-      "explanation": "Dracula, Frankenstein's monster, and Mr. Hyde all come from 19th-century Gothic horror novels. Sherlock Holmes comes from the same era, but he's a detective solving mysteries, not a monster lurking in the shadows."
+      "category": "Phrases That Come From Card Games, Except a Phrase From Boxing",
+      "explanation": "\"Poker face,\" \"ace up your sleeve,\" and \"show your hand\" all come from card games. \"Throw in the towel\" comes from boxing, where a trainer tosses a towel into the ring to stop a fight."
     },
     "2026-10-21": {
       "words": [
-        "Dr. Jekyll",
-        "Mr. Hyde",
-        "The Wolfman",
-        "Dracula"
+        "Down for the Count",
+        "On the Ropes",
+        "Out of Left Field",
+        "Throw in the Towel"
       ],
-      "oddOne": 0,
-      "category": "Classic Monsters of Gothic Horror, Except the Ordinary, Mild-Mannered Human Half of One of Them",
-      "explanation": "Mr. Hyde, Dracula, and the Wolfman are all the monstrous, frightening halves of their stories. Dr. Jekyll is the calm, respectable human, the one who transforms into the monster, not the monster himself."
+      "oddOne": 2,
+      "category": "Phrases That Come From Boxing, Except a Phrase From Baseball",
+      "explanation": "\"Down for the count,\" \"on the ropes,\" and \"throw in the towel\" all come from boxing. \"Out of left field\" comes from baseball."
     },
     "2026-10-22": {
       "words": [
-        "Frankenstein's Monster",
-        "The Mummy",
-        "Dracula",
-        "Frankenstein"
+        "Touch Base",
+        "Step Up to the Plate",
+        "Out of Left Field",
+        "Half-Baked"
       ],
       "oddOne": 3,
-      "category": "The Actual Monsters of Classic Horror, Except the Scientist Whose Name Everyone Mistakenly Gives to His Creation",
-      "explanation": "Dracula, the Mummy, and Frankenstein's monster are all the frightening creatures themselves. \"Frankenstein\" is actually the name of the scientist who created the monster, not the monster's own name, a mix-up almost everyone makes."
+      "category": "Phrases That Come From Baseball, Except a Phrase From Cooking",
+      "explanation": "\"Touch base,\" \"step up to the plate,\" and \"out of left field\" all come from baseball. \"Half-baked\" comes from cooking."
     },
     "2026-10-23": {
       "words": [
-        "Full Moon",
-        "Werewolf",
-        "Garlic",
-        "Silver Bullet"
+        "Hit the Nail on the Head",
+        "Half-Baked",
+        "In a Pickle",
+        "Spill the Beans"
       ],
-      "oddOne": 2,
-      "category": "Things Tied Specifically to Werewolf Legends, Except the Classic Weakness of a Vampire",
-      "explanation": "Werewolf, full moon, and silver bullet are all central to classic werewolf lore. Garlic is famously a vampire's weakness instead, not a werewolf's."
+      "oddOne": 0,
+      "category": "Phrases That Draw Their Imagery From Cooking or the Kitchen, Except a Phrase From Carpentry",
+      "explanation": "\"Half-baked,\" \"in a pickle,\" and \"spill the beans\" all draw their imagery from cooking or the kitchen. \"Hit the nail on the head\" comes from carpentry."
     },
     "2026-10-24": {
       "words": [
-        "Wooden Stake",
-        "Silver Bullet",
-        "Garlic",
-        "Sunlight"
+        "Helium",
+        "Sodium",
+        "Neon",
+        "Argon"
       ],
       "oddOne": 1,
-      "category": "Classic Vampire Weaknesses, Except a Werewolf's Weakness Instead",
-      "explanation": "Garlic, sunlight, and a wooden stake are all classic ways to stop a vampire in folklore and film. A silver bullet is famously what takes down a werewolf instead."
+      "category": "Noble Gases on the Periodic Table, Except a Reactive Alkali Metal",
+      "explanation": "Helium, neon, and argon are all noble gases, chemically inert. Sodium is a highly reactive alkali metal."
     },
     "2026-10-25": {
       "words": [
-        "Frankenstein's Monster",
-        "The Invisible Man",
-        "The Bride of Frankenstein",
-        "Igor"
+        "Mercury",
+        "Neptunium",
+        "Curium",
+        "Uranium"
       ],
-      "oddOne": 1,
-      "category": "Characters From the Classic Frankenstein Story and Its Sequels, Except a Completely Different Classic Monster Movie",
-      "explanation": "Frankenstein's monster, the Bride of Frankenstein, and Igor (the hunchbacked lab assistant popularized by later films) are all tied to the Frankenstein story. The Invisible Man is his own separate classic monster, from a different novel entirely."
+      "oddOne": 2,
+      "category": "Elements Named After Planets, Except One Named After Two Scientists",
+      "explanation": "Mercury, Uranium, and Neptunium are chemical elements named after planets. Curium is named after scientists Marie and Pierre Curie."
     },
     "2026-10-26": {
       "words": [
-        "The Kraken",
-        "Bigfoot",
-        "Godzilla",
-        "King Kong"
+        "Curium",
+        "Einsteinium",
+        "Nobelium",
+        "Francium"
       ],
-      "oddOne": 1,
-      "category": "Giant Movie Monsters, Except a Cryptid People Claim to Have Actually Spotted in Real Life",
-      "explanation": "Godzilla, King Kong, and the Kraken are all giant fictional monsters from movies and legend, built for spectacle. Bigfoot is a cryptid: something people to this day claim to have genuinely, if unconvincingly, encountered in the woods."
+      "oddOne": 3,
+      "category": "Chemical Elements Named After Scientists, Except an Element Named After a Country",
+      "explanation": "Curium, Einsteinium, and Nobelium are all named after famous scientists. Francium is named after the country France."
     },
     "2026-10-27": {
       "words": [
-        "Loch Ness Monster",
-        "Chupacabra",
-        "Godzilla",
-        "Bigfoot"
+        "Californium",
+        "Francium",
+        "Germanium",
+        "Polonium"
       ],
-      "oddOne": 2,
-      "category": "Cryptids People Claim to Have Actually Seen, Except a Fictional Movie Monster With No Real Sightings Attached",
-      "explanation": "Bigfoot, the Loch Ness Monster, and the Chupacabra are all cryptids, creatures some people claim to have spotted in the real world despite no scientific proof. Godzilla is purely a movie creation, with no claimed real-life sightings at all."
+      "oddOne": 0,
+      "category": "Chemical Elements Named After Countries, Except an Element Named After a U.S. State",
+      "explanation": "Francium, Germanium, and Polonium are each named after a country (France, Germany, and Poland). Californium is named after the U.S. state of California."
     },
     "2026-10-28": {
       "words": [
-        "Loch Ness Monster",
-        "Bigfoot",
-        "The Kraken",
-        "Nessie"
+        "Californium",
+        "Neptunium",
+        "Berkelium",
+        "Americium"
       ],
-      "oddOne": 2,
-      "category": "Cryptids Tied to a Real, Specific Lake or Forest, Except a Sea Monster From Pure Legend",
-      "explanation": "The Loch Ness Monster (and its nickname \"Nessie\") is tied to one very specific lake in Scotland, and Bigfoot is tied to real forests in the Pacific Northwest. The Kraken is a legendary sea monster from Scandinavian folklore, with no single real body of water it's pinned to."
+      "oddOne": 1,
+      "category": "Elements Named After American Places, Except an Element Named After a Planet",
+      "explanation": "Californium, Berkelium, and Americium are all named after American places (California, Berkeley, and the Americas). Neptunium is named after the planet Neptune."
     },
     "2026-10-29": {
       "words": [
-        "Unicorn",
-        "Pegasus",
-        "Centaur",
-        "Camel"
+        "Nile",
+        "Amazon",
+        "Andes",
+        "Yangtze"
       ],
-      "oddOne": 3,
-      "category": "Mythical Creatures That Are Part Horse, Except a Real Animal That Isn't Part Horse at All",
-      "explanation": "Unicorn, Pegasus, and centaur are all legendary creatures built around a horse-like body. A camel is a completely real, ordinary animal, no horse mythology attached."
+      "oddOne": 2,
+      "category": "Longest Rivers in the World, Except the Longest Mountain Range",
+      "explanation": "The Nile, Amazon, and Yangtze are among the world's longest rivers. The Andes is the world's longest mountain range, not a river."
     },
     "2026-10-30": {
       "words": [
-        "Ostrich",
-        "Pegasus",
-        "Dragon",
-        "Griffin"
+        "Andes",
+        "Rockies",
+        "Himalayas",
+        "Everest"
       ],
-      "oddOne": 0,
-      "category": "Mythical Creatures That Can Fly, Except a Real Bird That Can't",
-      "explanation": "Pegasus, griffin, and dragon are all legendary creatures famous for taking to the skies. An ostrich is a real, living bird, but it's actually flightless, built for running instead."
+      "oddOne": 3,
+      "category": "Entire Mountain Ranges, Except One Specific Peak Within a Range",
+      "explanation": "The Andes, Rockies, and Himalayas are entire mountain ranges. Mount Everest is one specific peak, inside the Himalayas, not a range of its own."
     },
     "2026-10-31": {
       "words": [
-        "Griffin",
-        "Sphinx",
-        "Rhinoceros",
-        "Chimera"
+        "Mariana Trench",
+        "Everest",
+        "K2",
+        "Kangchenjunga"
       ],
-      "oddOne": 2,
-      "category": "Mythical Creatures Combining Parts of Multiple Animals, Except a Real Animal That's Just Itself",
-      "explanation": "Griffin (eagle and lion), sphinx (human and lion), and chimera (lion, goat, and snake) are all legendary hybrids. A rhinoceros is a real, single, non-hybrid animal, no mixing and matching required."
+      "oddOne": 0,
+      "category": "Tallest Mountains in the World, Except the Deepest Point in the Ocean",
+      "explanation": "Everest, K2, and Kangchenjunga are among the world's tallest mountains. The Mariana Trench is the deepest known point in the ocean, the opposite extreme."
     },
     "2026-11-01": {
       "words": [
-        "Centaur",
-        "Satyr",
-        "Elephant",
-        "Minotaur"
+        "Dead Sea",
+        "Everest",
+        "Death Valley",
+        "Lake Eyre"
       ],
-      "oddOne": 2,
-      "category": "Mythical Creatures That Are Part Human, Part Animal, Except a Real Animal That's Entirely Itself",
-      "explanation": "Centaur (human and horse), Minotaur (human and bull), and satyr (human and goat) are all classic human-animal hybrids from myth. An elephant is a completely real animal, no human half involved."
+      "oddOne": 1,
+      "category": "Lowest Points on Earth's Land Surface, Except the Highest Point on Earth",
+      "explanation": "The Dead Sea, Death Valley, and Lake Eyre are all among the lowest points on their continents. Mount Everest is the highest point on Earth, the opposite extreme."
     },
     "2026-11-02": {
       "words": [
-        "Phoenix",
-        "Dragon",
-        "Ostrich",
-        "Griffin"
+        "Paris",
+        "Rome",
+        "Barcelona",
+        "Madrid"
       ],
       "oddOne": 2,
-      "category": "Legendary Creatures, Except a Real Flightless Bird",
-      "explanation": "Phoenix, dragon, and griffin are all creatures that exist purely in myth and legend. An ostrich is a genuine, real animal, currently alive and running around on actual savannas."
+      "category": "Capital Cities of European Countries, Except a Famous City That Isn't a Capital",
+      "explanation": "Paris, Rome, and Madrid are all capital cities of their countries. Barcelona is a major, famous Spanish city, but Madrid is Spain's actual capital."
     },
     "2026-11-03": {
       "words": [
-        "Giant Squid",
-        "Kraken",
-        "Leviathan",
-        "Sea Serpent"
+        "Canberra",
+        "Washington D.C.",
+        "Ottawa",
+        "Sydney"
       ],
-      "oddOne": 0,
-      "category": "Legendary Sea Monsters, Except a Real Animal That Actually Grows Enormous",
-      "explanation": "Kraken, Leviathan, and sea serpent are all creatures of myth and legend, terrifying old sailors. A giant squid is a genuinely real animal, and it really can grow to massive, almost legendary size."
+      "oddOne": 3,
+      "category": "Actual Capital Cities, Except a Country's Largest, Most Famous City",
+      "explanation": "Canberra, Washington D.C., and Ottawa are each their country's actual capital. Sydney is Australia's largest and most famous city, but Canberra is the real capital."
     },
     "2026-11-04": {
       "words": [
-        "Kraken",
-        "Megalodon",
-        "Giant Squid",
-        "Blue Whale"
+        "Brasília",
+        "Sydney",
+        "Toronto",
+        "Rio de Janeiro"
       ],
       "oddOne": 0,
-      "category": "Enormous Real Sea Creatures (Living or Extinct), Except a Purely Legendary Monster",
-      "explanation": "Megalodon (an extinct giant shark), giant squid, and blue whale are all real animals that actually existed or still exist today. The Kraken is purely a legend, with no fossil or living specimen ever found."
+      "category": "Cities Often Mistaken for Their Country's Capital, Except the City That Actually Is the Capital",
+      "explanation": "Sydney, Toronto, and Rio de Janeiro are all famous, large cities frequently mistaken for their country's capital, but none of them actually is. Brasília, by contrast, really is Brazil's capital, despite being less famous than Rio."
     },
     "2026-11-05": {
       "words": [
