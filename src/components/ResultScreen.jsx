@@ -105,10 +105,15 @@ export default function ResultScreen({
                 : `Share all completed (${completedCount})`}
             </button>
           )}
-          {won && (
+          {won && allCompleted && (
             <button className={styles.leaderboardButton} onClick={onViewLeaderboard}>
               <IconLeaderboard size={14} /> Today's leaderboard
             </button>
+          )}
+          {won && !allCompleted && (
+            <p className={styles.leaderboardHint}>
+              Finish all 3 difficulties today to see (and get on) the leaderboard.
+            </p>
           )}
           {!allCompleted && availableDifficulties.length > 0 ? (
             <button className={styles.playButton} onClick={onPlayAgain}>

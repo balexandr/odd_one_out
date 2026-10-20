@@ -95,6 +95,17 @@
   color: #fff;
 }
 
+.iconButtonLocked {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.iconButtonLocked:hover {
+  background: rgba(255,255,255,0.04);
+  border-color: rgba(255,255,255,0.08);
+  color: #888;
+}
+
 .statsIcon {
   width: 18px;
   height: 18px;

@@ -204,3 +204,21 @@
   color: #4ade80;
   font-variant-numeric: tabular-nums;
 }
+
+/* ── Per-difficulty sections (AllLeaderboardsPanel) ──────────── */
+.diffSection {
+  margin-bottom: 16px;
+}
+
+.diffSection:last-child {
+  margin-bottom: 0;
+}
+
+.diffSectionTitle {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666;
+  margin: 0 0 6px;
+}

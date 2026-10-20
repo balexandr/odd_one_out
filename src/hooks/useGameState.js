@@ -29,6 +29,22 @@ function loadDifficultyState(dateKey, difficulty) {
   }
 }
 
+// Reads all 3 difficulties' results for today in one call, for the
+// combined "submit to every board you qualify for" leaderboard check
+// (App.jsx) that only runs once all 3 are done - that check needs
+// every difficulty's outcome and elapsed time at once, not just
+// whichever one is currently active in the hook above.
+export function getAllDifficultyResults(dateKey) {
+  const results = {};
+  for (const difficulty of DIFFICULTY_ORDER) {
+    const saved = loadDifficultyState(dateKey, difficulty);
+    results[difficulty] = saved && saved.gameStatus !== 'playing'
+      ? { gameStatus: saved.gameStatus, elapsedMs: saved.elapsedMs ?? null }
+      : null;
+  }
+  return results;
+}
+
 function saveDifficultyState(dateKey, difficulty, state) {
   try {
     let stored = { dateKey, difficulties: {} };
@@ -121,7 +137,12 @@ export function useGameState() {
       setFeedback(saved.feedback);
       setShowFeedback(saved.gameStatus !== 'playing');
       setPuzzle(puzzleData);
-      setElapsedMs(null);
+      // Restore a finished difficulty's elapsed time too, not just null
+      // it out - needed so a score from earlier today (e.g. Easy, done
+      // before Medium/Hard) is still known once all 3 are complete and
+      // the combined leaderboard check runs (see getAllDifficultyResults
+      // below), even after switching away from this difficulty's tab.
+      setElapsedMs(saved.gameStatus !== 'playing' ? (saved.elapsedMs ?? null) : null);
       if (saved.gameStatus === 'playing') startTimeRef.current = performance.now();
     } else {
       // Initialize fresh game
@@ -140,8 +161,8 @@ export function useGameState() {
   // Persist state changes per difficulty
   useEffect(() => {
     if (!initialized || !puzzle) return;
-    saveDifficultyState(dateKey, difficulty, { words, guesses, gameStatus, feedback });
-  }, [words, guesses, gameStatus, feedback, initialized, difficulty, dateKey, puzzle]);
+    saveDifficultyState(dateKey, difficulty, { words, guesses, gameStatus, feedback, elapsedMs });
+  }, [words, guesses, gameStatus, feedback, elapsedMs, initialized, difficulty, dateKey, puzzle]);
 
   useEffect(() => {
     if (!initialized || !puzzle || gameStatus === 'playing') return;
@@ -166,7 +187,13 @@ export function useGameState() {
 
     saveShareResults(shareResults);
 
+    // Only counts toward the cross-game "Share all completed" tally
+    // once all 3 difficulties have a result, not after just one - this
+    // game is the only one in the suite with more than one puzzle per
+    // day, and finishing a single difficulty isn't "done for the day"
+    // the way finishing the one puzzle in every other game is.
     const completed = DIFFICULTY_ORDER.filter((d) => shareResults[dateKey][d]);
+    if (completed.length < DIFFICULTY_ORDER.length) return;
     const combinedLines = completed.map((d) => shareResults[dateKey][d].summaryLine).join('\n');
     recordTodayShare('oddoneout', dateKey, `Odd One Out #${puzzleNumber}\n${combinedLines}`);
   }, [initialized, puzzle, gameStatus, difficulty, guesses, words, puzzleNumber, dateKey]);

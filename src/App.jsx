@@ -1,12 +1,12 @@
 import { useState, useEffect, useCallback } from 'react';
-import { useGameState } from './hooks/useGameState';
+import { useGameState, getAllDifficultyResults } from './hooks/useGameState';
 import { useStats } from './hooks/useStats';
 import Header from './components/Header';
 import GameBoard from './components/GameBoard';
 import ResultScreen from './components/ResultScreen';
 import HowToPlay from './components/HowToPlay';
 import StatsScreen from './components/StatsScreen';
-import LeaderboardPanel from './components/LeaderboardPanel';
+import AllLeaderboardsPanel from './components/AllLeaderboardsPanel';
 import styles from './App.module.css';
 import { NoodleLogoIcon } from './components/NoodleLogo';
 import { IconCheckmark, IconShare } from './components/Icons';
@@ -15,6 +15,7 @@ import { toLeaderboardScore, leaderboardGameId } from './utils/leaderboardScore'
 import { fetchTodayBoard, findMyRow, wouldQualify } from './utils/leaderboard';
 
 const HOW_TO_PLAY_KEY = 'odd-one-out-how-to-play-seen';
+const DIFFICULTIES = ['easy', 'medium', 'hard'];
 
 export default function App() {
   const gameState = useGameState();
@@ -31,28 +32,36 @@ export default function App() {
     setShareAllCount(getCompletedTodayCount(gameState.dateKey));
   }, [gameState.gameStatus, gameState.dateKey]);
 
-  // Auto-opens the leaderboard (initials prompt included) a beat after
-  // a qualifying win, instead of making the player click "today's
-  // leaderboard" to find out they made the cut. Gated on elapsedMs
-  // too, same as the pendingScore passed to LeaderboardPanel below —
-  // a reload right after winning can leave it null (see leaderboardScore.js).
+  // Auto-opens the combined leaderboard (initials prompt included) a
+  // beat after finishing all 3 difficulties for the day, instead of
+  // making the player click "today's leaderboard" to find out they
+  // made the cut. Gated on allCompleted, not just a single win — this
+  // game has 3 separate leaderboard tracks (one per difficulty), and
+  // finishing just one used to be enough to get a submission chance
+  // on ITS board; now all 3 have to be done first, and whichever of
+  // them were wins get checked together in one combined step (see
+  // AllLeaderboardsPanel), since the per-difficulty tabs lock once
+  // played and there's no way back to submit one individually later.
   useEffect(() => {
-    if (gameState.gameStatus !== 'won' || gameState.elapsedMs == null) return;
-    const gameId = leaderboardGameId(gameState.difficulty);
+    if (!statsHook.allCompleted) return;
     const dateKey = gameState.dateKey;
     const t = setTimeout(() => {
-      const pending = toLeaderboardScore(gameState.elapsedMs);
-      fetchTodayBoard(gameId, dateKey).then((board) => {
-        if (!board.config) return;
-        if (findMyRow(gameId, board.rows)) return;
-        if (wouldQualify(pending.score, board.rows, board.config)) {
-          setShowLeaderboard(true);
-        }
+      const results = getAllDifficultyResults(dateKey);
+      const checks = DIFFICULTIES.map(async (d) => {
+        const result = results[d];
+        if (!result || result.gameStatus !== 'won' || result.elapsedMs == null) return false;
+        const gameId = leaderboardGameId(d);
+        const board = await fetchTodayBoard(gameId, dateKey);
+        if (!board.config || findMyRow(gameId, board.rows)) return false;
+        const pending = toLeaderboardScore(result.elapsedMs);
+        return wouldQualify(pending.score, board.rows, board.config);
+      });
+      Promise.all(checks).then((qualifies) => {
+        if (qualifies.some(Boolean)) setShowLeaderboard(true);
       });
     }, 2000);
     return () => clearTimeout(t);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [gameState.gameStatus, gameState.difficulty]);
+  }, [statsHook.allCompleted, gameState.dateKey]);
 
   const handleShareAll = async () => {
     const text = buildShareAllText(gameState.dateKey);
@@ -134,7 +143,8 @@ export default function App() {
       <Header
         onStatsClick={() => setShowStats(true)}
         onHowToPlayClick={() => setShowHowToPlay(true)}
-        onLeaderboardClick={() => setShowLeaderboard(true)}
+        onLeaderboardClick={() => { if (statsHook.allCompleted) setShowLeaderboard(true); }}
+        leaderboardLocked={!statsHook.allCompleted}
         difficulty={gameState.difficulty}
         puzzleNumber={gameState.puzzleNumber}
         onDifficultyChange={gameState.changeDifficulty}
@@ -179,14 +189,9 @@ export default function App() {
         />
       )}
       {showLeaderboard && (
-        <LeaderboardPanel
-          difficulty={gameState.difficulty}
+        <AllLeaderboardsPanel
           dateKey={gameState.dateKey}
-          pendingScore={
-            gameState.gameStatus === 'won' && gameState.elapsedMs != null
-              ? toLeaderboardScore(gameState.elapsedMs)
-              : null
-          }
+          resultsByDifficulty={getAllDifficultyResults(gameState.dateKey)}
           onClose={() => setShowLeaderboard(false)}
         />
       )}

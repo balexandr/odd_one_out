@@ -12,6 +12,7 @@ export default function Header({
   onStatsClick,
   onHowToPlayClick,
   onLeaderboardClick,
+  leaderboardLocked,
   difficulty,
   puzzleNumber,
   onDifficultyChange,
@@ -28,7 +29,13 @@ export default function Header({
           {puzzleNumber && <span className={styles.puzzleNumber}>#{puzzleNumber}</span>}
         </div>
         <div className={styles.actions}>
-          <button className={styles.iconButton} onClick={onLeaderboardClick} aria-label="Leaderboard">
+          <button
+            className={`${styles.iconButton} ${leaderboardLocked ? styles.iconButtonLocked : ''}`}
+            onClick={onLeaderboardClick}
+            disabled={leaderboardLocked}
+            aria-label="Leaderboard"
+            title={leaderboardLocked ? 'Finish all 3 difficulties today to unlock the leaderboard' : 'Leaderboard'}
+          >
             <IconLeaderboard size={20} />
           </button>
           <button className={styles.iconButton} onClick={onStatsClick} aria-label="Statistics">

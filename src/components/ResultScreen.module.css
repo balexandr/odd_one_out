@@ -175,6 +175,14 @@
   transform: translateY(-1px);
 }
 
+.leaderboardHint {
+  text-align: center;
+  font-size: 0.82rem;
+  color: #999;
+  margin: 0;
+  padding: 10px 12px;
+}
+
 .completedMessage {
   padding: 12px;
   border-radius: 6px;
