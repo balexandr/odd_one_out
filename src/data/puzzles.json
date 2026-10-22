@@ -2010,7 +2010,7 @@
         "Concert"
       ],
       "oddOne": 3,
-      "category": "Quiet Places for Reading or Learning, Except a Very Loud Event",
+      "category": "Places That Call for a Hushed Voice, Except One Event Where Shouting Along Is Basically the Point",
       "explanation": "Library, bookstore, and classroom are all places you'd keep your voice down. A concert is where you're practically expected to shout along."
     },
     "2026-11-11": {
@@ -2021,7 +2021,7 @@
         "Nap Time"
       ],
       "oddOne": 3,
-      "category": "Loud, Exciting Events, Except the Quietest Part of the Day",
+      "category": "Spectacles Built to Be Loud and Exciting, Except a Daily Ritual That's the Exact Opposite",
       "explanation": "A concert, parade, and fireworks show are all loud, exciting spectacles. Nap time is quiet, cozy, and the exact opposite of a spectacle."
     },
     "2026-11-12": {
@@ -2032,7 +2032,7 @@
         "Silent Reading Time"
       ],
       "oddOne": 3,
-      "category": "Parade Day Excitement, Except a Quiet Classroom Activity",
+      "category": "A Celebration That's Loud and Impossible to Ignore, Except the Calmest Fifteen Minutes of the School Day",
       "explanation": "Marching band, fireworks, and confetti are all part of a big, loud celebration. Silent reading time is the calmest fifteen minutes of the school day."
     },
     "2026-11-13": {
@@ -6997,8 +6997,8 @@
         "Francium"
       ],
       "oddOne": 3,
-      "category": "Chemical Elements Named After Scientists, Except an Element Named After a Country",
-      "explanation": "Curium, Einsteinium, and Nobelium are all named after famous scientists. Francium is named after the country France."
+      "category": "Elements That Honor a Real Scientist by Name, Except One That Honors a Country Instead",
+      "explanation": "Curium, Einsteinium, and Nobelium are all named after famous scientists (the Curies, Einstein, and Nobel). Francium breaks the pattern - it's named after the country France."
     },
     "2026-10-27": {
       "words": [
@@ -7008,8 +7008,8 @@
         "Polonium"
       ],
       "oddOne": 0,
-      "category": "Chemical Elements Named After Countries, Except an Element Named After a U.S. State",
-      "explanation": "Francium, Germanium, and Polonium are each named after a country (France, Germany, and Poland). Californium is named after the U.S. state of California."
+      "category": "Elements That Take Their Name From a Country, Except One Named for a U.S. State Instead",
+      "explanation": "Francium, Germanium, and Polonium each take their name from the country where they were discovered or honored (France, Germany, and Poland). Californium breaks that pattern - it's named after the U.S. state of California."
     },
     "2026-10-28": {
       "words": [
@@ -7019,8 +7019,8 @@
         "Americium"
       ],
       "oddOne": 1,
-      "category": "Elements Named After American Places, Except an Element Named After a Planet",
-      "explanation": "Californium, Berkelium, and Americium are all named after American places (California, Berkeley, and the Americas). Neptunium is named after the planet Neptune."
+      "category": "Elements Named for an American Place, Except One Named for a Planet Instead",
+      "explanation": "Californium, Berkelium, and Americium all take their names from American places (California, Berkeley, and the Americas). Neptunium breaks the run - it's named for the planet Neptune."
     },
     "2026-10-29": {
       "words": [
@@ -7173,8 +7173,8 @@
         "Israel"
       ],
       "oddOne": 3,
-      "category": "National Flags Featuring a Weapon, Except a Flag Featuring a Religious or Cultural Symbol Instead",
-      "explanation": "Mozambique's flag features a rifle, Oman's features crossed swords and a dagger, and Angola's features a machete. Israel's flag features the Star of David, a religious and cultural symbol, not a weapon."
+      "category": "Flags That Put a Weapon Front and Center, Except One That Puts a Religious Symbol There Instead",
+      "explanation": "Mozambique's flag features a rifle, Oman's features crossed swords and a dagger, and Angola's features a machete - all weapons. Israel's flag breaks the pattern with the Star of David, a religious and cultural symbol."
     },
     "2026-11-12": {
       "words": [
@@ -7184,8 +7184,8 @@
         "Pakistan"
       ],
       "oddOne": 0,
-      "category": "National Flags Featuring a Religious Symbol, Except a Flag That's Entirely Plain Colors With No Symbol at All",
-      "explanation": "Israel's flag features the Star of David, Saudi Arabia's features the Islamic declaration of faith, and Pakistan's features an Islamic crescent and star. Monaco's flag is just two plain horizontal stripes, red and white, with no symbol at all."
+      "category": "Flags Built Around a Religious Symbol, Except One That Skips a Symbol Entirely",
+      "explanation": "Israel's flag features the Star of David, Saudi Arabia's features the Islamic declaration of faith, and Pakistan's features an Islamic crescent and star - all religious. Monaco's flag has no symbol at all, just two plain horizontal stripes, red and white."
     },
     "2026-11-13": {
       "words": [
@@ -7195,8 +7195,8 @@
         "Ecuador"
       ],
       "oddOne": 3,
-      "category": "National Flags That Are Just Plain Blocks of Color With No Emblem, Except a Flag With an Extremely Detailed Coat of Arms",
-      "explanation": "Monaco, Poland, and Indonesia all have flags that are just plain blocks of color with no central emblem. Ecuador's flag features an extremely detailed coat of arms, complete with a condor, a mountain, and a ship."
+      "category": "Flags That Stay Symbol-Free With Just Plain Color Blocks, Except One That Goes the Opposite Direction With an Elaborate Coat of Arms",
+      "explanation": "Monaco, Poland, and Indonesia all have flags that are just plain blocks of color with no central emblem. Ecuador goes the other way entirely - its flag has an extremely detailed coat of arms, complete with a condor, a mountain, and a ship."
     },
     "2026-11-14": {
       "words": [
@@ -7228,8 +7228,8 @@
         "Mile"
       ],
       "oddOne": 3,
-      "category": "Units Used to Measure Weight or Mass, Except a Unit Used to Measure Distance",
-      "explanation": "Pound, kilogram, and ounce are all units of weight or mass. A mile is a unit of distance."
+      "category": "Units That Measure How Heavy Something Is, Except One That Measures How Far Away It Is",
+      "explanation": "Pound, kilogram, and ounce are all units of weight or mass - how heavy something is. A mile measures distance instead - how far away it is."
     },
     "2026-11-17": {
       "words": [
@@ -7239,8 +7239,8 @@
         "Fortnight"
       ],
       "oddOne": 3,
-      "category": "Units Used to Measure Distance, Except a Unit Used to Measure Time",
-      "explanation": "Mile, kilometer, and inch are all units of distance. A fortnight is a unit of time (two weeks), not distance."
+      "category": "Units That Measure How Far Apart Two Things Are, Except One That Measures How Long Something Takes",
+      "explanation": "Mile, kilometer, and inch all measure distance - how far apart two things are. A fortnight measures time instead - two weeks, how long something takes."
     },
     "2026-11-18": {
       "words": [
@@ -7250,8 +7250,8 @@
         "Ampere"
       ],
       "oddOne": 3,
-      "category": "Units Used to Measure Time, Except a Unit Used to Measure Electrical Current",
-      "explanation": "Fortnight, minute, and decade are all units of time. An ampere measures electrical current, not time."
+      "category": "Units That Measure How Long Something Lasts, Except One That Measures Something Flowing Through a Wire",
+      "explanation": "Fortnight, minute, and decade all measure time - how long something lasts. An ampere measures electrical current instead - how much electricity is flowing through a wire."
     },
     "2026-11-19": {
       "words": [
@@ -7305,8 +7305,8 @@
         "Sheet Music"
       ],
       "oddOne": 0,
-      "category": "Tools a Musician Actually Uses, Except a Tool That Measures Air Pressure",
-      "explanation": "Metronome, tuning fork, and sheet music are all genuine tools a musician relies on to practice and perform. A barometer measures atmospheric pressure, useful for predicting weather, not tuning an instrument."
+      "category": "Tools That Earn Their Keep in a Musician's Toolkit, Except One Tool That Belongs in a Weather Station",
+      "explanation": "Metronome, tuning fork, and sheet music are all genuine tools a musician relies on to practice and perform. A barometer belongs somewhere else entirely - it measures atmospheric pressure, useful for forecasting weather."
     },
     "2026-11-24": {
       "words": [
@@ -7316,8 +7316,8 @@
         "Ruler"
       ],
       "oddOne": 2,
-      "category": "Tools From a Geometry Class Pencil Case, Except a Tool for Predicting the Weather",
-      "explanation": "Compass (for drawing circles), protractor, and ruler are all classic tools from a geometry class. A barometer measures air pressure to help forecast weather, nothing to do with drawing shapes."
+      "category": "Tools You'd Actually Find in a Geometry Class Pencil Case, Except a Tool for Forecasting Tomorrow's Weather",
+      "explanation": "Compass (for drawing circles), protractor, and ruler are all classic tools from a geometry class. A barometer measures air pressure to help forecast weather - nothing to do with drawing shapes."
     },
     "2026-11-25": {
       "words": [
@@ -7327,8 +7327,8 @@
         "Protractor"
       ],
       "oddOne": 3,
-      "category": "Tools Used for Navigation, Except a Tool Used for Measuring Angles on Paper",
-      "explanation": "Magnetic compass, sextant, and GPS are all genuine tools sailors or travelers use to find their way. A protractor is a classroom tool for measuring angles on a flat piece of paper, no navigating involved."
+      "category": "Tools a Sailor or Traveler Genuinely Relies On to Find Their Way, Except a Tool That Never Leaves the Classroom",
+      "explanation": "Magnetic compass, sextant, and GPS are all genuine tools sailors or travelers use to find their way. A protractor stays in the classroom - it measures angles on a flat piece of paper, no navigating involved."
     },
     "2026-11-26": {
       "words": [
@@ -7338,8 +7338,8 @@
         "Slide Rule"
       ],
       "oddOne": 2,
-      "category": "Tools Historically Used to Do Math, Except a Tool Used to Write Words",
-      "explanation": "Abacus, calculator, and slide rule are all tools people have used across history to work out numbers. A typewriter is built for writing letters and words, no math involved."
+      "category": "Tools People Have Used Throughout History to Work Out Numbers, Except a Machine Built for Writing Instead",
+      "explanation": "Abacus, calculator, and slide rule are all tools people have used across history to work out numbers. A typewriter is built for a different job entirely - putting letters and words on a page."
     },
     "2026-11-27": {
       "words": [
@@ -7349,8 +7349,8 @@
         "Printing Press"
       ],
       "oddOne": 0,
-      "category": "Tools Historically Used to Produce Written Words, Except a Tool for Counting",
-      "explanation": "Typewriter, quill pen, and printing press are all tools that put words on a page across history. An abacus is a counting tool, made for arithmetic, not writing."
+      "category": "Tools That Have Put Words on a Page Throughout History, Except a Tool Built Purely for Arithmetic",
+      "explanation": "Typewriter, quill pen, and printing press are all tools that put words on a page across history. An abacus is built for a different job entirely - it's a counting tool, made for arithmetic."
     },
     "2026-11-28": {
       "words": [
@@ -7503,8 +7503,8 @@
         "Duet"
       ],
       "oddOne": 3,
-      "category": "Words Built Around the Idea of \"Three,\" Except a Word Built Around \"Two\"",
-      "explanation": "Trio, triplet, and trinity are all words rooted in the concept of three of something. A duet is specifically a performance by two people, rooted in \"duo,\" not three."
+      "category": "Words Rooted in the Idea of Three, Except One Word Rooted in Two Instead",
+      "explanation": "Trio, triplet, and trinity are all words rooted in the concept of three of something. A duet carries a different number - it's specifically a performance by two people, rooted in \"duo,\" not three."
     },
     "2026-12-12": {
       "words": [
@@ -7514,8 +7514,8 @@
         "Bilingual"
       ],
       "oddOne": 1,
-      "category": "Words Built From the Latin Prefix for \"Two,\" Except a Word Built From the Prefix for \"Three\"",
-      "explanation": "Bicycle (two wheels), biceps (technically two-headed muscle), and bilingual (two languages) all use the \"bi-\" prefix meaning two. Tripod uses \"tri-,\" meaning three, like its three legs."
+      "category": "Words Hiding the Latin Prefix for Two, Except One Hiding the Prefix for Three Instead",
+      "explanation": "Bicycle (two wheels), biceps (technically a two-headed muscle), and bilingual (two languages) all use the \"bi-\" prefix meaning two. Tripod breaks the pattern with \"tri-,\" meaning three, like its three legs."
     },
     "2026-12-13": {
       "words": [
@@ -7525,8 +7525,8 @@
         "Tricycle"
       ],
       "oddOne": 2,
-      "category": "Words Built From the Prefix Meaning \"Three,\" Except a Word Built From the Prefix Meaning \"Two\"",
-      "explanation": "Tricycle (three wheels), triangle (three angles), and triathlon (three events) all use \"tri-\" for three. Bilingual uses \"bi-\" instead, meaning two languages."
+      "category": "Words Where the Count Is Always Three, Except One Word Where the Count Is Two",
+      "explanation": "Tricycle (three wheels), triangle (three angles), and triathlon (three events) all use \"tri-\" for three. Bilingual breaks that count - it uses \"bi-\" instead, meaning two languages."
     },
     "2026-12-14": {
       "words": [
@@ -7580,8 +7580,8 @@
         "Mariana Trench"
       ],
       "oddOne": 0,
-      "category": "Some of the Lowest Points on or Near Earth, Except the Highest Point of All",
-      "explanation": "The Mariana Trench, Dead Sea shore, and Death Valley are all among the lowest elevations on Earth. Mount Everest is the exact opposite, the highest point on the planet's surface."
+      "category": "Elevation Drops to Its Lowest Point Here, Except One Spot Where It Rises to the Very Top",
+      "explanation": "The Mariana Trench, Dead Sea shore, and Death Valley are all among the lowest elevations on Earth. Mount Everest sits at the opposite extreme - the highest point on the planet's surface."
     },
     "2026-12-19": {
       "words": [
@@ -7591,8 +7591,8 @@
         "Verkhoyansk"
       ],
       "oddOne": 1,
-      "category": "Some of the Coldest Recorded Places on Earth, Except One of the Hottest",
-      "explanation": "Vostok Station (Antarctica) and Verkhoyansk (Siberia) have recorded some of the coldest temperatures ever measured on Earth, and the Sahara can get bitterly cold at night despite its reputation. Death Valley holds the record for the hottest air temperature ever reliably recorded on the planet."
+      "category": "Temperatures Have Plunged to Record Lows at Each of These, Except One Place That Holds the Record for Scorching Heat",
+      "explanation": "Vostok Station (Antarctica) and Verkhoyansk (Siberia) have recorded some of the coldest temperatures ever measured on Earth, and the Sahara can get bitterly cold at night despite its reputation. Death Valley holds the opposite record - the hottest air temperature ever reliably recorded on the planet."
     },
     "2026-12-20": {
       "words": [
@@ -7602,8 +7602,8 @@
         "Sahara"
       ],
       "oddOne": 1,
-      "category": "Some of the Hottest Places on Earth, Except the Coldest Continent of All",
-      "explanation": "Death Valley, the Sahara, and the Dasht-e Lut desert in Iran have all recorded some of the highest surface temperatures ever measured. Antarctica holds the record for the coldest temperature ever recorded on the planet, the polar opposite."
+      "category": "Temperatures Have Soared to Record Highs at Each of These, Except a Continent That Holds the Record for Bitter Cold",
+      "explanation": "Death Valley, the Sahara, and the Dasht-e Lut desert in Iran have all recorded some of the highest surface temperatures ever measured. Antarctica holds the opposite record - the coldest temperature ever recorded on the planet."
     },
     "2026-12-21": {
       "words": [
